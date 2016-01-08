@@ -104,14 +104,15 @@ reality, I believe the community just shifted towards more modern
 forms of community building better suited to drawing people into the
 game - specifically, high quality video commentary.
 
-Game commentary is deeply important activity in the Go world, but
-prior to the last few years you would either have to read a book or
-understand Chinese, Korean, or Japanese well enough to watch a Go
+Game commentary is a deeply important activity in the Go world, but
+prior to the last few years you either had to read a book or
+understand enough Chinese, Korean, or Japanese to watch a Go
 television show.
 
-The best place to watch free Go commentary videos you ask?
+So what's the best place to watch free English friendly Go commentary
+videos you ask?
 
-Youtube.
+Youtube!
 
 ### Youtube
 
