@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Baduk"
+title:  "Hello Baduk!"
 date:   2015-12-30 09:22:48 -0500
 categories: baduk
 ---
