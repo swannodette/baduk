@@ -213,7 +213,7 @@ as it is today. I've found [SmartGo's Go Books](https://gobooks.com)
 to be another indispensible tool on the path to achieving further
 insights about the nature of Go.
 
-## Books
+### Books
 
 There are a few good modern books for beginners in
 English these days but the following I can vouch for without
@@ -249,7 +249,7 @@ problems presented in the later series are significantly more
 challenging than the Graded Go series but if you've gotten this far I
 think you'll find that you'll absorb far more than you won't.
 
-## Tsumego
+### Tsumego
 
 Learning Go feel more like learning a new language than learning a
 game. If you want to pick up a new language you have to practice a
@@ -283,7 +283,7 @@ Actually review your games.
 
 Get a copy of Invicible: The Games of Shusaku.
 
-## Playing Slow, Playing Fast
+### Playing Slow, Playing Fast
 
 In The Natural Way to Draw, Nicolaides emphasizes the importance of
 drawing both very slowly (3 hour studies) and very quickly (3 second
