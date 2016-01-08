@@ -146,28 +146,54 @@ src="https://www.youtube.com/embed/WZua0De9Zwk" frameborder="0" allowfullscreen>
 ### Internet Go Servers
 
 There a quite a few Internet Go Servers and I'll only talk about the
-ones I am active on. Notably missing here are Tygem and the Online Go
+ones I am active on. Notably missing here are Tygem and the Online-Go
 Server. My impression is that they are both fantastic places to play
-and in particular the Online Go Server may be better suited for people
-just starting out who want to play a friendly game.
+and in particular the Online-Go Server may be better suited for people
+just starting out who want to play a friendly game. Tygem has many
+Korean players which usually means you may have a harder time getting
+your bearings as the community is considerably stronger on average.
+
+I only have extensive experience with Dragon Go Server and the Kiseido
+Go Server so I will focus on these for now.
 
 ### Dragon Go Server
 
-Dragon Go Server is a simple turn based server with simple clients for
-both Android and iOS. For your first games you may might want to try a
-couple of 9x9s.
+[Dragon Go Server](http://senseis.xmp.net/?DGS) (DGS) is a simple turn
+based server with clients for both Android and iOS. For your
+first games you may might want to try a couple of 9x9s with a stranger
+or a friend who is also interested in the game.
+
+Turn based Go means you get to spend a lot of time on each move. It's
+a great way to work on your reading skills without working up your
+blood pressure due to a ticking clock.
+
+However being able to think quickly on your feet is another valuable Go
+skill to develop so you should also spend some time on
+faster paced games with a strong post-game review culture.
+
+Enter KGS.
 
 ### Kiseido Go Server
 
-One thing to watch out for when you're just starting out in the
-beginning ranks is unkind players who are also trying to assess their
-interest in the game. I think one way to avoid this is try servers
-which are more welcoming for beginners.
+The [Kiseido Go Server](http://senseis.xmp.net/?KGS) (KGS). It
+requires use a very clunky looking Java application which is actually
+quite stable, featureful and intuitive to use.
 
-This above all is what has kept me playing on KGS despite it's
-extremely antiquated Java based client. There are a variety of rooms
-and the Teaching Ladder is a good place to try and pair up with a
-stronger player to get a better feel for the game.
+When you starting out with the Go the hardest thing is simply playing
+meaningful games where you're actually learning something. The biggest
+issue with low double-digit kyu games (25k-15k) is that you two people
+pitted against each other neither which have a good feel for the
+mechanics of the game.
+
+For this reason it's important to reach out to stronger players and
+request a teaching game. You'll find yourself improving at a much more
+rapid rate and soon enough you'll be able to return the favor by
+showing then next double-digit kyu (DDK) the ropes.
+
+The strong teaching and review culture of KGS is absolutely the best
+thing going for it. KGS also regularly broadcasts Go tournaments from
+around the world and lots of players gather around to predict the next
+move and make jokes (kibitzing).
 
 ### Translated Videos
 
