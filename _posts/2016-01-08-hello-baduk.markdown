@@ -102,24 +102,26 @@ seemed the English speaking online Go community was waning - many once
 popular English Go blogs are now inactive or unavailable. But in
 reality, I believe the community just shifted towards more modern
 forms of community building better suited to drawing people into the
-game, namely, high quality video commentary.
+game - specifically, high quality video commentary.
 
 Game commentary is deeply important activity in the Go world, but
 prior to the last few years you would either have to read a book or
 understand Chinese, Korean, or Japanese well enough to watch a Go
 television show.
 
-The best place to watch free Go commentary videos?
+The best place to watch free Go commentary videos you ask?
 
 Youtube.
 
 ### Youtube
 
 My current favorite of all the Go commentary channels on Youtube is
-Lee Hajin's (Korean 3p). Lee Hajin, Secretary General of the
-International Go Federation, plays relatively fast paced games while
-speaking in a highly engaging way about her thought process. Cannot be
-over-recommended:
+Lee Hajin's (Korean 3p)
+[Haylee's World of Go/Baduk](https://www.youtube.com/channel/UCTji1kQNoWIH85dB_Vxka9g). Lee
+Hajin, who is also the Secretary General of the
+[International Go Federation](http://www.intergofed.org), plays
+relatively fast paced games while speaking in a highly engaging way
+about her thought process. Cannot be over-recommended:
 
 <iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420"
 src="https://www.youtube.com/embed/AYdrtLdxxG8" frameborder="0"
