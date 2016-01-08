@@ -97,8 +97,8 @@ game. I can't say enough good things about SmartGo. Just get it.
 
 While playing and studying by yourself is an important part of your
 growth as a Go player, it's tough to stay enthuasiastic when you don't
-feel like you're a part of a larger community. For a time it may have
-seemed the English speaking online Go community was waning - many
+feel like you're a part of a larger community. For a time it even
+seemed the English speaking online Go community was waning - many once
 popular English Go blogs are now inactive or unavailable. But in
 reality, I believe the community just shifted towards more modern
 forms of community building better suited to drawing people into the
