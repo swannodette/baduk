@@ -165,9 +165,9 @@ Go Server so I will focus on these for now.
 ### Dragon Go Server
 
 [Dragon Go Server](http://senseis.xmp.net/?DGS) (DGS) is a simple turn
-based server with clients for both Android and iOS. For your
-first games you may might want to try a couple of 9x9s with a stranger
-or a friend who is also interested in the game.
+based server with clients for both Android and iOS. For your first
+games you may want to try a couple of 9X9s (the full game is 19x19)
+with a stranger or a friend who is also interested in the game.
 
 Turn based Go means you get to spend a lot of time on each move. It's
 a great way to work on your reading skills without working up your
