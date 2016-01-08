@@ -136,7 +136,7 @@ is filled with drama and history:
 <iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420" src="https://www.youtube.com/embed/ME0SQK_5BNY" frameborder="0" allowfullscreen></iframe>
 
 [Go Game Guru](http://gogameguru.com) has become an essential source
-of Go news for a English speaking audience. An Younggil (Korean 3p)
+of Go news for an English speaking audience. An Younggil (Korean 8p)
 gives deep, deep commentary on a variety of games. His style is highly
 analytical, and to be honest his lectures often move so quickly as to be
 completely over my head, but that just makes me that more excited
