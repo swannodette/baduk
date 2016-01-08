@@ -64,7 +64,7 @@ expenditure of effort.
 ## Mobile Technology
 
 <image style="align: center; border: 1px solid black; padding: 2px;
-margin-bottom: 2em;" width="100%" src="/images/smartgo.jpg" />
+margin-bottom: 2em;" width="736" src="/images/smartgo.jpg" />
 
 Who would have thought a 3000 year old-game ago would be so well
 suited for our touch-enabled mobile computing present? There's quite a
@@ -120,7 +120,7 @@ International Go Federation, plays relatively fast paced games while
 speaking in a highly engaging way about her thought process. Cannot be
 over-recommended:
 
-<iframe style="margin: 1em 0;" width="100%" height="420"
+<iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420"
 src="https://www.youtube.com/embed/AYdrtLdxxG8" frameborder="0"
 allowfullscreen></iframe>
 
@@ -128,7 +128,7 @@ Nick Sibicky records his Go lectures and like Lee Hajin's channel is a
 treasure trove of Go commentary. His delivery style on classic games
 is filled with drama and history:
 
-<iframe style="margin: 1em 0;" width="100%" height="420" src="https://www.youtube.com/embed/ME0SQK_5BNY" frameborder="0" allowfullscreen></iframe>
+<iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420" src="https://www.youtube.com/embed/ME0SQK_5BNY" frameborder="0" allowfullscreen></iframe>
 
 [Go Game Guru](http://gogameguru.com) has become an essential source
 of Go news for a English speaking audience. An Younggil (Korean 3p)
@@ -137,7 +137,7 @@ analytical, and to be honest his lectures often move so quickly as to be
 completely over my head, but that just makes me that more excited
 to deepen my understanding of the game!
 
-<iframe style="margin: 1em 0;" width="100%" height="420"
+<iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420"
 src="https://www.youtube.com/embed/WZua0De9Zwk" frameborder="0" allowfullscreen></iframe>
 
 ### Internet Go Servers
