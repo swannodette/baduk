@@ -146,6 +146,10 @@ src="https://www.youtube.com/embed/WZua0De9Zwk" frameborder="0" allowfullscreen>
 
 ### Internet Go Servers
 
+Eventually you'll want to try to play some games. Unless there's a
+very active Go club in your neighborhood, an online Go server will be
+the easiest way to put theory into practice.
+
 There a quite a few Internet Go Servers and I'll only talk about the
 ones I am active on. Notably missing here are Tygem and the Online-Go
 Server. My impression is that they are both fantastic places to play
@@ -154,7 +158,7 @@ just starting out who want to play a friendly game. Tygem has many
 Korean players which usually means you may have a harder time getting
 your bearings as the community is considerably stronger on average.
 
-I only have extensive experience with Dragon Go Server and the Kiseido
+I only have extensive experience with the Dragon Go Server and the Kiseido
 Go Server so I will focus on these for now.
 
 ### Dragon Go Server
