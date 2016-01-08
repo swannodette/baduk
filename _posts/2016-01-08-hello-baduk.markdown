@@ -226,31 +226,43 @@ themselves since there aren't enough problems, so you should
 supplement these books with
 [Graded Go Problems for Beginners Volumes 1-4](http://senseis.xmp.net/?GradedGoProblemsForBeginners).
 
-These 9 books can be easily consumed in a few months but they
-could easily keep you busy for a year if combined with active play. With
-the exception of many the first volumes of each series, they warrant
-multiple viewings.
+These 9 books can be easily consumed in a few months but they could
+just as well keep you busy for a year if combined with active
+play. With the exception of many the first volumes of each series,
+they warrant repeat readings.
 
 If you somehow devour all of this, you'll be ready to switch to
 meatier material. I strongly recommend a book that I only recently
 picked up,
 [Yilun Yang's The Fundamental Princples of Go](http://senseis.xmp.net/?FundamentalPrinciplesOfGo). Until
-I read this book I frankly found most other books on opening theory
-as well joseki fairly bewildering. This is a very hard book, but
-like the other books it gives more with each read. The book while
-thourough, also gives you an easy to remember recall set of
-principles that you can bring to each game you play.
+I read this book I frankly found most other books on opening theory as
+well joseki (standard opening patterns) fairly bewildering. This is a
+very hard book, but like the other books it gives more with each
+read. The book while thorough, also gives you an easy to remember
+recall set of principles that you can bring to each game you play.
 
-I've also enjoyed [Lessons in the Fundamentals of Go]() as well as all the books in the
+I've also enjoyed
+[Lessons in the Fundamentals of Go](http://senseis.xmp.net/?LessonsInTheFundamentalsOfGo)
+as well as all the books in the
 [Elementary Go Series](http://senseis.xmp.net/?ElementaryGoSeries). The
-problems presented in the later series are significantly more challenging
-than the Graded Go series but if you've gotten this far I think you'll
-find that you'll absorb far more than you won't.
+problems presented in the later series are significantly more
+challenging than the Graded Go series but if you've gotten this far I
+think you'll find that you'll absorb far more than you won't.
 
 ## Tsumego
 
-Do go problems everyday. You'll likely find Graded Go Problems for
-Beginners Volumes 1 & 2 relatively simple to get through. Starting
+Learning Go feel more like learning a new language than learning a
+game. If you want to pick up a new language you have to practice a
+little bit each day. A great way to build up your reading skills is by
+working through Tsumego, or Go Problems.
+
+While technically Tsumego refers to life and death problems only,
+English speakers often use the word to refer to Go problems more
+generally.
+
+Do a few Go problems everyday. You'll likely find Graded Go Problems for
+Beginners Volumes 1 & 2 relatively simple to get through. Even for
+absolute beginners they rarely take longer than a minute to solve. Starting
 with Volume 3 things become significantly more challenging. Often the
 obvious move does not actually work and you should take a moment to
 find your opponent's best counter play. The first time through the
@@ -299,7 +311,13 @@ I play a couple of games a week on KGS and I have 3-4 games going at a
 time on DGS. If find that this is enough to keep me busy and if I'm
 studying my game keep on improving anyhow.
 
-## Useful Links
+## Conclusion
+
+Hopefully this post gets you excited about diving into the world of
+Go. If you stick with it I guarantee you'll discover a game that will
+keep you intrigued for a lifetime!
+
+## More Useful Links
 
 Here's a variety of useful links that I've cobbled together from
 various sources that didn't fit into the main body of the post.
