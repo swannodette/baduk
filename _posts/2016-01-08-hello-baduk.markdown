@@ -16,10 +16,11 @@ I first encountered Baduk (as it is called in Korea) as a child at my
 grandmother's house in Uijeongbui. However, I did not learn the
 beautifully simple rules until years later, and initially, I was just
 intrigued by the lack of strong computer Go technology; the strongest
-computer Go programs of the early 2000's floundered in
-the beginner ranks. Curiosity drove me to a local Austin, Texas
-game shop where I picked up a couple of books on Go and an inexpensive
-set.
+computer Go programs of the early 2000's floundered in the beginner
+ranks. I found this particularly puzzling since it only takes about 15
+minutes or so to learn the rules. Curiosity drove me to a local
+Austin, Texas game shop where I picked up a couple of books on Go and
+an inexpensive set.
 
 In rather short order, I found it difficult to further advance my
 understanding of the game. Learning by yourself without a support
@@ -200,52 +201,53 @@ thing going for it. KGS also regularly broadcasts Go tournaments from
 around the world and lots of players gather around to predict the next
 move and make jokes (kibitzing).
 
-### Translated Videos
-
 ## Learning
 
-Learning to play Go has never been so straightforward. Thanks to
-tablets and the popularity of Internet Go, the amount of support for
-picking up the game is incredible.
+Just watching videos and playing won't alone be enough to improve your
+understanding of the game. Eventually you'll want to spend some time
+with a book to give some defined shape to what at this point are only
+vague intuitions.
+
+Thankfully learning to play Go has never, ever been so straightforward
+as it is today. I've found [SmartGo's Go Books](https://gobooks.com)
+to be another indispensible tool on the path to achieving further
+insights about the nature of Go.
 
 ## Books
 
-My first Go book was [Kaoru Iwamoto's Go for
-Beginners](http://senseis.xmp.net/?GoForBeginners). While
-comprehensive, the book is incredibly terse and a bit old-fashioned in
-terms of its delivery. There are a few good modern books for beginners in
+There are a few good modern books for beginners in
 English these days but the following I can vouch for without
-hesitation:
+hesitation having read them several times.
 
 [Learn To Play Go by Janice Kim & Soo-hyun Jeong Volumes 1-5](http://senseis.xmp.net/?LearnToPlayGoSeries). These
 books are a great way to get a feel for the big ideas of the game
 delivered in an intuitive style. They don't work completely by
-themselves since there aren't enough problems. So you should
+themselves since there aren't enough problems, so you should
 supplement these books with
 [Graded Go Problems for Beginners Volumes 1-4](http://senseis.xmp.net/?GradedGoProblemsForBeginners).
 
-These 9 books can be easily consumed in a couple of months but they
-could easily keep you busy for year if combined with active play. With
-the exception of the first volumes of each series they warrant
-multiple reads.
+These 9 books can be easily consumed in a few months but they
+could easily keep you busy for a year if combined with active play. With
+the exception of many the first volumes of each series, they warrant
+multiple viewings.
 
 If you somehow devour all of this, you'll be ready to switch to
 meatier material. I strongly recommend a book that I only recently
-picked up
-[Yilun Yang's The Fundamental Princple's of Go](http://senseis.xmp.net/?FundamentalPrinciplesOfGo). Until
+picked up,
+[Yilun Yang's The Fundamental Princples of Go](http://senseis.xmp.net/?FundamentalPrinciplesOfGo). Until
 I read this book I frankly found most other books on opening theory
 as well joseki fairly bewildering. This is a very hard book, but
-like the other books it gives more with each reach. The book is
-comprehensive but it also gives you an easy to remember series of
-principles to bring into every game you play.
+like the other books it gives more with each read. The book while
+thourough, also gives you an easy to remember recall set of
+principles that you can bring to each game you play.
 
-I've enjoyed [Lessons in the Fundamentals of Go]() as well as all the books in the
+I've also enjoyed [Lessons in the Fundamentals of Go]() as well as all the books in the
 [Elementary Go Series](http://senseis.xmp.net/?ElementaryGoSeries). The
-problems presented in these series are significantly more challenging
-than the graded go series but if you've gotten this far I think you'll
+problems presented in the later series are significantly more challenging
+than the Graded Go series but if you've gotten this far I think you'll
 find that you'll absorb far more than you won't.
 
-## Studying
+## Tsumego
 
 Do go problems everyday. You'll likely find Graded Go Problems for
 Beginners Volumes 1 & 2 relatively simple to get through. Starting
@@ -296,8 +298,6 @@ your losing games.
 I play a couple of games a week on KGS and I have 3-4 games going at a
 time on DGS. If find that this is enough to keep me busy and if I'm
 studying my game keep on improving anyhow.
-
-## Opening Theory & Joseki
 
 ## Useful Links
 
