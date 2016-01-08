@@ -140,7 +140,7 @@ is filled with drama and history:
 of Go news for an English speaking audience. An Younggil (Korean 8p)
 gives deep, deep commentary on a variety of games. His style is highly
 analytical, and to be honest his lectures often move so quickly as to be
-completely over my head, but that just makes me that more excited
+completely over my head, but that just makes me that much more excited
 to deepen my understanding of the game!
 
 <iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420"
