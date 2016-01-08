@@ -68,15 +68,15 @@ margin-bottom: 2em;" width="736" src="/images/smartgo.jpg" />
 
 Who would have thought a 3000 year old-game ago would be so well
 suited for our touch-enabled mobile computing present? There's quite a
-few Go applications for mobile devices but for me the
-SmartGo series is a complete game changer for anyone armed with an iOS
-device that wants to pick up Go at a reasonable clip.
+few Go applications for mobile devices but SmartGo series is a
+complete game changer for anyone armed with an iOS device that wants
+to pick up Go at a reasonable clip.
 
 A couple of years ago I purchased
 [SmartGo Player](https://www.smartgo.com/player.html) for a couple of
 bucks. I was so impressed by the experience that I quickly upgraded to
 [SmartGo Kifu](https://www.smartgo.com/kifu.html). This is a one stop
-for playing against the computer, trying problems (2000+), studying
+shop for playing against the computer, practicing problems (2000+), studying
 professional Go games (80,000+), and reviewing and annotating your own
 games. It works perfectly with the
 [SGF](https://en.wikipedia.org/wiki/Smart_Game_Format) format
@@ -95,13 +95,13 @@ game. I can't say enough good things about SmartGo. Just get it.
 ## Internet
 
 While playing and studying by yourself is an important part of your
-growth as a Go player, it's tough to stay enthuasiastic without
-feeling like you're a part of a larger community. For a time it may
-have seemed the English speaking online Go community was waning - many
+growth as a Go player, it's tough to stay enthuasiastic when you don't
+feel like you're a part of a larger community. For a time it may have
+seemed the English speaking online Go community was waning - many
 popular English Go blogs are now inactive or unavailable. But in
-reality, I believe the community has shifted towards more modern
-community building tools better suited to the game, namely, high
-quality video commentary.
+reality, I believe the community just shifted towards more modern
+forms of community building better suited to drawing people into the
+game, namely, high quality video commentary.
 
 Game commentary is deeply important activity in the Go world, but
 prior to the last few years you would either have to read a book or
