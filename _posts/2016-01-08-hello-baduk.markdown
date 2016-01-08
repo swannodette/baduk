@@ -45,9 +45,9 @@ The on-ramping story for Go is significantly less inviting. The
 problem in many ways boils down to language barriers. The vast
 majority of contemporary Go literature, and thus pedagogy, is only
 available in Chinese, Japanese and Korean. Most of the good books
-available in English are from the 70s, and while unquestionably
-classics, they suffer from an old fashioned approach to teaching
-Go.
+available in English are Japanese translations from the 70s, and while
+unquestionably classics, they suffer from an old fashioned approach to
+teaching Go.
 
 I believe a couple factors are swinging things in the right direction
 for a whole new level of popularity for Go in the States - the wide
@@ -55,12 +55,12 @@ availability of inexpensive mobile touch-enabled technology, and the
 embrace of the Internet by the growing English friendly Go community.
 
 In this post I hope to draw a map for the would-be Go enthusiast. Go
-information is unevenly distributed across the World Wide Web. Over
-the years I stumbled about considerably and I hope to save the next
-adventurer some time. The following links and suggestions are meant to
-quickly introduce a newcomer to the wonderful world of Go and give a
-reasonable path to consistent improvement at the game without an undue
-expenditure of effort.
+information is unevenly distributed across the World Wide Web and I
+have stumbled about considerably hungry for information. I hope to
+save the next adventurer some time; the following links and
+suggestions are meant to quickly introduce a newcomer to the wonderful
+world of Go and give a reasonable path to consistent improvement at
+the game without an undue expenditure of effort.
 
 ## Mobile Technology
 
