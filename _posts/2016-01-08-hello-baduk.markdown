@@ -57,7 +57,7 @@ embrace of the Internet by the growing English friendly Go community.
 
 In this post I hope to draw a map for the would-be Go enthusiast. Go
 information is unevenly distributed across the World Wide Web and
-requires a surprisingly amount of dedicated stumbling about. I hope to
+requires a surprising amount of dedicated stumbling about. I hope to
 save the next adventurer some time; the following links and
 suggestions are meant to quickly introduce a newcomer to the wonderful
 world of Go and give a reasonable path to consistent improvement at
