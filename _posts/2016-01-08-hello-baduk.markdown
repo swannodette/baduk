@@ -151,7 +151,7 @@ Eventually you'll want to try to play some games. Unless there's a
 very active Go club in your neighborhood, an online Go server will be
 the easiest way to put theory into practice.
 
-There a quite a few Internet Go Servers and I'll only talk about the
+There are several Internet Go servers to choose from and I'll only talk about the
 ones I am active on. Notably missing here are Tygem and the Online-Go
 Server. My impression is that they are both fantastic places to play
 and in particular the Online-Go Server may be better suited for people
