@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello Baduk!"
-date:   2015-12-30 09:22:48 -0500
+date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
@@ -13,19 +13,19 @@ Go. My enthusiasm for this incredible game has finally grown enough to
 start a dedicated blog about it.
 
 I first encountered Baduk (as it is called in Korea) as a child at my
-grandmother's house in Uijeongbui, though I did not learn the
-beautifully simple rules until years later. Initially, I was just
+grandmother's house in Uijeongbui. However, I did not learn the
+beautifully simple rules until years later, and initially, I was just
 intrigued by the lack of strong computer Go technology; the strongest
-computer Go programs of the early 2000's floundered embarassingly in
+computer Go programs of the early 2000's floundered in
 the beginner ranks. Curiosity drove me to a local Austin, Texas
 game shop where I picked up a couple of books on Go and an inexpensive
 set.
 
-Quickly, I found it difficult to further advance my understanding of
-the game. Learning by yourself without a support network is a long,
-grueling process. Go, like Chess and other great games, is
-fundamentally social phenomena; you need players, teachers, clubs,
-tournaments and so forth.
+In rather short order, I found it difficult to further advance my
+understanding of the game. Learning by yourself without a support
+network is a long, grueling process. Go, like Chess and other great
+games, is fundamentally social phenomena; you need players, teachers,
+clubs, tournaments and so forth.
 
 Unfortunately, unlike Chess in the United States, Go has never had a
 figure in the popular consciousness to bolster its troops. The
@@ -55,9 +55,10 @@ availability of inexpensive mobile touch-enabled technology, and the
 embrace of the Internet by the growing English friendly Go community.
 
 In this post I hope to draw a map for the would-be Go enthusiast. Go
-information is surprisingly unevenly distributed across the World Wide
-Web. The following links and suggestions are meant to quickly
-introduce a newcomer to the wonderful world of Go and give a
+information is unevenly distributed across the World Wide Web. Over
+the years I stumbled about considerably and I hope to save the next
+adventurer some time. The following links and suggestions are meant to
+quickly introduce a newcomer to the wonderful world of Go and give a
 reasonable path to consistent improvement at the game without an undue
 expenditure of effort.
 
@@ -68,7 +69,7 @@ margin-bottom: 2em;" width="736" src="/images/smartgo.jpg" />
 
 Who would have thought a 3000 year old-game ago would be so well
 suited for our touch-enabled mobile computing present? There's quite a
-few Go applications for mobile devices but SmartGo series is a
+few Go applications for mobile devices but the SmartGo series is a
 complete game changer for anyone armed with an iOS device that wants
 to pick up Go at a reasonable clip.
 
