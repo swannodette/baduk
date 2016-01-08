@@ -89,7 +89,7 @@ Books (more on this later), you can easily open up a SGF file and try
 variations and make annotations on lines of play.
 
 Prior to SmartGo, digging into a game or problem required breaking out
-the goban and working through the variations. Eventually this will
+the goban (Go board) and working through the variations. Eventually this will
 become good practice but it requires far more memory dexterity than
 can be expected from beginners trying to build an interest in the
 game. I can't say enough good things about SmartGo. Just get it.
