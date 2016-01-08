@@ -174,8 +174,8 @@ a great way to work on your reading skills without working up your
 blood pressure due to a ticking clock.
 
 However being able to think quickly on your feet is another valuable Go
-skill to develop so you should also spend some time on
-faster paced games with a strong post-game review culture.
+skill to develop so you should also spend some playing
+faster paced games on a server with a strong post-game review culture.
 
 Enter KGS.
 
