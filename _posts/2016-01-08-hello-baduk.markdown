@@ -122,8 +122,9 @@ Lee Hajin's (Korean 3p)
 [Haylee's World of Go/Baduk](https://www.youtube.com/channel/UCTji1kQNoWIH85dB_Vxka9g). Lee
 Hajin, who is also the Secretary General of the
 [International Go Federation](http://www.intergofed.org), plays
-relatively fast paced games while speaking in a highly engaging way
-about her thought process. Cannot be over-recommended:
+relatively fast paced games on Tygem or the Kiseido Go Server while
+speaking in a highly engaging way about her thought process. Her
+channel cannot be over-recommended:
 
 <iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420"
 src="https://www.youtube.com/embed/AYdrtLdxxG8" frameborder="0"
