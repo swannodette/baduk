@@ -271,7 +271,7 @@ relatively simple to get through. Even for absolute beginners the
 problems rarely take longer than a minute to solve. Starting with Volume 3
 things become significantly more challenging. Often the obvious move
 does not actually work and you should take a moment to find your
-opponent's best counter play. Counter to what many people suggest, I
+opponent's best counter play. Contrary to what some people suggest, I
 don't believe it's a issue to look at the answer if you cannot solve a
 problem in a reasonable amount of time. Often problems which you find
 difficult involve some fundamental insight you either haven't
