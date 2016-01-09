@@ -152,7 +152,7 @@ src="https://www.youtube.com/embed/WZua0De9Zwk" frameborder="0" allowfullscreen>
 
 The [American Go Association](http://usgo.org) (AGA) has started
 delivering live coverage of AGA tournaments and as well as notable
-events from the broader Go World. The live commentary of the final
+events from the broader Go world. The live commentary of the final
 game between two of the world's top players, Ke Jie (China 9p) and Lee
 Sedol (Korea 9p), drew a record breaking 14,000 viewers:
 
