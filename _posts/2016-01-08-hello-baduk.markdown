@@ -182,37 +182,40 @@ Enter KGS.
 
 ### Kiseido Go Server
 
-The [Kiseido Go Server](http://senseis.xmp.net/?KGS) (KGS). It
-requires use a very clunky looking Java application which is actually
-quite stable, featureful and intuitive to use.
+The [Kiseido Go Server](http://senseis.xmp.net/?KGS) (KGS)
+requires using a very clunky-looking Java application that is actually
+surprisingly stable, featureful and intuitive to use.
 
-When you starting out with the Go the hardest thing is simply playing
-meaningful games where you're actually learning something. The biggest
-issue with low double-digit kyu games (25k-15k) is that you two people
+When you are just starting out with the Go, one of the hardest things to come by
+is games where you're actively learning something. The biggest
+issue with low double-digit kyu games (25k-15k) is that you have two people
 pitted against each other neither which have a good feel for the
-mechanics of the game.
+mechanics of the game yet.
 
 For this reason it's important to reach out to stronger players and
 request a teaching game. You'll find yourself improving at a much more
 rapid rate and soon enough you'll be able to return the favor by
-showing then next double-digit kyu (DDK) the ropes.
+showing the next low double-digit kyu (DDK) the ropes.
 
 The strong teaching and review culture of KGS is absolutely the best
 thing going for it. KGS also regularly broadcasts Go tournaments from
-around the world and lots of players gather around to predict the next
-move and make jokes (kibitzing).
+around the world and lots of players gather around to banter and
+occasionally predict the next move.
+
+Suffice to say, KGS is a whole lot of fun. Properly navigated it will
+kick start your love of the game in no time.
 
 ## Learning
 
-Just watching videos and playing won't alone be enough to improve your
+Just watching videos and playing online won't alone be enough to improve your
 understanding of the game. Eventually you'll want to spend some time
-with a book to give some defined shape to what at this point are only
+with a book to give some definite shape to what at this point are only
 vague intuitions.
 
-Thankfully learning to play Go has never, ever been so straightforward
+Thankfully learning to play Go has never ever been as straightforward
 as it is today. I've found [SmartGo's Go Books](https://gobooks.com)
-to be another indispensible tool on the path to achieving further
-insights about the nature of Go.
+to be another indispensible and convienient tool on the path to
+achieving further insights about the nature of Go.
 
 ### Books
 
@@ -229,8 +232,8 @@ supplement these books with
 
 These 9 books can be easily consumed in a few months but they could
 just as well keep you busy for a year if combined with active
-play. With the exception of many the first volumes of each series,
-they warrant repeat readings.
+play. With the exception of the first volumes of each series,
+these books warrant repeat reading.
 
 If you somehow devour all of this, you'll be ready to switch to
 meatier material. I strongly recommend a book that I only recently
@@ -239,8 +242,8 @@ picked up,
 I read this book I frankly found most other books on opening theory as
 well joseki (standard opening patterns) fairly bewildering. This is a
 very hard book, but like the other books it gives more with each
-read. The book while thorough, also gives you an easy to remember
-recall set of principles that you can bring to each game you play.
+read. The book while thorough, also gives you an easy to recall set of
+principles that you can bring to each game you play.
 
 I've also enjoyed
 [Lessons in the Fundamentals of Go](http://senseis.xmp.net/?LessonsInTheFundamentalsOfGo)
@@ -250,48 +253,48 @@ problems presented in the later series are significantly more
 challenging than the Graded Go series but if you've gotten this far I
 think you'll find that you'll absorb far more than you won't.
 
-### Tsumego
+### Tsumego & Game Review
 
-Learning Go feel more like learning a new language than learning a
+Learning Go feels much more like learning a new language than learning a
 game. If you want to pick up a new language you have to practice a
-little bit each day. A great way to build up your reading skills is by
-working through Tsumego, or Go Problems.
+little bit each day. Probably more than anything else Go is about
+reading, the ability to visualize lines of play without actually
+placing stones on the board.
 
-While technically Tsumego refers to life and death problems only,
-English speakers often use the word to refer to Go problems more
-generally.
+You'll probably find Graded Go Problems for Beginners Volumes 1 & 2
+relatively simple to get through. Even for absolute beginners they
+rarely take longer than a minute to solve. Starting with Volume 3
+things become significantly more challenging. Often the obvious move
+does not actually work and you should take a moment to find your
+opponent's best counter play. Counter to what many people suggest, I
+don't believe it's a issue to look at the answer if you cannot solve a
+problem in a reasonable amount of time. Often problems which you find
+difficult involve some fundamental insight you either haven't
+encountered before or haven't fully driven home. When you return to do
+the problem again in a later reading you'll have forgotten the answer
+but will be armed with the new knowledge needed to reach the solution
+this time around.
 
-Do a few Go problems everyday. You'll likely find Graded Go Problems for
-Beginners Volumes 1 & 2 relatively simple to get through. Even for
-absolute beginners they rarely take longer than a minute to solve. Starting
-with Volume 3 things become significantly more challenging. Often the
-obvious move does not actually work and you should take a moment to
-find your opponent's best counter play. The first time through the
-book my reading ability wasn't good enough to read out the lines of
-play. I had significant difficulty keeping positions in my
-head. Counter to what many people suggest, I would just use Smart Go
-to play the sequence picking the best move each time. You'll pick up
-important concepts.
+Graded Go Problems for Beginners Volume 4 is very challenging. You may
+find yourself starting this one several times and being quite
+bewildered. Stick with it. By the time you feel these problem are within
+reach you'll be stunned how much you can visualize in your head.
 
-Volume 4 is very challenging. You may find yourself starting this one
-several times and being quite bewildered. Stick with it. Eventually
-you'll be able to make it through Volume 3 quickly while still doing
-thorough readings.
+Again expect to read these books several times.
 
-Expect to read these books again and again.
-
-Actually review your games.
-
-Get a copy of Invicible: The Games of Shusaku.
+The other important piece of advice is to take the time to review your
+games, wins *and* losses.
 
 ### Playing Slow, Playing Fast
 
-In The Natural Way to Draw, Nicolaides emphasizes the importance of
-drawing both very slowly (3 hour studies) and very quickly (3 second
-studies). It's no different with Go. It's just as important to play
-very slow games where you have ample time to consider your options as
-it to play against the clock where the speed and accuracy of your
-reading ability is put to the test.
+In
+[The Natural Way to Draw](http://www.amazon.com/The-Natural-Way-Draw-Working/dp/0395530075),
+Nicolaides emphasizes the importance of drawing both very slowly (3
+hour studies) and very quickly (3 second studies). It's no different
+with Go. It's just as important to play very slow games where you have
+ample time to consider your options as it to play against the clock
+where the speed and accuracy of your reading ability is put to the
+test.
 
 While I still don't enjoy blitz games.
 
