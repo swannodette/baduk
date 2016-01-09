@@ -113,11 +113,11 @@ television show.
 So what's the best place to watch free English friendly Go commentary
 videos you ask?
 
-Youtube!
+YouTube!
 
-### Youtube
+### YouTube
 
-My current favorite of all the Go commentary channels on Youtube is
+My current favorite of all the Go commentary channels on YouTube is
 Lee Hajin's (Korean 3p)
 [Haylee's World of Go/Baduk](https://www.youtube.com/channel/UCTji1kQNoWIH85dB_Vxka9g). Lee
 Hajin, who is also the Secretary General of the
