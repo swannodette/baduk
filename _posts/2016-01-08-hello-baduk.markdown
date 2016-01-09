@@ -17,10 +17,10 @@ grandmother's house in Uijeongbu. However, I did not learn the
 beautifully simple rules until years later, and initially, I was just
 intrigued by the lack of strong computer Go technology; the strongest
 computer Go programs of the early 2000's floundered in the beginner
-ranks. I found this particularly puzzling since it only takes about 15
-minutes or so to learn the rules. Curiosity drove me to a local
-Austin, Texas game shop where I picked up a couple of books on Go and
-an inexpensive set.
+ranks. I found this particularly puzzling since it only takes about
+fifteen minutes or so to learn the rules. Curiosity drove me to a
+local Austin, Texas game shop where I picked up a couple of books on
+Go and an inexpensive set.
 
 In rather short order, I found it difficult to further advance my
 understanding of the game. Learning by yourself without a support
@@ -69,7 +69,7 @@ the game without an undue expenditure of effort.
 margin-bottom: 0.5em;" width="736" src="http://swannodette.github.io/baduk/assets/images/smartgo.jpg" />
 <p style="font-size: 12px; margin-bottom: 2em;">Photo of SmartGo by Anders Kierulf</p>
 
-Who would have thought a 3000 year old-game ago would be so well
+Who would have thought a 3000 year old-game would be so well
 suited for our touch-enabled mobile computing present? There's quite a
 few Go applications for mobile devices but the SmartGo series is a
 complete game changer for anyone armed with an iOS device that wants
