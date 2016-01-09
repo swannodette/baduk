@@ -114,7 +114,7 @@ television show.
 So what's the best place to watch free English friendly Go commentary
 videos you ask?
 
-YouTube!
+*YouTube!*
 
 ### YouTube
 
