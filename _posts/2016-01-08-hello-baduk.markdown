@@ -296,11 +296,13 @@ ample time to consider your options as it to play against the clock
 where the speed and accuracy of your reading ability is put to the
 test.
 
-While I still don't enjoy blitz games.
-
-Time limits. When starting out there is a tendency to use long time
-limits even though you have very limited reading skills. Think of the
-game as the performance of the music you been rehearsing for a while.
+Divide your time between turn based servers where you have ample time
+and timed games. I started out favoring 30 minutes of main time and 5
+byo-yomi periods of 30 seconds for my KGS games. After watching Lee
+Hajin's videos I've now switched to 10 minutes of main time with 3
+byo-yomi periods of 30 seconds. This time control setting means the
+game last 40-50 minutes at most - a reasonable amount when you have
+lot of other things to attend to in your life.
 
 ### Playing Lots of Games
 
@@ -312,8 +314,9 @@ that your winning games have just as many bad moves and blunders as
 your losing games.
 
 I play a couple of games a week on KGS and I have 3-4 games going at a
-time on DGS. If find that this is enough to keep me busy and if I'm
-studying my game keep on improving anyhow.
+time on DGS. I find that this is enough to keep me busy and if I'm
+hitting the books and watching commentary, my game keeps on improving
+anyhow.
 
 ## Conclusion
 
