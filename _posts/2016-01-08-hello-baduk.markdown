@@ -187,7 +187,7 @@ requires using a very clunky-looking Java application that is actually
 surprisingly stable, featureful and intuitive to use.
 
 When you are just starting out with the Go, one of the hardest things to come by
-is games where you're actively learning something. The biggest
+is a game where you're actively learning something. The biggest
 issue with low double-digit kyu games (25k-15k) is that you have two people
 pitted against each other neither which have a good feel for the
 mechanics of the game yet.
