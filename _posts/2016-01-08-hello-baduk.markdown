@@ -313,7 +313,7 @@ a lot of other things to attend to in your life.
 ### Playing Lots of Games
 
 Some people play many, many games back to back in rapid
-succession. Doing this to recover from a losses for fear of losing a
+succession. Doing this to recover from losses for fear of losing a
 rank or two is especially missing the big picture. Win or lose, a game
 isn't any good if you don't take time to review it. It's highly likely
 that your winning games have just as many bad moves and blunders as
