@@ -13,7 +13,7 @@ Go. My enthusiasm for this incredible game has finally grown enough to
 start a dedicated blog about it.
 
 I first encountered Baduk (as it is called in Korea) as a child at my
-grandmother's house in Uijeongbui. However, I did not learn the
+grandmother's house in Uijeongbu. However, I did not learn the
 beautifully simple rules until years later, and initially, I was just
 intrigued by the lack of strong computer Go technology; the strongest
 computer Go programs of the early 2000's floundered in the beginner
