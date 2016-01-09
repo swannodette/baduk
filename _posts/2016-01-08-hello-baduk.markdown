@@ -167,7 +167,7 @@ Go Server so I will focus on these for now.
 
 [Dragon Go Server](http://senseis.xmp.net/?DGS) (DGS) is a simple turn
 based server with clients for both Android and iOS. For your first
-games you may want to try a couple of 9X9s (the full game is 19x19)
+games you may want to try a couple of 9x9s (the full game is 19x19)
 with a stranger or a friend who is also interested in the game.
 
 Turn based Go means you get to spend a lot of time on each move. It's
@@ -318,13 +318,16 @@ time on DGS. I find that this is enough to keep me busy and if I'm
 hitting the books and watching commentary, my game keeps on improving
 anyhow.
 
-## Conclusion
+## Caveats & Conclusions
 
-Hopefully this post gets you excited about diving into the world of
+This post is of course my very idiosyncratic take on how to go about
+learning and enjoying the game of Go. Everybody has different tastes
+and inclinations so works for me might not work for you at all. Still,
+I hope this first post gets you excited about diving into the world of
 Go. If you stick with it I guarantee you'll discover a game that will
 keep you intrigued for a lifetime!
 
-## More Useful Links
+### More Useful Links
 
 Here's a variety of useful links that I've cobbled together from
 various sources that didn't fit into the main body of the post.
