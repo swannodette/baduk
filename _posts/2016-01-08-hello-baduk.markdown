@@ -267,8 +267,8 @@ little bit each day. Probably more than anything else Go is about
 placing stones on the board.
 
 You'll probably find Graded Go Problems for Beginners Volumes 1 & 2
-relatively simple to get through. Even for absolute beginners they
-rarely take longer than a minute to solve. Starting with Volume 3
+relatively simple to get through. Even for absolute beginners the
+problems rarely take longer than a minute to solve. Starting with Volume 3
 things become significantly more challenging. Often the obvious move
 does not actually work and you should take a moment to find your
 opponent's best counter play. Counter to what many people suggest, I
