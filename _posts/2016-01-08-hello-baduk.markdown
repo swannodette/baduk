@@ -341,3 +341,4 @@ various sources that didn't fit into the main body of the post.
 * [KGS ranking tool](http://kgs.gosquares.net)
 * [Life in 19x19](http://lifein19x19.com/forum/)
 * [gokibitz](http://gokibitz.com)
+
