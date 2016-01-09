@@ -189,7 +189,7 @@ surprisingly stable, featureful and intuitive to use.
 When you are just starting out with the Go, one of the hardest things to come by
 is a game where you're actively learning something. The biggest
 issue with low double-digit kyu games (25k-15k) is that you have two people
-pitted against each other neither which have a good feel for the
+pitted against each other neither whom have a good feel for the
 mechanics of the game yet.
 
 For this reason it's important to reach out to stronger players and
