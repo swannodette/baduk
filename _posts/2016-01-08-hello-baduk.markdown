@@ -306,8 +306,8 @@ and timed games. I started out favoring 30 minutes of main time and 5
 byo-yomi periods of 30 seconds for my KGS games. After watching Lee
 Hajin's videos I've now switched to 10 minutes of main time with 3
 byo-yomi periods of 30 seconds. This time control setting means the
-game last 40-50 minutes at most - a reasonable amount when you have
-lot of other things to attend to in your life.
+game lasts 40-50 minutes at most - a reasonable amount when you have
+a lot of other things to attend to in your life.
 
 ### Playing Lots of Games
 
