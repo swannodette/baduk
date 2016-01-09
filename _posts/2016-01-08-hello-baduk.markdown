@@ -111,7 +111,7 @@ prior to the last few years you either had to read a book or
 understand enough Chinese, Korean, or Japanese to watch a Go
 television show.
 
-So what's the best place to watch free English friendly Go commentary
+So where's the best place to watch free English friendly Go commentary
 videos you ask?
 
 *YouTube!*
