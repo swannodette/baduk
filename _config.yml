@@ -3,8 +3,8 @@ title: Seonsu
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   My personal Go/Baduk/W&eacute;iq&iacute; blog
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://swannodette.github.io/baduk" # the base hostname & protocol for your site
+baseurl: "baduk" # the subpath of your site, e.g. /blog/
+url: "http://swannodette.github.io" # the base hostname & protocol for your site
 twitter_username: swannodette
 github_username: swannoddetee
 
