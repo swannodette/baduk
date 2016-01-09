@@ -263,7 +263,7 @@ think you'll find that you'll absorb far more than you won't.
 Learning Go feels much more like learning a new language than learning a
 game. If you want to pick up a new language you have to practice a
 little bit each day. Probably more than anything else Go is about
-reading, the ability to visualize lines of play without actually
+*reading*, that is, the ability to visualize lines of play without actually
 placing stones on the board.
 
 You'll probably find Graded Go Problems for Beginners Volumes 1 & 2
