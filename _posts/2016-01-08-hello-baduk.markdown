@@ -246,7 +246,7 @@ meatier material. I strongly recommend a book that I only recently
 picked up,
 [Yilun Yang's The Fundamental Princples of Go](http://senseis.xmp.net/?FundamentalPrinciplesOfGo). Until
 I read this book I frankly found most other books on opening theory as
-well joseki (standard opening patterns) fairly bewildering. This is a
+well as joseki (standard opening patterns) fairly bewildering. This is a
 very hard book, but like the other books it gives more with each
 read. The book while thorough, also gives you an easy to recall set of
 principles that you can bring to each game you play.
