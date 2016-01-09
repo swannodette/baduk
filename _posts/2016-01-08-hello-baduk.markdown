@@ -187,7 +187,7 @@ The [Kiseido Go Server](http://senseis.xmp.net/?KGS) (KGS)
 requires using a very clunky-looking Java application that is actually
 surprisingly stable, featureful and intuitive to use.
 
-When you are just starting out with the Go, one of the hardest things to come by
+When you are just starting out with Go, one of the hardest things to come by
 is a game where you're actively learning something. The biggest
 issue with low double-digit kyu games (25k-15k) is that you have two people
 pitted against each other neither whom have a good feel for the
