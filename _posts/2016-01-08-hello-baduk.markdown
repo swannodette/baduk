@@ -45,10 +45,10 @@ imagination.
 The on-ramping story for Go is significantly less inviting. The
 problem in many ways boils down to language barriers. The vast
 majority of contemporary Go literature, and thus pedagogy, is only
-available in Chinese, Japanese and Korean. Most of the good books
-available in English are Japanese translations from the 70s, and while
-unquestionably classics, they suffer from an old fashioned approach to
-teaching Go.
+available in Chinese, Japanese and Korean. Many of the good books
+available in English are Japanese translations from the 70s, 80s, and
+90s and while unquestionably classics, they suffer from an old
+fashioned approach to teaching Go.
 
 I believe a couple factors are swinging things in the right direction
 for a whole new level of popularity for Go in the States - the wide
