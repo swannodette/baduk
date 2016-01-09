@@ -66,7 +66,8 @@ the game without an undue expenditure of effort.
 ## Mobile Technology
 
 <image style="align: center; border: 1px solid black; padding: 2px;
-margin-bottom: 2em;" width="736" src="http://swannodette.github.io/baduk/assets/images/smartgo.jpg" />
+margin-bottom: 0.5em;" width="736" src="http://swannodette.github.io/baduk/assets/images/smartgo.jpg" />
+<p style="font-size: 12px; margin-bottom: 2em;">Photo of SmartGo by Anders Kierulf</p>
 
 Who would have thought a 3000 year old-game ago would be so well
 suited for our touch-enabled mobile computing present? There's quite a
