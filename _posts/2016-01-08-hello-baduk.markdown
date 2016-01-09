@@ -327,7 +327,7 @@ anyhow.
 
 This post is of course my very idiosyncratic take on how to go about
 learning and enjoying the game of Go. Everybody has different tastes
-and inclinations so works for me might not work for you at all. Still,
+and inclinations so what works for me might not work for you at all. Still,
 I hope this first post gets you excited about diving into the world of
 Go. If you stick with it I guarantee you'll discover a game that will
 keep you intrigued for a lifetime!
