@@ -135,7 +135,10 @@ Nick Sibicky records his Go lectures and like Lee Hajin's channel is a
 treasure trove of Go commentary. His delivery style on classic games
 is filled with drama and history:
 
-<iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420" src="https://www.youtube.com/embed/ME0SQK_5BNY" frameborder="0" allowfullscreen></iframe>
+<iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;"
+width="736" height="420"
+src="https://www.youtube.com/embed/ME0SQK_5BNY" frameborder="0"
+allowfullscreen></iframe>
 
 [Go Game Guru](http://gogameguru.com) has become an essential source
 of Go news for an English speaking audience. An Younggil (Korean 8p)
@@ -146,6 +149,17 @@ to deepen my understanding of the game!
 
 <iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;" width="736" height="420"
 src="https://www.youtube.com/embed/WZua0De9Zwk" frameborder="0" allowfullscreen></iframe>
+
+The [American Go Association](http://usgo.org) (AGA) has started
+delivering live coverage of AGA tournaments and as well as notable
+events from the broader Go World. The live commentary of the final
+game between two of the world's top players, Ke Jie (China 9p) and Lee
+Sedol (Korea 9p), drew a record breaking 14,000 viewers:
+
+<iframe style="border: 1px solid black; padding: 2px; margin: 1em 0;"
+width="736" height="420"
+src="https://www.youtube.com/embed/WWYCfzxJBFU" frameborder="0"
+allowfullscreen></iframe>
 
 ### Internet Go Servers
 
