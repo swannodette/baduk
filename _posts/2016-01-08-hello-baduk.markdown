@@ -215,7 +215,7 @@ vague intuitions.
 
 Thankfully learning to play Go has never ever been as straightforward
 as it is today. I've found [SmartGo's Go Books](https://gobooks.com)
-to be another indispensible and convienient tool on the path to
+to be another indispensable and convenient tool on the path to
 achieving further insights about the nature of Go.
 
 Many classic titles are available for Go Books - having a treasure
