@@ -217,6 +217,11 @@ as it is today. I've found [SmartGo's Go Books](https://gobooks.com)
 to be another indispensible and convienient tool on the path to
 achieving further insights about the nature of Go.
 
+Many classic titles are available for Go Books - having a treasure
+trove like
+[Invincible: The Games of Shusaku](http://www.amazon.com/Invincible-Games-Shusaku-Game-Collections/dp/4906574017)
+literally in the palm of your hand is really something else.
+
 ### Books
 
 There are a few good modern books for beginners in
