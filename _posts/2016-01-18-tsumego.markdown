@@ -41,7 +41,13 @@ elaborated. At this point I stop and see if I can find the opponent's
 counter move that somehow missed.
 
 Sometimes I still cannot find the best counterplay. At this point I
-copy the problem as SGF and paste it into Smart Go Kifu. There I try
+copy the problem as SGF and paste it into Smart Go Kifu. By touching
+and holding down on the stone next to the problem diagram you will get
+a popup menu that offers a "Copy" feature. You can then switch to
+SmartGo Kifu into the "My Games" tab and click the add game button -
+you'll be offered the option to "Paste SGF".
+
+There I try
 out the variations until I can find the opponent's best play. At that
 point I dig in until I see how the opponent's best play foils success.
 
