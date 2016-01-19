@@ -37,3 +37,12 @@ point I dig in until I see how the opponent's best play foils success.
 
 Then return to the original problem and verify that I can see the
 failing line of play without actually playing out any moves.
+
+The other thing I love babout JLU is the method by which the book
+covers joseki, understanding professional games, and.
+
+As a general rule the problems are very easy. As a KGS 8-9kyu I find
+that I can answer the problems instantly. But that's really not the
+point. All of the ideas presently are precisely the kind of thing that
+should come instantly to your during actual play. You *should* be able
+to do these in your sleep.
