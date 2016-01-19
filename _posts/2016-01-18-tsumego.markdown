@@ -5,20 +5,35 @@ date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
-In this point I'd like to talk a bit more about
-[Graded Go Problems for Beginners Volume 4]() (GGPB4) as well as a new
-series (for me), [Jump Level Up!  Volumes 1-5](). I spoke about the
-former in my previous post and I'd like to dive into my approach to
-studying it which other people might find useful.
+In this post I'd like to talk a bit more about
+[Graded Go Problems for Beginners Volume 4](http://senseis.xmp.net/?GradedGoProblemsForBeginners)
+(GGPB4) as well as a problem book series that is new to me,
+[Jump Level Up! Volumes 1-5](senseis.xmp.net/?JumpLevelUp).
+
+Having made it through the first volume of JLU series and
+digging into the second one, I believe this series fills a huge gap in
+with respect to books that aid in developing strong reading
+skills. None of the problem books I've owned in the past focuses quite
+as much in covering the fundamentals with respect to how the stones
+should move.
+
+I spoke briefly about the former in my previous post and I'd like to
+dive into my developing approach to studying this challenging problem
+set as other people might find it a useful jumping off point for their
+own study approaches. I'm slowly discovering my own path to studying
+harder problems as well as some basic psychological considerations
+that help in keeping up enthusiasm for problems that cannot be solved
+quickly at my skill level.
 
 ## Jump Level Up! Volumes 1-5
 
-The later came to my attention because the series comes from the Baduk
-degree program at Myongi University of South Korea. The entire series
-is designed expressly for children. Presented in workbook style, it
-features comis, cute drawings, and funny stories. However it's my firm
-belief that presentation styles designed for younger audiences is more
-or less precisely the same style you should be using with adults.
+The later came to my attention because the series comes from the
+[Baduk program at Myongji University](https://www.mju.ac.kr/mbs/mjuen/subview.jsp?id=mjuen_020207040100)
+in South Korea. The entire series is designed expressly for
+children. Presented in workbook style, it features comis, cute
+drawings, and funny stories. However it's my firm belief that
+presentation styles designed for younger audiences is more or less
+precisely the same style you should be using with adults.
 
 The series is also a good antidote (for me anyway) in my struggles
 with GGPB4. Unlike GGPB4 where often simpler problems are mixed in with
