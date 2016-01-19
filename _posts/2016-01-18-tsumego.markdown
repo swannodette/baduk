@@ -5,11 +5,21 @@ date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
-I recently picked up the Jump Level Up! (JLU) series published by
-Baduktopia. This series for fills a much needed gap in the Go pedagogy
-I've encountered thus far. The series is tailored for young children but
-this also means the series is perfectly well suited for adults as
-well.
+In this point I'd like to talk a bit more about [Graded Go Problems for
+Beginners Volume 4] (GGPB4) as well as a new series (for me), [Jump Level Up!
+Volumes 1-5]. I spoke about the former in my previous post and I'd
+like to dive into my approach to studying it which other people might
+find useful.
+
+The later came to my attention because the series comes from the Baduk
+degree program at Myongi University of South Korea. The entire series
+is designed expressly for children. Presented in workbook style, it
+features comis, cute drawings, and funny stories. However it's my firm
+belief that presentation styles designed for younger audiences is more
+or less precisely the same style you should be using with adults.
+
+The series is also a good antidote (for me anyway) in my struggles
+with GGPB4.
 
 Unlike the Graded Go Problems for Beginners (GGPB) volumes, many of
 the puzzles presented show positions likely to be encountered in
