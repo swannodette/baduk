@@ -5,11 +5,13 @@ date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
-In this point I'd like to talk a bit more about [Graded Go Problems for
-Beginners Volume 4] (GGPB4) as well as a new series (for me), [Jump Level Up!
-Volumes 1-5]. I spoke about the former in my previous post and I'd
-like to dive into my approach to studying it which other people might
-find useful.
+In this point I'd like to talk a bit more about
+[Graded Go Problems for Beginners Volume 4]() (GGPB4) as well as a new
+series (for me), [Jump Level Up!  Volumes 1-5](). I spoke about the
+former in my previous post and I'd like to dive into my approach to
+studying it which other people might find useful.
+
+## Jump Level Up! Volumes 1-5
 
 The later came to my attention because the series comes from the Baduk
 degree program at Myongi University of South Korea. The entire series
@@ -19,7 +21,9 @@ belief that presentation styles designed for younger audiences is more
 or less precisely the same style you should be using with adults.
 
 The series is also a good antidote (for me anyway) in my struggles
-with GGPB4.
+with GGPB4. Unlike GGPB4 where often simpler problems are mixed in with
+very challenging ones, JLU has intentional gradual difficultly
+gradation.
 
 Unlike the Graded Go Problems for Beginners (GGPB) volumes, many of
 the puzzles presented show positions likely to be encountered in
@@ -35,6 +39,8 @@ instinctual. GGPB guides you towards deepening your reading
 skills. Some problems are just not possible to be sure of without
 reading out several variations.
 
+## Graded Go Problems Volume 4
+
 When attacking GGPB problems quite I find myself making the wrong
 play. Often the particular incorrect line of play will not be
 elaborated. At this point I stop and see if I can find the opponent's
@@ -46,10 +52,14 @@ and holding down on the stone next to the problem diagram you will get
 a popup menu that offers a "Copy" feature. You can then switch to
 SmartGo Kifu into the "My Games" tab and click the add game button -
 you'll be offered the option to "Paste SGF".
+    
+    [Image]()
+    [Image]()
+    [Image]()
 
-There I try
-out the variations until I can find the opponent's best play. At that
-point I dig in until I see how the opponent's best play foils success.
+There I try out the variations until I can find the opponent's best
+play. At that point I dig in until I see how the opponent's best play
+foils success.
 
 Then return to the original problem and verify that I can see the
 failing line of play without actually playing out any moves.
@@ -62,3 +72,8 @@ that I can answer the problems instantly. But that's really not the
 point. All of the ideas presently are precisely the kind of thing that
 should come instantly to your during actual play. You *should* be able
 to do these in your sleep.
+
+## Balance
+
+The GGPB4 life and death problems can sometimes seem repetitive and
+tedious especially given the consistent difficulty.
