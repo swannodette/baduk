@@ -5,8 +5,35 @@ date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
-I recently picked up the Jump Level Up! series published by
+I recently picked up the Jump Level Up! (JLU) series published by
 Baduktopia. This series for fills a much needed gap in the Go pedagogy
-I've encountered thus. The series is tailored for young children but
+I've encountered thus far. The series is tailored for young children but
 this also means the series is perfectly well suited for adults as
 well.
+
+Unlike the Graded Go Problems for Beginners (GGPB) volumes, many of
+the puzzles presented show positions likely to be encountered in
+actual play. While GGPB tends to develop your overall visualization
+skills, JLU gives you tools for making the right decision quickly
+while the clock is ticking.
+
+For example capturing races ofter occur in real games.
+
+Yet again we have the fast and slow principle. JLU gives you problems
+you should be answer in seconds - that is they should be
+instinctual. GGPB guides you towards deepening your reading
+skills. Some problems are just not possible to be sure of without
+reading out several variations.
+
+When attacking GGPB problems quite I find myself making the wrong
+play. Often the particular incorrect line of play will not be
+elaborated. At this point I stop and see if I can find the opponent's
+counter move that somehow missed.
+
+Sometimes I still cannot find the best counterplay. At this point I
+copy the problem as SGF and paste it into Smart Go Kifu. There I try
+out the variations until I can find the opponent's best play. At that
+point I dig in until I see how the opponent's best play foils success.
+
+Then return to the original problem and verify that I can see the
+failing line of play without actually playing out any moves.
