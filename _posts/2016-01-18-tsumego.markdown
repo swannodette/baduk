@@ -5,7 +5,7 @@ date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
-In this point I'd like to talk a bit more about
+In this post I'd like to talk a bit more about improving at reading. 
 [Graded Go Problems for Beginners Volume 4]() (GGPB4) as well as a new
 series (for me), [Jump Level Up!  Volumes 1-5](). I spoke about the
 former in my previous post and I'd like to dive into my approach to
@@ -16,9 +16,9 @@ studying it which other people might find useful.
 The later came to my attention because the series comes from the Baduk
 degree program at Myongi University of South Korea. The entire series
 is designed expressly for children. Presented in workbook style, it
-features comis, cute drawings, and funny stories. However it's my firm
-belief that presentation styles designed for younger audiences is more
-or less precisely the same style you should be using with adults.
+features comics, cute drawings, and funny stories. It's my firm belief
+that presentation styles designed for younger audiences are exactly
+the same style you should be using with adults.
 
 The series is also a good antidote (for me anyway) in my struggles
 with GGPB4. Unlike GGPB4 where often simpler problems are mixed in with
