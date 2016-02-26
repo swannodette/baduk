@@ -5,6 +5,25 @@ date:   2016-01-08 09:22:48 -0500
 categories: baduk
 ---
 
+For a game defined by such simple rules, Baduk has an incredible
+number of subtopics of study from fuseki (opening) to yose
+(endgame). However, one could say all these topics are just
+delineations of one thing - *reading*.
+
+There are of course many ways to improve at reading - if you have a
+lot of free time on your hands you can play lots of games and observe
+lots of games.
+
+## The Mind's Eye
+
+Knowing what doesn't work is just as important as knowing what does
+work. In many cases you will find yourself unable to find the solution
+but you may see the various lines of plays that don't work. This is
+information! Don't play moves that don't work. This may sound obvious
+but I can't believe how many times I've stubbornly tried a solution
+knowing it doesn't succeed. If you do this in your tsumego study
+there's a good chance you do it when you play a real opponent.
+
 In this post I'd like to talk a bit more about
 [Graded Go Problems for Beginners Volume 4](http://senseis.xmp.net/?GradedGoProblemsForBeginners)
 (GGPB4) as well as a problem book series that is new to me,
