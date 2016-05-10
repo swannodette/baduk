@@ -1,94 +1,53 @@
 ---
 layout: post
-title:  "Tsumego"
+title:  "Study"
 date:   2016-01-08 09:22:48 -0500
-categories: baduk
+categories: baduk, study
 ---
 
-In this post I'd like to talk a bit more about
-[Graded Go Problems for Beginners Volume 4](http://senseis.xmp.net/?GradedGoProblemsForBeginners)
-(GGPB4) as well as a problem book series that is new to me,
-[Jump Level Up! Volumes 1-5](senseis.xmp.net/?JumpLevelUp).
-
-Having made it through the first volume of JLU series and
-digging into the second one, I believe this series fills a huge gap in
-with respect to books that aid in developing strong reading
-skills. None of the problem books I've owned in the past focuses quite
-as much in covering the fundamentals with respect to how the stones
-should move.
-
-I spoke briefly about the former in my previous post and I'd like to
-dive into my developing approach to studying this challenging problem
-set as other people might find it a useful jumping off point for their
-own study approaches. I'm slowly discovering my own path to studying
-harder problems as well as some basic psychological considerations
-that help in keeping up enthusiasm for problems that cannot be solved
-quickly at my skill level.
+These days I find myself spending considerably less time with Baduk
+theory books and considerably more time with tsumego, commented games,
+and of course playing games and reviewing. Studying commented games is
+a relatively new activity for me and if hadn't been for Baduktopia's
+Jump Level Up series I may put it off indefinitely. Perhaps I missed
+the obvious, but it was never clear to me how one should go about
+incorporating the study of higher level games, and Jump Level Up shed
+considerable light on the matter.
 
 ## Jump Level Up! Volumes 1-5
 
-The later came to my attention because the series comes from the
-[Baduk program at Myongji University](https://www.mju.ac.kr/mbs/mjuen/subview.jsp?id=mjuen_020207040100)
-in South Korea. The entire series is designed expressly for
-children. Presented in workbook style, it features comis, cute
-drawings, and funny stories. However it's my firm belief that
-presentation styles designed for younger audiences is more or less
-precisely the same style you should be using with adults.
+Jump Level Up! is a fantastic series originally written in Korean and
+then translated into English. While aimed at children, the workbooks are
+suitable for any single digit kyu. Unlike the Graded Go Problems
+series (GGPB), Jump Level Up! (JLU) is squarely focused on drilling
+fundamental tactics. Nearly all of the problems can be solved in a few
+seconds - but that's the point. Most pages have 6 simple problems and
+I try to do three pages of problems a day, this rarely takes more than
+10 minutes.
 
-The series is also a good antidote (for me anyway) in my struggles
-with GGPB4. Unlike GGPB4 where often simpler problems are mixed in with
-very challenging ones, JLU has intentional gradual difficultly
-gradation.
+The books would be worth it for the drilling alone, but the books also
+emphasize two other important areas of study - joseki and
+openings. The joseki presented are all simple. You are asked to play
+through them three times while considering the meaning of each
+move. Unsurprisingly after the third time you've got it down. This
+repetition study is reinforced by subsequent problems that explore
+simple variations, mistakes, and their appropriate punishments. I've
+always found joseki incredibly dry, but the highly structured and
+gradual approach taken by the book has made me come to appreciate
+joseki and I know find myself enthusiastically studying joseki
+variations that occur in my own games.
 
-Unlike the Graded Go Problems for Beginners (GGPB) volumes, many of
-the puzzles presented show positions likely to be encountered in
-actual play. While GGPB tends to develop your overall visualization
-skills, JLU gives you tools for making the right decision quickly
-while the clock is ticking.
+Each book in the series also includes several openings from
+professional games - usually the the first 50 to 80 moves. Again JLU
+asks you play through them three times carefully considering the
+meaning behind each move. Initially I discovered it took me 4 or 5
+times before I could play them back from memory, but now I can usually
+get them in the suggested iterations. I was personally stunned that it
+took so little effort to memorize an opening and for fun I tried an
+experiment with a Go book that's been on my shelf for years -
+Invincible: The Games of Shusaku.
 
-For example capturing races ofter occur in real games.
+## Invicible: The Games of Shusaku
 
-Yet again we have the fast and slow principle. JLU gives you problems
-you should be answer in seconds - that is they should be
-instinctual. GGPB guides you towards deepening your reading
-skills. Some problems are just not possible to be sure of without
-reading out several variations.
 
-## Graded Go Problems Volume 4
-
-When attacking GGPB problems quite I find myself making the wrong
-play. Often the particular incorrect line of play will not be
-elaborated. At this point I stop and see if I can find the opponent's
-counter move that somehow missed.
-
-Sometimes I still cannot find the best counterplay. At this point I
-copy the problem as SGF and paste it into Smart Go Kifu. By touching
-and holding down on the stone next to the problem diagram you will get
-a popup menu that offers a "Copy" feature. You can then switch to
-SmartGo Kifu into the "My Games" tab and click the add game button -
-you'll be offered the option to "Paste SGF".
-    
-    [Image]()
-    [Image]()
-    [Image]()
-
-There I try out the variations until I can find the opponent's best
-play. At that point I dig in until I see how the opponent's best play
-foils success.
-
-Then return to the original problem and verify that I can see the
-failing line of play without actually playing out any moves.
-
-The other thing I love babout JLU is the method by which the book
-covers joseki, understanding professional games, and.
-
-As a general rule the problems are very easy. As a KGS 8-9kyu I find
-that I can answer the problems instantly. But that's really not the
-point. All of the ideas presently are precisely the kind of thing that
-should come instantly to your during actual play. You *should* be able
-to do these in your sleep.
-
-## Balance
-
-The GGPB4 life and death problems can sometimes seem repetitive and
-tedious especially given the consistent difficulty.
+## Baduk Classic - Guanzipu, The Art of Closing
