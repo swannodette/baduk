@@ -42,6 +42,15 @@ path to shodan.
 
 ## Short Studies: Baduk Classic
 
+<div>
+    <span>
+        <image width="300" src="http://swannodette.github.io/baduk/assets/images/badukclassic.jpg"></image>
+    </span>
+    <span>
+        <image width="300" src="http://swannodette.github.io/baduk/assets/images/guanzipu.jpg"></image>
+    </span>
+</div>
+
 After your scales you continue to warm up with something more
 substantial. On guitar I've been slowly working through the
 [Complete Sor Studies](https://en.wikipedia.org/wiki/Methode_pour_la_Guitare).
@@ -73,6 +82,8 @@ rare gem of a brilliant tesuji.
 Mixed in with simpler pieces, Sor includes studies that are
 unquestionably interesting music. These invite deeper study,
 memorization, and expressive play.
+
+![Shusaku vs. Shuwa](http://swannodette.github.io/baduk/assets/images/shusaku.jpg)
 
 While it's been sitting around on my bookshelf for some time, it
 wasn't until JLU that I really felt inspired to dive into
