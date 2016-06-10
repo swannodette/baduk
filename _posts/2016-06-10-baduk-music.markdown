@@ -12,10 +12,10 @@ guitar and how I study baduk.
 
 <div>
     <span>
-        <image width="300" src="http://swannodette.github.io/baduk/assets/images/jlu1.JPG"></image>
+        <image width="300" src="http://swannodette.github.io/baduk/assets/images/jlu1.jpg"></image>
     </span>
     <span>
-        <image width="300" src="http://swannodette.github.io/baduk/assets/images/jlu2.JPG"></image>
+        <image width="300" src="http://swannodette.github.io/baduk/assets/images/jlu2.jpg"></image>
     </span>
 </div>
 
