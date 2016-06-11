@@ -122,9 +122,9 @@ pause leads to a phrasing you could have never imagined
 otherwise and these ideas feedback into your technique.
 
 Again it's the same for Baduk. After a game I find that I usually
-spend *more time* on the review than I did during the game. Perhaps
-this discipline has been bolstered by my slow review of the Shusaku
-records?
+spend *more time* on the review than I did during the game. Along with
+the blunders and mistakes are the solid moves, the right directions,
+and those incredibly surprises that keep us all coming back to Baduk.
 
 ## Results
 
