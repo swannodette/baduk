@@ -86,7 +86,7 @@ demonstrates his budding powers lasts only 148 moves so this seemed
 like a reasonable place to start. After about a week or so I could
 confidently play the game from beginning to end without referring to
 the record. More importantly by memorizing the game and trying to
-understand the moves on my own the commentary became alive where
+understand the moves on my own, the commentary became alive where
 previously it had simply fallen on deaf ears.
 
 It's true that the openings in Invincible are a bit old fashioned but
