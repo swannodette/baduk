@@ -103,10 +103,11 @@ a single digit kyu.
 Eventually you have to put all this knowledge to the test. As a musician
 this means playing in front of an audience or getting just the right
 take for a recording. Playing a piece of music in the cozy
-comfort of you room is nothing like the pressure cooker of a live
+comfort of your room is nothing like the pressure cooker of a live
 stage or a recording schedule. It's no different for Baduk. Book
-smarts that you cannot access during a live game aren't doing you any
-favors.
+smarts that you cannot access during a live game is wasted effort. For
+this reason alone I drifted away from theory books and focused on the
+process I've outlined above.
 
 I don't play a ton of games, just enough so I'm moving forward. I'm
 probably getting about 8-11 games in a month - once a week at the NYC
