@@ -130,7 +130,7 @@ and those incredible surprises that keep us all coming back to Baduk.
 
 Is this approach paying off? Two years ago I was a KGS 9kyu. Currently
 I'm on a 6 game winning streak and just shy of KGS 6kyu. This approach
-might not be right way for everyone, but I think it's interesting that
+might not be the right way for everyone, but I think it's interesting that
 applying a similar discipline from my guitar studies to Baduk has
 kicked off a period of steady measurable improvement. Perhaps this
 approach can work for others?
