@@ -6,7 +6,7 @@ categories: baduk, study
 ---
 
 I'm discovering there are some strong correlations between how I study
-guitar and how I study baduk.
+guitar and how I now study Baduk.
 
 ## Scales: Jump Level Up! Volumes 1-5
 
