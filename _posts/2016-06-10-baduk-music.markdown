@@ -36,6 +36,8 @@ fingers consistently and confidently?
 I strongly suspect I'll be reading them over and over again on the
 path to shodan.
 
+<div style="clear: both"></div>
+
 ## Short Studies: Baduk Classic
 
 <image width="375" style="float: left; margin-right: 1em;" src="http://swannodette.github.io/baduk/assets/images/badukclassic.jpg"></image>
