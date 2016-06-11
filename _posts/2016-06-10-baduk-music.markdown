@@ -10,14 +10,7 @@ guitar and how I study baduk.
 
 ## Scales: Jump Level Up! Volumes 1-5
 
-<div>
-    <span>
-        <image width="300" src="http://swannodette.github.io/baduk/assets/images/jlu1.jpg"></image>
-    </span>
-    <span>
-        <image width="300" src="http://swannodette.github.io/baduk/assets/images/jlu2.jpg"></image>
-    </span>
-</div>
+<image width="300" style="float: left; margin-right: 1em" src="http://swannodette.github.io/baduk/assets/images/jlu1.jpg"></image>
 
 The very first thing I do when I pick up the guitar is warmup with
 some scales. It seems to me it is no different for Baduk, you warmup
@@ -33,6 +26,9 @@ fundamentals. Nearly all of the problems can be solved in a few
 seconds - but that's the point. Most pages have 6 simple problems and
 it rarely takes more than 10 minutes to get through three pages.
 
+<image width="300" style="float: right; margin-left: 1em"
+src="http://swannodette.github.io/baduk/assets/images/jlu3.jpg"></image>
+
 Like scales JLU covers ground that should be instinctual. How can you
 play even the most trivial piece of music if you can't place your
 fingers consistently and confidently?
@@ -42,15 +38,8 @@ path to shodan.
 
 ## Short Studies: Baduk Classic
 
-<div>
-    <span>
-        <image width="300" src="http://swannodette.github.io/baduk/assets/images/badukclassic.jpg"></image>
-    </span>
-    <span>
-        <image width="300" src="http://swannodette.github.io/baduk/assets/images/guanzipu.jpg"></image>
-    </span>
-</div>
-
+<image width="375" style="float: left; margin-right: 1em;" src="http://swannodette.github.io/baduk/assets/images/badukclassic.jpg"></image>
+      
 After your scales you continue to warm up with something more
 substantial. On guitar I've been slowly working through the
 [Complete Sor Studies](https://en.wikipedia.org/wiki/Methode_pour_la_Guitare).
@@ -64,6 +53,8 @@ sold me on the entire series. All together the Baduk Classic series
 comprises some thousand problems ranging from 3kyu to higher dan in
 difficulty. Each problem is clearly marked making it simple to skip
 over the ones not yet within my grasp.
+
+<image width="375" style="float: right; margin-left: 1em" width="300" src="http://swannodette.github.io/baduk/assets/images/guanzipu.jpg"></image>
 
 The problems are stunning and really nothing like anything I've
 encountered so far in kyu level tsumego texts, they do not have simple
@@ -83,7 +74,7 @@ Mixed in with simpler pieces, Sor includes studies that are
 unquestionably interesting music. These invite deeper study,
 memorization, and expressive play.
 
-![Shusaku vs. Shuwa](http://swannodette.github.io/baduk/assets/images/shusaku.jpg)
+<image width="375" style="float:left; margin-right: 1em" src="http://swannodette.github.io/baduk/assets/images/shusaku.jpg"></image>
 
 While it's been sitting around on my bookshelf for some time, it
 wasn't until JLU that I really felt inspired to dive into
