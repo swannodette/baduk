@@ -124,7 +124,7 @@ otherwise and these ideas feedback into your technique.
 Again it's the same for Baduk. After a game I find that I usually
 spend *more time* on the review than I did during the game. Along with
 the blunders and mistakes are the solid moves, the right directions,
-and those incredibly surprises that keep us all coming back to Baduk.
+and those incredible surprises that keep us all coming back to Baduk.
 
 ## Results
 
