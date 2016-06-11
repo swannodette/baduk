@@ -26,17 +26,12 @@ fundamentals. Nearly all of the problems can be solved in a few
 seconds - but that's the point. Most pages have 6 simple problems and
 it rarely takes more than 10 minutes to get through three pages.
 
-<image width="300" style="float: right; margin-left: 1em"
-src="http://swannodette.github.io/baduk/assets/images/jlu3.jpg"></image>
-
 Like scales JLU covers ground that should be instinctual. How can you
 play even the most trivial piece of music if you can't place your
 fingers consistently and confidently?
 
 I strongly suspect I'll be reading them over and over again on the
 path to shodan.
-
-<div style="clear: both"></div>
 
 ## Short Studies: Baduk Classic
 
