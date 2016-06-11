@@ -21,7 +21,7 @@ series originally written in Korean and then translated into
 English. While targeted at younger players, the workbooks are suitable
 for anyone stronger than 15kyu. Unlike the
 [Graded Go Problems series (GGPB)](http://senseis.xmp.net/?GradedGoProblemsForBeginners),
-Jump Level Up! (JLU) is primarily focused on drilling
+Jump Level Up! (JLU) is all about *drilling*
 fundamentals. Nearly all of the problems can be solved in a few
 seconds - but that's the point. Most pages have 6 simple problems and
 it rarely takes more than 10 minutes to get through three pages.
