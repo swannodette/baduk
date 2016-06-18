@@ -16,8 +16,6 @@ and winning a good number of my games. I was surprised how many of
 these games I was able to win when I was unquestionably behind. If I
 were to attribute these wins to anything it would be patience.
 
-<image width="300" style="float: left; margin-right: 1em" src="http://swannodette.github.io/baduk/assets/images/hikaru_handi.png"></image>
-
 By patience I don't mean timid play. By patience I just mean not
 playing compulsively - to play only solid moves and to simply wait for
 real opportunities instead of trying to force them from nothing. Time
@@ -29,6 +27,9 @@ inevitably leads to a loss because the outcome was never clear to
 begin with.
 
 Yilun Yang often refers to this kind of play as "gambling".
+
+<image width="300" style="float: left; margin-right: 1em; border: 1px
+solid #ccc" src="http://swannodette.github.io/baduk/assets/images/hikaru_handi.png"></image>
 
 One thing that's really, really driven home the value of patience is
 handicap games. Handicap games against lower ranked players used to
