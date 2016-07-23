@@ -85,8 +85,8 @@ KGT shop (or even the ones I've taken here).
 solid black;"
 src="http://swannodette.github.io/baduk/assets/images/stones_above.jp2"></image>
 
-The stones are size 41 (11.6mm) Blue Label slate and shell
-stones. They are *huge*, far larger than anything I've ever played
+The stones are size 41 (11.6mm) [Blue Label slate and shell
+stones](http://shop.kurokigoishi.co.jp/en/category/15). They are *huge*, far larger than anything I've ever played
 with before. Without a doubt my fingers will need to get used to
 holding such large stones confidently. But even after just one day
 they are growing on me and the aesthetic quality they bring to the
@@ -117,7 +117,7 @@ covering. The moment the paulownia cover came off my apartment filled
 with the sweet scent of kaya. The board itself is far more golden than
 the KGT shop pictures let on, and as expected the lines of the board are
 raised and I assume they were made with the same samurai sword
-technique as shown in the various KGT youtube videos.
+technique as shown in the [various KGT youtube videos](https://www.youtube.com/watch?v=Ex-4gaaMcQM).
 
 I was somewhat concerned about the height of the board but after
 reviewing a Go Seigen game and a Shusaku game for about an hour and a
