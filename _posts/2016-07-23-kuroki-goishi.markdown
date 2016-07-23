@@ -115,7 +115,7 @@ craft - the goban is just as beautiful as every other element of this set.
 The goban shipped with a paulownia cover as well as a simple cloth
 covering. The moment the paulownia cover came off my apartment filled
 with the sweet scent of kaya. The board itself is far more golden than
-the KGT shop pictures let on, and as expected the lines of board are
+the KGT shop pictures let on, and as expected the lines of the board are
 raised and I assume they were made with the same samurai sword
 technique as shown in the various KGT youtube videos.
 
