@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Ready for US Go Congress 2016"
-date:   2016-07-23
+date:   2016-07-25
 ---
 
 <image width="300" style="float: right; margin-left: 1em;
