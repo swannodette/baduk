@@ -43,7 +43,7 @@ friendly faces from the congress with the same idea.
 
 We got back to the venue a bit early to grab seats close to the stage
 for the opening ceremony. Attendees began to filter in and I noted the
-relative diversity of the crowd. I of course fall into the stereotypical
+relative diversity of the crowd. I fall into the stereotypical
 male technology professional Go enthusiast bucket but it was clear
 that, at the US Go Congress at least, the mysteries of Go appeal to a
 much bigger tent.
