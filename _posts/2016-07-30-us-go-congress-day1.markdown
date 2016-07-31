@@ -69,12 +69,12 @@ delivered by Aja Huang and Fan Hui. While very little new information
 was presented, they both communicated many humorous and inspirational
 anecdotes about their own journeys with AlphaGo. It was quite clear
 that both presenters had a deep love for Go and despite the emotional
-ups and downs which I think have been felt by the global community
-with respect to AlphaGo, I think ultimately agree with their
-assessment that AlphaGo has and will continue to have unbelievably
-positive effect on drawing more and more people to the game.
+ups and downs which I think have been felt by the global Go community
+with respect to AlphaGo, in the end I believe it has only intensified
+interest in this beautiful game and this year's US Congress is
+certainly evidence of that.
 
 After the presentation my friend and I mobbed the stage with the other
 attendees and I snapped a couple of shots. We then headed back to our
-AirBnB to rest so that so that we could play our US Open games the
-next morning with our full faculties.
+AirBnB to rest so that we could play our US Open games tomorrow with
+our full faculties.
