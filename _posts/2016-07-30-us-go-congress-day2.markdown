@@ -48,8 +48,8 @@ I briefly attended Kim Myungwan's Liberty Racing lecture but this was
 primarily aimed at Go teachers so I quickly moved onto Stephanie Yin's
 (1P) game reviews for beginning to 5 kyu players. I
 really enjoyed Stephanie's review style and was hoping to get a review but
-unfortunately I joined too late and she ran out time and needed to
-go deliver a lecture at 3pm. I was a little disappointed but the
+unfortunately I joined too late and she ran out of time and needed to
+deliver another lecture at 3pm. I was a little disappointed but the
 following reviewer for the same player levels was Feng Yun 9P and she
 gave me an unforgettable commentary. There were sequences I struggled
 over for many minutes that she saw literally in the blink of an
