@@ -38,7 +38,7 @@ online numbers translate to a tournament game over a real board with
 generous time limits.
 
 After checking in, we were pretty hungry so we wandered about 10 minutes
-away to grab some pizza slices. Unsurprisingly we were surrounding by
+away to grab some pizza slices. Unsurprisingly we were surrounded by
 friendly faces from the congress with the same idea.
 
 We got back to the venue a bit early to grab seats close to the stage
