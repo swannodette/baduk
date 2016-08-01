@@ -56,7 +56,7 @@ over for many minutes that she saw literally in the blink of an
 eye. As I predicted there were many, many mistakes - in many cases she
 pointed out moves I had considered but had discarded for all of the
 wrong reasons. The experience was both incredibly humbling and
-thrilling and I was extremely grateful for her time.. The following
+thrilling and I was extremely grateful for her time. The following
 GoKibitz embed is my game along with her commentary as I remembered
 it. I stayed on for several more commentaries as there was just tons to
 learn from her reviews. After this experience, I fully plan on getting
