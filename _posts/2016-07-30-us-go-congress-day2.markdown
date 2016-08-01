@@ -26,7 +26,7 @@ The time settings were 1 hour 30 minutes for each player plus 5
 periods of 30 second byo-yomi. Komi was 7.5. I'm a pretty slow player
 so I completely ate through all of my time. The game lasted three
 hours. In the end I won by a tiny margin - 2 1/2 points. At no moment
-did I feel like there was a significant difference in our skills. So
+did I feel like there was a significant difference in our skills, so
 perhaps the 7 kyu rating I assigned to myself is right on the money
 over a real board.  At the end of the game I knew I had made a lot of
 bad moves so I really looked forward to getting a professional
@@ -50,17 +50,18 @@ primarily aimed at Go teachers so I quickly moved onto Stephanie Yin's
 really enjoyed Stephanie's review style and was hoping to get a review but
 unfortunately I joined too late and she ran out of time and needed to
 deliver another lecture at 3pm. I was a little disappointed but the
-following reviewer for the same player levels was Feng Yun 9P and she
-gave me an unforgettable commentary. There were sequences I struggled
-over for many minutes that she saw literally in the blink of an
-eye. As I predicted there were many, many mistakes - in many cases she
+following reviewer for the same player levels was
+[Feng Yun](http://www.fengyungoschool.com) 9P and she gave me an
+unforgettable commentary. There were sequences I struggled over for
+many minutes that she saw literally in the blink of an eye. As I
+predicted there were many, many mistakes and quite a few times she
 pointed out moves I had considered but had discarded for all of the
 wrong reasons. The experience was both incredibly humbling and
 thrilling and I was extremely grateful for her time. The following
 GoKibitz embed is my game along with her commentary as I remembered
-it. I stayed on for several more commentaries as there was just tons to
-learn from her reviews. After this experience, I fully plan on getting
-my games reviewed each day.
+it. I stayed on for several more commentaries as there was just tons
+to learn from her reviews. After this experience, I fully plan on
+getting my games reviewed each day.
 
 After the review session I took a break from the conference to wrap up my
 blog entry on the first day of the congress. By the time I returned
