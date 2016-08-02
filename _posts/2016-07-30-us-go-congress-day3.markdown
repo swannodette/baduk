@@ -129,7 +129,7 @@ play for black and white. Jonathan Hop 4D, author of the
 series as well as translator of
 [excellent NHK content](https://www.youtube.com/watch?v=noCZ5gwRBCY)
 was participating as well. It was basically a 4-5 person impromptu study
-study group and we all had a lot of fun and I learned a lot.
+group and we all had a lot of fun and I learned a lot.
 
 Around 9pm things started winding down. After a couple of pizza slices
 with Harry I headed back to the AirBnB. The evening ended with a lot
