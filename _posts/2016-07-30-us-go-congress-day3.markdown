@@ -80,9 +80,9 @@ same time, after each win (she didn't lose to anyone) she would spend
 this was really astounding to behold.  I've embedded her commentary
 along with the record. 
 
-<iframe id="gokibitz-4kj073Odb" src="//gokibitz.com/kifu/4kj073Odb"
+<iframe id="gokibitz-4keipDYO-" src="//gokibitz.com/kifu/4keipDYO-"
 style="width: 100%; max-height: 894px; display: block; border: 10px
-solid snow; margin-bottom: 1em"></iframe> <script src="//gokibitz.com/embed/4kj073Odb"></script>
+solid snow; margin-bottom: 1em"></iframe> <script src="//gokibitz.com/embed/4keipDYO-"></script>
 
 <image width="400" style="float: right; margin-left: 1em;
 margin-bottom: 1em; border: 1px solid;"
