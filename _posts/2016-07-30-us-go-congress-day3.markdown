@@ -60,7 +60,7 @@ I grabbed a tasty Chinese lunch across the street from the congress
 with my Go buddy (Ien Cheng) and a new friend Ethan from the NYC Mostly
 Go Meetup. While scarfing down double cooked pork we all talked about
 our love for the game and our various approaches to
-self-improvement. As we were finishing Stephanie Yin (1P) came
+self-improvement. As we were finishing Stephanie Yin 1P came
 in and we chatted briefly about her new Go school in Flushing, New
 York! We plan to check it out at the soonest opportunity.
 
@@ -78,7 +78,7 @@ lot of fun! And even though Lee Dayhe played six congress attendees at the
 same time, after each win (she didn't lose to anyone) she would spend
 5 minutes reviewing critical moments of the game with perfect recall -
 this was really astounding to behold.  I've embedded her commentary
-along with record. 
+along with the record. 
 
 <iframe id="gokibitz-4kj073Odb" src="//gokibitz.com/kifu/4kj073Odb"
 style="width: 100%; max-height: 894px; display: block; border: 10px
@@ -89,7 +89,7 @@ margin-bottom: 1em; border: 1px solid;"
 src="http://swannodette.github.io/baduk/assets/images/anders.jpg"></image>
 
 Unbeknownst to me Anders Kierulf was behind me observing the
-game. After the Lee Dahye review he introduced himself. It was our
+games. After the Lee Dahye review he introduced himself. It was our
 first time to meet in person and we had a very nice friendly
 conversation about the awesomeness that is the US Go Congress (he's a
 veteran) as well as SmartGo Kifu and SmartGo Books, two fantastic bits
@@ -107,15 +107,16 @@ Bulldozers. This was a really fantastic talk that applies to pretty
 much any game whether you've just learned or you're an amateur 6
 dan. Kim categorized Puppydog play as mindlessly responding to your
 opponent without taking the time to assess the whole board. The
-Bulldozer play is when you keep pursuing a line of play which
-obviously won't work. As Lee Sedol says, Go is full of "twists and
+Bulldozer play is when you keep stubbornly persist in a plan which
+obviously isn't working. As Lee Sedol sez, Go is full of "twists and
 shakes" and it's probably best not to drive off the side of the
-mountain. Kim's lecture drove this principle home and I intend to keep
-this mind in the remaining four rounds of the US Open.
+mountain. I intend to keep to this mind in the remaining four rounds
+of the US Open.
 
 During a five minute break during the lecture I had a chance to chat
 very briefly with Brady Daniels of
-[Brady's Blunders](https://www.youtube.com/user/wineandgolover1)!
+[Brady's Blunders](https://www.youtube.com/user/wineandgolover1) who
+was sitting right behind me!
 
 # Evening League
 
@@ -123,7 +124,7 @@ I scoped out the Evening League but I didn't feel particularly
 inclined to play. I checked in with another Mostly Go friend, Harry
 Teitelman, and he was in the lounge area playing a kind of consulting/teaching
 game where everyone was exploring various lines of play for black and
-white. Jonathan Hop, author of the
+white. Jonathan Hop 4D, author of the
 [So You Want To Play Go?](https://www.amazon.com/So-You-Want-Play-Level-ebook/dp/B003X9781O#navbar)
 series as well as translator of
 [excellent NHK content](https://www.youtube.com/watch?v=noCZ5gwRBCY)
@@ -133,7 +134,8 @@ Jonathan's ideas as well a those of another strong kyu player.
 Around 9pm things started winding down. After a couple of pizza slices
 with Harry I headed back to the AirBnB. The evening ended with a lot
 of memorable chatting on a Boston rooftop about the beauty and mystery
-of Go with Ien and one of his old MIT buddies.
+of Go with Ien and one of his old MIT buddies who has a growing
+interest in the game.
 
 It was jam-packed day and once again I'm turning in to recharge for my
 game tomorrow.
