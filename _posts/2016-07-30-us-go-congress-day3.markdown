@@ -107,7 +107,7 @@ Bulldozers. This was a really fantastic talk that applies to pretty
 much any game whether you've just learned or you're an amateur 6
 dan. Kim categorized Puppydog play as mindlessly responding to your
 opponent without taking the time to assess the whole board. The
-Bulldozer play is when you keep stubbornly persist in a plan which
+Bulldozer play is when you stubbornly persist in a plan which
 obviously isn't working. As Lee Sedol sez, Go is full of "twists and
 shakes" and it's probably best not to drive off the side of the
 mountain. I intend to keep to this mind in the remaining four rounds
