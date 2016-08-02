@@ -122,19 +122,19 @@ was sitting right behind me!
 
 I scoped out the Evening League but I didn't feel particularly
 inclined to play. I checked in with another Mostly Go friend, Harry
-Teitelman, and he was in the lounge area playing a kind of consulting/teaching
-game where everyone was exploring various lines of play for black and
-white. Jonathan Hop 4D, author of the
+Teitelman, and he was in the lounge area playing a kind of
+consulting/teaching game where everyone was exploring various lines of
+play for black and white. Jonathan Hop 4D, author of the
 [So You Want To Play Go?](https://www.amazon.com/So-You-Want-Play-Level-ebook/dp/B003X9781O#navbar)
 series as well as translator of
 [excellent NHK content](https://www.youtube.com/watch?v=noCZ5gwRBCY)
-was participating as well. This was a lot fun, it was great to hear
-Jonathan's ideas as well a those of another strong kyu player.
+was participating as well. It was basically a 4-5 person impromptu study
+study group and we all had a lot of fun and I learned a lot.
 
 Around 9pm things started winding down. After a couple of pizza slices
 with Harry I headed back to the AirBnB. The evening ended with a lot
 of memorable chatting on a Boston rooftop about the beauty and mystery
-of Go with Ien and one of his old MIT buddies who has a growing
+of Go with Ien and one of his old MIT buddies who has a budding
 interest in the game.
 
 It was jam-packed day and once again I'm turning in to recharge for my
