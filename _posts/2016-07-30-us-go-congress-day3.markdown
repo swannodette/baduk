@@ -30,7 +30,7 @@ byo-yomi period. While I didn't check, I'm pretty sure my opponent was
 doing great on his time as he played his moves pretty quickly. This
 game record isn't complete because I just didn't have time to tend the
 record as the game was clearly extremely close and I had to make all
-my end game moves in under 30 seconds. I also didn't have time to
+my endgame moves in under 30 seconds. I also didn't have time to
 count during the last 20 minutes or so of the game so when we got to
 counting I knew it was going to be a couple of points either way. With
 some apprehension I watched my opponent count my area and then I
@@ -62,7 +62,7 @@ Go Meetup. While scarfing down double cooked pork we all talked about
 our love for the game and our various approaches to
 self-improvement. As we were finishing Stephanie Yin (1P) came
 in and we chatted briefly about her new Go school in Flushing, New
-York! Ien and I plan to check it out at the soonest opportunity.
+York! We plan to check it out at the soonest opportunity.
 
 At this point it was getting close to 1pm so I walked quickly back to
 the main hall where the tables were prepped for the pro simuls. There's a
@@ -89,12 +89,12 @@ margin-bottom: 1em; border: 1px solid;"
 src="http://swannodette.github.io/baduk/assets/images/anders.jpg"></image>
 
 Unbeknownst to me Anders Kierulf was behind me observing the
-game. After the Lee Dahye review he introduced himself and complimented my
-play. It was our first time to meet in person and we had a very nice
-friendly conversation about the awesomeness that is US Go Congress
-(he's a veteran) as well as SmartGo Kifu and SmartGo Books, two
-fantastic bits of Go software I can now no longer imagine living
-without. Thanks to Nathan Eagle for clandestinely snapping this photo!
+game. After the Lee Dahye review he introduced himself. It was our
+first time to meet in person and we had a very nice friendly
+conversation about the awesomeness that is the US Go Congress (he's a
+veteran) as well as SmartGo Kifu and SmartGo Books, two fantastic bits
+of Go software I can now no longer imagine living without. Thanks to
+Nathan Eagle for clandestinely snapping this photo!
 
 <image width="400" style="float: left; margin-right: 1em;
 margin-bottom: 1em; border: 1px solid;"
@@ -109,8 +109,31 @@ dan. Kim categorized Puppydog play as mindlessly responding to your
 opponent without taking the time to assess the whole board. The
 Bulldozer play is when you keep pursuing a line of play which
 obviously won't work. As Lee Sedol says, Go is full of "twists and
-turns" and it's probably best not to drive off the side of the
+shakes" and it's probably best not to drive off the side of the
 mountain. Kim's lecture drove this principle home and I intend to keep
-this mind in the remaining four round of the US Open.
+this mind in the remaining four rounds of the US Open.
+
+During a five minute break during the lecture I had a chance to chat
+very briefly with Brady Daniels of
+[Brady's Blunders](https://www.youtube.com/user/wineandgolover1)!
 
 # Evening League
+
+I scoped out the Evening League but I didn't feel particularly
+inclined to play. I checked in with another Mostly Go friend, Harry
+Teitelman, and he was in the lounge area playing a kind of consulting/teaching
+game where everyone was exploring various lines of play for black and
+white. Jonathan Hop, author of the
+[So You Want To Play Go?](https://www.amazon.com/So-You-Want-Play-Level-ebook/dp/B003X9781O#navbar)
+series as well as translator of
+[excellent NHK content](https://www.youtube.com/watch?v=noCZ5gwRBCY)
+was participating as well. This was a lot fun, it was great to hear
+Jonathan's ideas as well a those of another strong kyu player.
+
+Around 9pm things started winding down. After a couple of pizza slices
+with Harry I headed back to the AirBnB. The evening ended with a lot
+of memorable chatting on a Boston rooftop about the beauty and mystery
+of Go with Ien and one of his old MIT buddies.
+
+It was jam-packed day and once again I'm turning in to recharge for my
+game tomorrow.
