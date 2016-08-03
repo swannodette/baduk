@@ -138,7 +138,7 @@ level observers) were kind enough to walk us through a bunch of
 concepts explained in a simple way that I hadn't quite encountered
 before. The whole experience reminded me how much easier it is grasp
 concepts through conversation and face-to-face demonstration then it
-is to eek it out of a book and self-study.
+is to eke it out of a book and self-study.
 
 It was getting a bit late for me so I had to eventually excuse myself
 but I decided that I would definitely be coming back tomorrow for the
