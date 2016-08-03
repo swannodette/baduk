@@ -112,12 +112,12 @@ activities.
 
 # Evening League
 
-I came back for the Evening League which once again I didn't actually
-end up participating in. Instead I played a really fun even game with
-Ethan from who I know from Mostly Go. It wasn't super serious in that
-we spent a lot of time chatting about the game. David 1D (not me), the
-person who we ran into the Amtrak line observed our game and patiently
-answered many questions we both had about various board
+I came back for the Evening League which, once again, I didn't
+actually end up participating in. Instead I played a really fun even
+game with Ethan from Mostly Go. It wasn't a super serious game in that
+we spent a lot of time discussing while playing. David 1D (not me,
+the person who we met in Amtrak line) observed our game and
+patiently answered many questions we both had about various board
 situations. Eventually David had to leave but he said he would be
 attending the Mostly Go meetup more frequently now.
 
@@ -136,10 +136,11 @@ both talked about how much we struggled with the opening as well as
 the transition to the middlegame. Kevin (as well as some other dan
 level observers) were kind enough to walk us through a bunch of
 concepts explained in a simple way that I hadn't quite encountered
-before.
+before. The whole experience reminded me how much easier it is grasp
+concepts through conversation and face-to-face demonstration then it
+is to eek it out of a book and self-study.
 
 It was getting a bit late for me so I had to eventually excuse myself
 but I decided that I would definitely be coming back tomorrow for the
-hard core day. If anything my experience so far has show me just how
-much more I really need to learn as well as how much I really should
-be playing if I truly want to improve.
+die hard day. If anything my experience so far has shown me that in
+order to improve I really need to play more games.
