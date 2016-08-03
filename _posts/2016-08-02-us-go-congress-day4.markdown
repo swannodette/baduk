@@ -98,7 +98,7 @@ line for the review.
 margin-bottom: 1em; border: 1px solid;"
 src="http://swannodette.github.io/baduk/assets/images/yang.png"></image>
     
-Yang Yulin walked up wearing a cap and an awesome Cotsen Open t-shirt
+Yang Yulin walked up wearing a cap and a Cotsen Open t-shirt
 which said "Go Big or Go Home Just Go". On the back was an image of
 Alien vs. Predator playing Go. It was pretty awesome. Yang Yilun had
 an incredible sense of humor and he had us laughing during the whole
