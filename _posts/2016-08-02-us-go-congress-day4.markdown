@@ -116,7 +116,7 @@ I came back for the Evening League which, once again, I didn't
 actually end up participating in. Instead I played a really fun even
 game with Ethan from Mostly Go. It wasn't a super serious game in that
 we spent a lot of time discussing while playing. David 1D (not me,
-the person who we met in Amtrak line) observed our game and
+the person who we met in the Amtrak line) observed our game and
 patiently answered many questions we both had about various board
 situations. Eventually David had to leave but he said he would be
 attending the Mostly Go meetup more frequently now.
