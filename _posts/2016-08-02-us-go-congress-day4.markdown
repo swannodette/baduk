@@ -55,6 +55,7 @@ demo with my US Open records.
 margin-bottom: 1em; border: 1px solid;"
 src="http://swannodette.github.io/baduk/assets/images/zhou.png"></image>
 
+
 I wanted to get my round 2 game reviewed by Feng Yun but I arrived too
 late. Still I stuck around to watch several commentaries because as
 usual there was tons to learn. She finished a bit early since she
