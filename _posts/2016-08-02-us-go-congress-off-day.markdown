@@ -8,10 +8,11 @@ date:   2016-08-03
 
 Today was the off day. After three rounds of the US Open and three
 rounds of the US Open ahead of me, I thought it perhaps wise to have a
-rest day. I slept in and got off to a much needed late start. I met
-Ien and his friend Tony for lunch at a terrific Shanghainese
-restaurant close to MIT. Afterwards Ien and I went sighting seeing in
-and around the MIT campus. Our first stop off was the MIT Museum.
+rest day and skip the die hard tournament. I slept in and got off to a
+much needed late start. I met Ien and his friend Tony for lunch at a
+terrific Shanghainese restaurant close to MIT. Afterwards Ien and I
+went sighting seeing in and around the MIT campus. Our first stop off
+was the MIT Museum.
 
 # Origins of AI
 
