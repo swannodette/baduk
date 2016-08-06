@@ -62,7 +62,7 @@ Nathan and a friend in a Rengo game which I observed for a little
 while. Nathan's side won. When they wandered off I took a second to
 work on a blog post and Brady Daniels came by to say hello. We
 chatted about our US Open games - he lost to Keith Arnold
-today. There was particularly critical move that Brady missed so we
+today. There was a critical move that Brady missed so we
 joined some of his friends to go through a fairly fast review.
 
 Once Brady showed the move and the consequences it was pretty clear
