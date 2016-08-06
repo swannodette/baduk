@@ -85,7 +85,7 @@ Shawn Legocki. I observed for a little bit before heading to Guo
 Juan's lecture, Typical Mistakes 5 kyu to 3 dan. Guo Juan was a great
 presenter and her online teaching software seems very well
 considered. I stayed for about half the presentation and headed back
-to the lounge area. Nathan I agreed to meetup around 6:30pm for dinner
+to the lounge area. Nathan and I agreed to meetup around 6:30pm for dinner
 and I headed back to the AirBnB to get a couple hours of blog writing
 in.
 
