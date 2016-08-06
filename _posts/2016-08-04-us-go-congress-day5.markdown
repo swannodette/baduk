@@ -100,7 +100,7 @@ underway I did a quick walk around to scope out the boards before
 going next door to observe Ien's game.
 
 Ien was playing a game with a fellow named Shawn, and Harry was
-playing a game with fellow whose name escapes me. I also saw Ethan
+playing a game with a fellow whose name escapes me. I also saw Ethan
 playing a game as well. I thought about playing but instead I wandered
 around between these boards. I spent a particularly long time on Ien's
 board since I originally taught him Go, and I try to give him what
