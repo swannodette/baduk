@@ -93,7 +93,7 @@ in.
 
 Nate Eagle, Shawn Legocki and I took a thirty minute walk down
 Commonwealth Avenue to the Korean spot I heard about - Myung Dong. The
-walk was really pleasant thanks to the mild temperatue and the
+walk was really pleasant thanks to the mild temperature and the
 company. When we arrived we ordered kalbi BBQ, bimbimbap, haemul
 pajun, doenjang chigae and soju. All of it was pretty delicious and I was
 happy that everyone enjoyed my choices. Over dinner we traded stories
