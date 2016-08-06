@@ -37,7 +37,7 @@ bite and if you get there around noon then you can sit down almost
 immediately. The service is also quite quick which was nice since we
 wanted to get back for the reviews. While we ate we chatted about our
 games - Ien lost his. Ien entered the congress at self-declared 15 kyu
-and ended up winning his first two games and losing his third. Live go
+and ended up winning his first two games and losing his third. Live Go
 is still a new thing for him so in many ways he's still getting his
 bearings (I am too of course but I play more regularly at Mostly Go).
 
@@ -58,7 +58,7 @@ about the first half of the game anyhow.
 
 After the review I poked my head into Feng Yun's invasion lecture but
 I was a bit too unfocused today to stick around. Downstairs I spotted
-Nathan and friend in a Rengo game which I observed for a little
+Nathan and a friend in a Rengo game which I observed for a little
 while. Nathan's side won. When they wandered off I took a second to
 work on a blog post and Brady Daniels came by to say hello. We
 chatted about our US Open games - he lost to Keith Arnold
@@ -92,7 +92,7 @@ Evening League.
 
 # Pair Go & Evening League
 
-As we walked into the main hall Pair Go was just getting started. Ien
+As we walked into the main hall, Pair Go was just getting started. Ien
 made a quick dash into the other room to get a Evening League game in
 but I stuck around to observe. Many pairs were dressed up for the
 event and quite a few pros were participating. Once the games were
