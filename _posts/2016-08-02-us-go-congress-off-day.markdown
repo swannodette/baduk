@@ -21,7 +21,7 @@ margin-bottom: 1em; border: 1px solid;"
 src="http://swannodette.github.io/baduk/assets/images/mccarthy.jpg"></image>
 
 I really wanted to visit the MIT Museum to take a look at the old MIT
-Lisp Machine they have there. Lisp was a programming language created
+Lisp Machine they have there. Lisp is a programming language created
 by John McCarthy in 1957 (pictured on the left) to pursue artificial
 intelligence, a term he actually coined. There's no question that the AlphaGo
 dream would not have been possible without the important work of AI
