@@ -66,7 +66,7 @@ src="http://swannodette.github.io/baduk/assets/images/awards2.jpg"></image>
 Awards were announced, songs were sung, poems read, signed boards and
 bowls auctioned, and the amazing volunteers that made the event
 possible received a standing ovation. On the way out I saw the Korean
-pros lining up for photo so I snapped one myself.
+pros lining up for a photo so I snapped one myself.
 
 Nate was up a for an evening of celebration now that we didn't have an
 Open game looming in our future. Jonathan Hop was game also and so was
