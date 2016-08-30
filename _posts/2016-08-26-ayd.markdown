@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Yunguseng Dojang"
+date:   2016-08-30
+---
+
+<div style="width: 400px; float: right; margin-left: 1em">
+    <image style="margin-bottom: 0.5em" width="400" 
+           src="http://swannodette.github.io/baduk/assets/images/badukschool04.jpg"></image>
+    <p style="font-size: 11px">Image from https://rongen17.home.xs4all.nl</p>
+</div> 
+
+On a whim, a week ago I decided to sign up for the 16th season of
+[In-seong Hwang's American Yunguseng Dojang](http://ayd.yunguseng.com)
+(AYD). This [insei](http://senseis.xmp.net/?Insei) style online school
+came up in several conversations at US Go Congress and much of the
+sentiment expressed was very positive. After my fantastic experience
+at the US Go Congress, AYD's round robin tournament format with longer
+game time controls combined with lectures and weekly reviews really
+resonates with me. I signed up to try it out for a month with the
+intention of sticking around for the whole season if it goes well.
+
+It wasn't clear that I would be able to get in since AYD is structured
+around leagues and each league must have at least six players. When I
+signed up there wasn't quite enough people to fill out an additional
+league. Still I was given access to the video lectures which I started
+going through and I must say I'm very impressed by their quality. So I
+crossed my fingers guessed that in the worst case I could stick around
+as an observer for the season. 
+
+However, just yesterday I got an email saying I made it in! I'll
+definitely be writing about my first month in AYD here so stay tuned.
