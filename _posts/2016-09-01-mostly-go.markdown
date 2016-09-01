@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Mostly Go"
+date:   2016-09-01
+---
+
+<image width="300" style="float: right; margin-left: 1em;
+margin-bottom: 1em;"
+src="http://swannodette.github.io/baduk/assets/images/pie.png"></image>
+
+You live in New York City. You like Go. What should you do?
+
+Head on over to Pie By The Pound every Wednesday between 6pm and
+10pm!
+
+Shortly after the AlphaGo matches against Fan Hui, I decided I really
+needed to check out the Manhattan Go scene. After a surprising amount
+of stumbling about I finally came across the
+[Mostly Go Meetup](http://www.meetup.com/mostlygo/). The meetup was a
+kind of umbrella for three distinct weekly events. One of these was up
+by Columbia University (The Hungarian Pastry Shop), another at a game
+parlor popular with NYU students (the event was somewhat
+inconveniently scheduled for Sunday afternoons), and another,
+centrally located just a few blocks away from Union Square. None of
+these events had much in the way of typical "I'm going"
+confirmations, so from the online impression at least these events looked
+abandoned. Still who knew? If I recall correctly, I pulled Ien, Zane, and several
+other friends along to scope out the central event out for
+the first time this past February.
+
+The central meetup is hosted at Pie By The Pound, a nice little spot that
+sells pretty tasty pizza that has a fairly large back area with a
+significant number of board games stacked on a bench. This game stack
+includes several Go boards of varying degrees of quality. We walked up
+around 7pm and we were stunned to see all boards occupied with a solid
+15 people in attendance. In fact it became pretty clear that in order
+to really guarantee a game it's probably best to bring whatever travel
+set you own (I have the Bento set from GoGameGuru).
+
+<image width="400" style="float: left; margin-right: 1em;
+margin-bottom: 1em;"
+src="http://swannodette.github.io/baduk/assets/images/pie_play.png"></image>
+
+We nervously introduced ourselves and found the attendees to be
+incredibly friendly. The strength range was comfortingly broad - from
+AGA 7 dan to absolute beginners looking to learn the game. Because of
+the Go handicap system it's not hard to find an opponent and play an
+interesting game. I've given four stones to 14 kyus and lost and taken
+six stones from 7 dans and lost. Point is, your skill level should not
+be a deterrent, you can absolutely play a game and have a fantastic
+time. Plus if you record your game several of the regular stronger
+players are more than happy to give friendly reviews.
+
+Unsurprisingly, many of the attendees are quite active in the broader
+American Go scene. Not only did we see many familiar faces at the US
+Go Congress, many of those faces turned out to be people who have been
+pretty heavily involved in promoting Go for some time.
+
+All this to say, if you're a Go enthusiast and you're not attend
+Mostly Go, you are seriously missing out. Come and bring your
+portable Go set. 
+
+See you across the board!
