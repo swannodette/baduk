@@ -56,7 +56,7 @@ American Go scene. Not only did we see many familiar faces at the US
 Go Congress, many of those faces turned out to be people who have been
 pretty heavily involved in promoting Go for some time.
 
-All this to say, if you're a Go enthusiast and you're not attend
+All this to say, if you're a Go enthusiast and you're not attending
 Mostly Go, you are seriously missing out. Come and bring your
 portable Go set. 
 
