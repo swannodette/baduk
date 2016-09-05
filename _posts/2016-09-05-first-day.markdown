@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "First Day of Class"
+date:   2016-09-05
+---
+
+<image style="float: right; margin-left: 1em; margin-bottom: 0.5em" width="400" 
+       src="http://swannodette.github.io/baduk/assets/images/apple-256261_640.jpg"></image>
+
+Today marks the start of the 16th season of American Yunguseng
+Dojang (AYD). It feels like the first day of school! So far I've been very
+impressed with how smoothly AYD is run. All the rounds have been
+scheduled and we received the emails of every member in our respective
+leagues so that we can reschedule as of course life often demands. I'm
+in fact playing my first round tomorrow at 6pm instead of Thursday
+because I'm traveling for work.
+
+The first lecture is this evening at 9pm, but I accidentally watched
+the same lecture given to the European Yunguseng Dojang this afternoon
+as I happened to be logged into KGS. As expected, the lecture was
+great. In-seong Hwang's style is to focus on only a very few concepts
+each lecture and drill the idea home with many, many examples from
+professional games, his own games, and Yunguseng games. His laser
+focus on fundamentals reminds me a lot of what I enjoyed about the pro
+reviews at the US Go Congress. I look forward to In-seong's reviews of
+round one on Thursday with great anticipation.
+
+Perhaps precisely because I've joined AYD, I've started playing a lot
+more often on KGS. Unfortunately I've been on a bit of a losing streak.
+It happens to everyone and I don't feel particularly discouraged by it
+or anything like that, in fact quite the opposite. When reviewing the
+losses it's surprsing how many of the critical errors made are
+incredibly simple reading problems - nothing complicated. Live games
+can really cloud your judgement and I just don't play enough of
+them. I'm also probably at the 7 kyu hump and my book-ish approach to Go is
+finally catching up with me. Which isn't to say I'm going to stop
+hitting the books, it's just that now it's clear there's likely an
+imbalance.
+
+So for me the month of September is going to be one of focusing on the
+fundamentals and playing many more live games - at least a couple of
+KGS medium speed games a week in addition to my AYD League games and
+my games at Mostly Go when I can fit it in. If I get to the other side
+of September with a less foggy head while playing my live matches and
+fewer obvious mistakes (at my level anyway) then I'll be quite pleased.
