@@ -34,8 +34,7 @@ incredibly simple reading problems - nothing complicated. Live games
 can really cloud your judgement and I just don't play enough of
 them. I'm also probably at the 7 kyu hump and my book-ish approach to Go is
 finally catching up with me. Which isn't to say I'm going to stop
-hitting the books, it's just that now it's clear there's likely an
-imbalance.
+hitting the books, it's just that now it's clear there's an imbalance.
 
 So for me the month of September is going to be one of focusing on the
 fundamentals and playing many more live games - at least a couple of
