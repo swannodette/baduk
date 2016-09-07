@@ -19,7 +19,7 @@ and I was able to push through. I also felt pretty lucky
 that black didn't try to invade the upper left at the 3-3. My white
 formation there seemed very weakened at least to me after black 45.
 
-After white 92 I started feeling more confident about the the flow of
+After white 92 I started feeling more confident about the flow of
 the game. Still I've lost similar games where I felt I had the lead so
 I wasn't about to get cocky.
 
