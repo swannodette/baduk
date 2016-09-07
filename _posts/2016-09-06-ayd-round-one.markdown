@@ -29,5 +29,5 @@ rushed. This is a new feeling for me on KGS where I usually play with
 Open but it's long enough to prevent purely impulsive moves that are
 impossible to recall the rationale for later.
 
-Again I'm what I'm really looking forward to is In-seong's criticisms
-on Thursday. Winning is nice but improving is much better.
+Again what I'm really looking forward to is In-seong's criticisms
+on Thursday. Winning is nice but improving is better.
