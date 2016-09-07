@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Grades"
+date:   2016-09-07
+---
+
+棋经十三篇 (Weiqi Classic in Thirteen Chapters) written nearly one
+thousand years ago enumerated the grades of W&eacute;iq&iacute;. Unsurprisingly there
+are nine of them. Each grade is represented by two characters. I don't
+know any Chinese so the best I can do is offer several interpretations
+of their meaning as translated by **(A)** John Fairbairn (from his fantastic
+edition of The Gateway to All Marvels, aka The Profound and Mysterious, aka
+[XuanXuanQijing](http://senseis.xmp.net/?XuanxuanQijing)), **(B)** an old post
+on
+[rec.games.go](https://groups.google.com/forum/#!forum/rec.games.go)
+and **(C)** a
+[published paper](http://www.figg.org/old_figg/www.figg.org/areafile/qjssp.pdf).
+We start with 9 dan and proceed to the lower ranks:
+
+# 入神 (rushen)
+
+* (A) Absorbed in the game blissfully unaware.
+* (B) Oblivious of self.
+* (C) Being in the spirit.
+
+# 坐照 (zhuozhao)
+
+* (A) Able to sit and understand all around.
+* (B) Crystal clear.
+* (C) Seated in enlightenment.
+
+# 具体 (juti)
+
+* (A) Having a body with no weak points.
+* (B) Encyclopedic.
+* (C) Concreteness.
+
+# 通幽 (tongyou)
+
+* (A) Having a clear understanding of the myseries.
+* (B) Dawn.
+* (C) Understanding changes.
+
+# 用智 (yongzhi)
+
+* (A) Using resourcefulness.
+* (B) Battle of wits.
+* (C) Applying wisdom.
+
+# 小巧 (xiaoqiao)
+
+* (A) Having ingenious ways of playing.
+* (B) Shrewd.
+* (C) Ability.
+
+# 斗力 (douli)
+
+* (A) Fighting strength.
+* (B) Battle of strength.
+* (C) Strength.
+
+# 若愚 (ruoyu)
+
+* (A) Playing as if stupid.
+* (B) Appearing dull.
+* (C) Being quite inept.
+
+# 守拙 (shouzhou)
+
+* (A) Defending clumsily.
+* (B) Clumsy but self knowledge.
+* (C) Being truly stupid.
+
+As with any translation likely all of these have problems, especially
+when, if I'm understanding correctly, these grades are actually still
+used on diplomas. The last two in particular, I'm sure, probably have
+more generous translations.
+
+Still it humorously puts into perspective how vast the the ability gap
+is even after achieving shodan. This was driven home to me when
+attending the US Go Congress. If you were 1 kyu or 1 dan you were
+pretty much exactly in the middle of the capability present at the
+Congress!
+
+I look forward to "defending clumsily" one day!
