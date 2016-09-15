@@ -16,8 +16,9 @@ killing the white group in the lower left corner. I consider myself
 lucky. By this point I had used up a significant amount of time (as
 usual) and spent the remainder of the game in byo-yomi. I believe I
 had a small lead which was sealed by killing the white group in the
-lower right corner. Since I've haven't been able to shake my KGS
-losing streak yet, this Yunguseng Dojang win was most welcome.
+lower right corner. Since I've haven't been able to
+[shake my KGS losing streak yet](https://gokibitz.com/kifu/EJzf3YW3W),
+this Yunguseng Dojang win was most welcome.
 
 While I made some obvious mistakes (and I'm sure In-seong will find
 the ones which aren't obvious to me), the one thing I'm happy about in
