@@ -57,7 +57,7 @@ seemed "too basic". These days I'm discovering again and again it's in
 the fact the basics that I need to focus on. So I purchased both
 volumes and started studying.
 
-The book opens with with a couple pages of review on each of the following
+The book opens with a couple pages of review on each of the following
 topics:
 
 * Surrounding and Escaping
