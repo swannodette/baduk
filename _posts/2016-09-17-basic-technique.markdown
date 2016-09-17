@@ -51,7 +51,7 @@ Cho Hun-hyeon on the left
 He didn't give a specific suggestion with respect to studying
 patterns, so I wondered the best way to go about it. Suddenly I
 vaguely recalled browsing the preview of
-[Cho Hun-hyeon's Lectures on Go Technique's](http://senseis.xmp.net/?ChoHunHyeonsLecturesOnGoTechniques)
+[Cho Hun-hyeon's Lectures on Go Techniques](http://senseis.xmp.net/?ChoHunHyeonsLecturesOnGoTechniques)
 available on SmartGo Books. I had decided it wasn't for me because it
 seemed "too basic". These days I'm discovering again and again it's in
 the fact the basics that I need to focus on. So I purchased both
