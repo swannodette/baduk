@@ -44,7 +44,7 @@ I was able to pull through with a half point win the fourth round
 thanks to an overlooked cut by my opponent. White had the advantage
 for most of the game due to several mistakes I made as pointed out by
 In-seong. I had seen most of the big/urgent moves he suggested but
-my intuition for when they should to be played needs further
+my intuition for when they should be played needs further
 development.
 
 The big mistakes for me in this round was approaching the top left on
