@@ -50,9 +50,9 @@ development.
 The big mistakes for me in this round was approaching the top left on
 the narrower side (for my potential shape) and then not producing a
 sensible shape. My timing for enclosing the upper right corner was way
-off. Finally, my iron pillar in the lower left was notably of DDK
-quality by In-seong. I should have just kicked. I suspect I'll never
-make that mistake ever again.
+off. Finally, my iron pillar in the lower left was pointed out as
+notably of DDK quality by In-seong. I should have just kicked. I
+suspect I'll never make that mistake ever again.
 
 Happily, In-seong did say the game was *stable*! I suspect Season 16
 is going to be pretty much entirely focused on pursuing stability and
