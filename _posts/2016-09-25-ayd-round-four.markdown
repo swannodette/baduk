@@ -29,7 +29,7 @@ this evening.
 
 Also my intuition about Cho Hun-hyeon's book with respect to
 In-seong's emphasis on gathering practical knowledge about basic
-patterns turned out to be right on. I'm constantly about reading
+patterns turned out to be right on. I'm constantly reading about
 something In-seong mentioned in a lecture or review and vice versa. So
 reinforcement learning for the win!
 
