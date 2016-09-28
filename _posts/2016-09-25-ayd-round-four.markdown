@@ -36,8 +36,8 @@ reinforcement learning for the win!
 # Round 4
 
 <iframe id="gokibitz-4yFbuYWpW" src="//gokibitz.com/kifu/4yFbuYWpW"
-style="float: right; margin-left: 1em; width: 400px; display: block;
-border: 10px solid snow;"></iframe> <script
+style="float: right; margin-left: 1em; width: 400px; min-height:
+560px; display: block; border: 10px solid snow;"></iframe> <script
 src="//gokibitz.com/embed/4yFbuYWpW"></script>
 
 I was able to pull through with a half point win the fourth round
