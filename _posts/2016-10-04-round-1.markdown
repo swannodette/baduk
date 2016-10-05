@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "League G, Round 1"
+date:   2016-10-04
+---
+
+<iframe id="gokibitz-Ey2_9UaTW" src="//gokibitz.com/kifu/Ey2_9UaTW"
+style="float: right; margin-left: 1em; width: 400px; min-height:
+560px; display: block; border: 10px solid snow;"></iframe> <script
+src="//gokibitz.com/embed/Ey2_9UaTW"></script>
+
+At US Go Congress I often heard repeated that as you get stronger the
+game just gets harder. Well tonight felt like a pretty good
+confirmation of that. This first game of the month was against the top
+player in league G (and I'm the bottom player). The game ended with my
+resignation. I made several misreads at the end, but that wasn't the
+real story of the game - it seemed pretty clear to me that I had an
+inferior position and few options. Something had gone
+wrong much earlier in the game and I'm looking forward to the review
+to figure out where I went astray. I do suspect my formation on the right was
+unideal, my cut in the center was an overplay 
+(since the surrounding positions were not in my favor), and I delayed
+doing something about the bottom far too long.
+
+My opponent was kind enough to do a short review after the game and he
+focused on the opening moves. He pointed out some typical options
+against the Kobayashi. This is yet another opening I don't really know
+anything about beyond the placement of the initial stones. In-seong
+has a video lecture on this of course and it's now bumped to the top
+of my queue.
+
+So more KGS games and more studying! I plan on going into the next round
+with at least a better understanding of the Kobayashi and eye for
+avoiding the conceptual mistakes I made in this game whatever they
+turn out to be.
