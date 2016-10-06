@@ -53,7 +53,7 @@ when the event starts.
 After my game I chatted a bit with one of the Triangle Go organizers,
 Bob Bacon. Turns out they just held one of their biannual tournaments
 on September 25th with 39 players ranging from 30 kyu to 5 dan! Any Go
-enthusiast in the Triangle should feel lucky to have such an active
+enthusiast in the Triangle area should feel lucky to have such an active
 club. 
 
 It was starting to get late so I said my farewells and wandered
