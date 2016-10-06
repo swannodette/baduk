@@ -45,7 +45,7 @@ bought my first board and my first go books more than a decade ago!
 
 We played a teaching game and I hope my opponent enjoyed it. While we
 played I took a look around, there were a couple of new games going on
-at it this point. The vibe reminded me a bit of
+at this point. The vibe reminded me a bit of
 [Mostly Go](http://swannodette.github.io/baduk/2016/09/01/mostly-go.html) -
 relaxed, and you can definitely get two games in if you make it by 7pm
 when the event starts.
