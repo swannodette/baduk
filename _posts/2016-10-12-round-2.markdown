@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "League G, Round 2"
+date:   2016-10-12
+---
+
+<iframe id="gokibitz-Ey-_61uC-" src="//gokibitz.com/kifu/Ey-_61uC-"
+style="float: right; margin-left: 1em; width: 400px; min-height:
+560px; display: block; border: 10px solid snow;"></iframe> <script
+src="//gokibitz.com/embed/Ey-_61uC-"></script>
+
+Second game of October. I lost this one by 3.5 points, and to tell you
+the truth, it was a really darn fun game. Unlike the previous round, I
+felt like I held my own against an opponent rated a couple stones of
+stronger than myself. Once again I played the Chinese across the top
+though I made a mistake this time around by not just kicking my
+opponent's approach stone in the upper left. Still, I was able to
+pressure the white invasion stones and build a comfortable framework.
+
+The game proceeded with some heavy fighting in the lower part of the
+board that ended more or less settling my left side territory. I was
+happy that I didn't submit to white 108. I feel like I may have made a
+strategic error at move 127 - that was probably the moment to play my
+sente plays against white's bottom right and then come back and
+reinforce the top. I think I was concerned about the center but white
+needed at least a couple moves to convert it into something substantial.
+
+As far as what I've been doing the past week between rounds, I'm still
+working through my second pass at Cho Hun-hyeon's first technique
+book. It's amazing how quickly you can forget something you literally
+just read. It'd also been a while since I'd cracked open Graded Go
+Problems For Beginners Volume 3 (GGPFB3) so I've been running through
+it the past couple of days. I now find these problems considerably
+simpler and faster to solve than the fifth volume of Jump Level Up!
+The one place where I do seem to consistently make mistakes in GGPFB3
+still are the joseki problems. Unsurprising given my experience in
+Yunguseng so far, patterns are one of my biggest weaknesses. I did
+review In-seong's video on the Kobayashi opening and I feel like I
+understand the basics now though there an incredible number of
+variations.
+
+I've also played 2 regular rated games against 5 kyus on KGS both
+of which I lost. However, I'm starting to get a tingling feeling
+these opponents are no longer that far out of my reach.
