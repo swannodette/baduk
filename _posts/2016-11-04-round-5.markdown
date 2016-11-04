@@ -4,10 +4,10 @@ title:  "League G, Round 5"
 date:   2016-11-04
 ---
 
-<iframe id="gokibitz-41nYkZrxG" src="//gokibitz.com/kifu/41nYkZrxG"
+<iframe id="gokibitz-VJXRwbSeG" src="//gokibitz.com/kifu/VJXRwbSeG"
 style="float: right; margin-left: 1em; width: 400px; max-height:
 560px; display: block; border: 10px solid snow;"></iframe> <script
-src="//gokibitz.com/embed/41nYkZrxG"></script>
+src="//gokibitz.com/embed/VJXRwbSeG"></script>
 
 Yunguseng had a week long break and during that time I was traveling
 for work so there was little free time for me to post. Tonight I just
