@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "League G, Round 5"
+date:   2016-11-04
+---
+
+<iframe id="gokibitz-41nYkZrxG" src="//gokibitz.com/kifu/41nYkZrxG"
+style="float: right; margin-left: 1em; width: 400px; max-height:
+560px; display: block; border: 10px solid snow;"></iframe> <script
+src="//gokibitz.com/embed/41nYkZrxG"></script>
+
+Yunguseng had a week long break and during that time I was traveling
+for work so there was little free time for me to post. Tonight I just
+finished the final game of my second month which I won because my
+opponent ran out of time. At one point I was managing two weak groups,
+but I got lucky and both of them survived. After that, I thought I
+was doing okay and could see a possible path to victory. I don't feel
+particularly positive or negative about this game and I'm looking
+forward to the review to see which of my ideas were reasonable.
+
+My record this month was 2-3 and being the lowest ranked player (your
+rank is used as the tiebreaker if other people end up with the same
+win/loss record) I'll be going to back League H. This month has really
+shown me how much more I have to learn, and next month I'll be
+fighting hard to get back into League G and this time better
+prepared. Still, all this playing & studying is paying off; I finally
+feel like I've properly achieved 6 kyu on KGS and if I can win a few
+more games I think I can break 5 kyu before 2017!
+
+In other news, I'm really looking forward to the weekend as Nathan
+Eagle (lead developer of [GoKibitz](http://gokibitz.com) is visiting
+tomorrow. On Saturday, the two of us and several other US Go Congress
+friends are going to make the trek to Stephanie Yin's (1P) school in
+Flushing, New York.
+
+Expect lots of stories and hopefully some cool photos!
