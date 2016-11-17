@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "5 kyu"
+date:   2016-11-16
+---
+
+> "Becoming one stone stronger is the supreme enjoyment." - Go Seigen
+
+<image width="400" style="float: right; margin-left: 1em;
+margin-bottom: 1em;"
+src="http://swannodette.github.io/baduk/assets/images/kamakura-juban-go.png"></image>
+
+I finally properly broke through to KGS 5 kyu! I'd been floating just
+below for about a week unable to push through. While I was faring OK
+against KGS 7 kyus and 6 kyus, each reverse komi game against a KGS 5
+kyu would push me back down. But yesterday I eked out a 1.5 point win
+against a 5 kyu in a game that I felt pretty good about and this
+evening started out with a rude resignation (if I'm playing a 25
+minute game I'm gonna use my time, dammit!).
+
+All of sudden I was 5 kyu.
+
+But it didn't feel proper, so I went ahead and setup another KGS
+automatch. This time I played a 6 kyu (reverse komi) and won by 13.5
+points.
+
+When I joined Yunguseng I was 7 kyu so gaining two stones in two
+months feels pretty darn good. It also gives me considerable
+confidence that my current approach to studying Go is really paying
+off. Besides In-seong's lectures and reviews, I've continued my laser
+sharp focus on easy tsumego - I'm still working through Jump Level
+Up Volume 5. Also more recently I've come to really like the easy
+tsumego set in the WBaduk Go client. I find that these problems are a
+great way to reinforce Jump Level Up!  concepts without hints about
+which technique to apply. Finally, I find myself coming back to Cho
+Hun-hyun's Lectures again and again. I'm no longer surprised that I
+find In-seong's teachings mirrored in these lectures.
+
+Now I imagine I won't be able to sustain gaining one stone a month for
+much longer so Shodan still feels like a good ways off. But no matter,
+I'm happy to enjoy this moment for now.
