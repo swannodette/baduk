@@ -16,7 +16,7 @@ a weekend of Go. His visit would be the perfect excuse to round up
 some friends and make the trek out to Flushing to visit
 [Stephanie Yin's (1P)](http://senseis.xmp.net/?YinMingming) school,
 the [New York Institute of Go](http://www.ny-go.org). We decided that
-the first weekend of November would be good time for all.
+the first weekend of November would be a good time for all.
 
 Nate arrived at my Brooklyn apartment late Friday afternoon, November
 4th. I, of course, pulled out my Kuroki Goishiten set. We started an
@@ -75,7 +75,7 @@ src="http://swannodette.github.io/baduk/assets/images/nygo4.jpeg"></image>
 
 The following day Nate and I played one more game which I lost yet
 again due to misjudging my opponent's position, so the game ended pretty
-early on in fairly complicated (for me) capturing race. We reviewed
+early on in a fairly complicated (for me) capturing race. We reviewed
 the game for a good bit, and Nate was kind enough to point out the
 mistakes from much earlier in the game that led down the undesirable
 path.
