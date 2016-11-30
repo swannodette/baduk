@@ -40,9 +40,9 @@ still a lot more work to do.
 
 # What I'm Studying
 
-While I've been repeatedly singing the praises of Cho Hun-hyun
+While I've been repeatedly singing the praises of Cho Hun-hyun's
 Lectures, I recently was inspired to browse the final chapter of Yilun
-Yang's book The Fundamental Principles of Go that covers typical
+Yang's book The Fundamental Principles of Go. This chapter covers typical
 invasion/reduction patterns. Over the summer I found all the
 variations baffling and doubted that I could ever make sense of
 it. However after all the time spent on Cho Hun-hyun and In-seong's
@@ -52,7 +52,7 @@ started going through all the variations, trying to both memorize and
 really understand.
 
 The other thing I've been looking closely at is Shusaku vs. Shuwa
-(1851-1852) from Invicible. Considered a masterpiece, I've found this
+(1851-1852) from Invincible. Considered a masterpiece, I've found this
 one of the most enjoyable Shusaku game records to memorize. The game
 doesn't have complex fighting, jaw dropping exchanges, or game
 swinging kos. Shusaku and Shuwa play with a clarity and efficiency
