@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Picking up the pace"
+date:   2016-12-07
+---
+
+To help speed up the pace of my play I've started playing on the
+[Pandanet Go Server](http://pandanet-igs.com/communities/pandanet) (IGS). Funny
+enough that was the very first online Go server I ever played on
+more than fourteen years ago with the
+[Mac OS X Goban](http://www.sente.ch/software/goban3/)
+application. The IGS ranking system requires you play at least 20
+rated games to get a solid rank and after that the system is point
+based. Since it doesn't factor in time like KGS, your rank is less
+prone to wild fluctuations if you don't play that frequently.
+
+I have to say it's a nice change. The Pandanet client looks nice, and
+the server features a simple automatch feature same as KGS. I
+currently have a provisional rank of 10 kyu which means I've been
+playing against opponents in the 10-11 kyu range. Based on my first
+three rated games, I would say that IGS 10 kyu is significantly
+stronger than KGS 10 kyu. I've also played these games with Canadian
+time and that's another welcome change. Getting a bunch more time back
+after playing your 25th move sure takes the heat off during the middle
+and endgame.
+
+Already my openings are becoming less sluggish and I'm happy about that.
+
+Besides that, I've started following two Twitch Go streamers, one
+pretty well known, [hanayeol](https://www.twitch.tv/hanayeol) (6-7 dan
+Korean amateur) and the other one less well known,
+[jellyplaysgo](https://www.twitch.tv/jellyplaysgo) (KGS 4-5 kyu). I
+also ordered a Go book I'd never heard of before,
+[Cho Hunhyun Life and Master Games](http://senseis.xmp.net/?ChoHunhyunLifeAndMasterGames).
+I'll definitely report on that when it arrives!
