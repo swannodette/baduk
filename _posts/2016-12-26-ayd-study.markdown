@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Getting the most out of American Yunguseng Dojang"
+date:   2016-12-26
+---
+
+<div style="float: right; margin-left: 1em;">
+<image style="margin-bottom: 0.5em; padding: 2px; border: 1px solid #ccc;"
+src="http://swannodette.github.io/baduk/assets/images/rank.png"></image>
+<p style="font-size: 11px; padding: 0; margin: 0">Gaining 2 stones in 3 months!</p>
+</div>
+
+I'm only a few days away from starting the 17th season of the American
+Yunguseng Dojang. At this point, I'm unlikely to hit my stated
+November goal of KGS 4 kyu by the end of the year, but that's OK by
+me. In an effort to play more briskly as well as solidify what I
+learned over the past three months, I've been playing many games on
+IGS. I had an old provisional 10 kyu account I never used beyond
+following Japanese pro events, so I decided to see how well I
+would. After 20 games I now have a solid 8 kyu rank, which, as far as
+I can tell, is quite comparable to KGS 5 kyu and the
+[ratings comparison chart seems to confirm this](http://senseis.xmp.net/?RankWorldwideComparison). My
+rated win/loss on IGS so far is 16-5, so I feel confident that my KGS
+rank is close to the mark with respect to my current ability.
+
+Looking at my KGS rank graph over season 16, I can say with even more
+certainty that I think investing in AYD was the right idea for
+improving my game. Still the cost isn't insignificant, and I think to
+get the most out of In-seong's system you have to really take
+advantage of the materials provided and be ready to put
+some time in outside of the scheduled AYD events.
+
+What follows is an idiosyncratic take on how to get the most out of
+In-seong's online school.
+
+# Online reviews
+
+I wish I had done this earlier - you should try to play your AYD game
+at the scheduled time. Getting feedback right after your game while
+it's still fresh in your mind is important. Even if your game isn't
+reviewed you should absolutely stay for the reviews of the
+other games in your league band. While you may initially believe that
+your mistakes are somehow unique or special, sitting through other
+game reviews will quickly disabuse you of that notion. Within a league
+band, you will see many, many similar mistakes whether opening theory,
+patterns, direction of play, endgame, and of course life and
+death. It's watching other game reviews that convinced me to revisit
+my approach to life and death. I no longer feel that there are go
+problems "below" my level.
+
+# Lectures
+
+In-seong's lectures rock. It's a solid mix of theory, philosophy, and
+practical technique. However, at first I thought I should go out of my
+way to make it to the lectures. Now that I have a season under my
+belt, I can say that missing a lecture is not a big deal - not like
+missing the live reviews. You can always watch these later if some
+reason your life schedule makes it hard to attend.
+
+None of this is to say the lectures are not a critical part of AYD, in
+fact, quite the opposite. AYD is more like a school less like a
+one-on-one teaching environment. Game reviews rarely go longer than 15
+minutes, so In-seong will often identify a knowledge or technique gap
+and point out a previous lecture you should watch to fill in those
+gaps. You should take this advice seriously and queue up some time to
+go over this content, likely, a couple of times.
+
+# Books & Tsumego
+
+You should probably continue whatever self-study schedule you had
+before, just make sure it's guided by whatever you're picking up from
+AYD. For me this has been about studying patterns, evaluating a
+position, and doing tons of easy life and death. Currently I'm on
+Essential Life and Death Volume 2 and working my way through the
+1000+ Wbaduk advanced easy problems. The problems are slightly harder
+than Graded Go Problems For beginners Volume 3. Speaking of which, I
+went through that book for the 4th time over a few days. It's a good
+set but I'm now convinced that the Jump Level Up! series is a superior
+approach for understanding these kinds of life and death problems.
+
+# Play lots of Games
+
+You're not going to improve very quickly if you only play AYD
+games. It's important to play faster games outside of AYD to
+solidify what you've learned as well as stretch your ability.
+
+I played 28 games this month, 2 on Tygem, 5 on KGS and 21 on IGS. A
+few were complete disasters like my two blitz games on Tygem, but for
+the most part my games were reasonable wins and losses. I currently
+have a tentative plan to use Tygem for warmup blitz, KGS for medium
+pace games, and IGS for more thoughtful games (Canadian time is just
+better suited for it).
+
+Well that's that. I'm looking forward to see how much I improve in season 17!
