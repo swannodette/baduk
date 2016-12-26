@@ -17,17 +17,17 @@ me. In an effort to play more briskly as well as solidify what I
 learned over the past three months, I've been playing many games on
 IGS. I had an old provisional 10 kyu account I never used beyond
 following Japanese pro events, so I decided to see how well I
-would. After 20 games I now have a solid 8 kyu rank, which, as far as
+would do. After 20 games I now have a solid 8 kyu rank, which, as far as
 I can tell, is quite comparable to KGS 5 kyu and the
 [ratings comparison chart seems to confirm this](http://senseis.xmp.net/?RankWorldwideComparison). My
 rated win/loss on IGS so far is 16-5, so I feel confident that my KGS
 rank is close to the mark with respect to my current ability.
 
-Looking at my KGS rank graph over season 16, I can say with even more
-certainty that I think investing in AYD was the right idea for
-improving my game. Still the cost isn't insignificant, and I think to
-get the most out of In-seong's system you have to really take
-advantage of the materials provided and be ready to put
+Considering this and looking at my KGS rank graph over season 16, I
+can say with even more certainty that I think investing in AYD was the
+right idea for improving my game. Still the cost isn't insignificant,
+and I think to get the most out of In-seong's system you have to
+really take advantage of the materials provided and be ready to put
 some time in outside of the scheduled AYD events.
 
 What follows is an idiosyncratic take on how to get the most out of
@@ -73,7 +73,7 @@ AYD. For me this has been about studying patterns, evaluating a
 position, and doing tons of easy life and death. Currently I'm on
 Essential Life and Death Volume 2 and working my way through the
 1000+ Wbaduk advanced easy problems. The problems are slightly harder
-than Graded Go Problems For beginners Volume 3. Speaking of which, I
+than Graded Go Problems For Beginners Volume 3. Speaking of which, I
 went through that book for the 4th time over a few days. It's a good
 set but I'm now convinced that the Jump Level Up! series is a superior
 approach for understanding these kinds of life and death problems.
