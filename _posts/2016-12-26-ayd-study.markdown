@@ -10,15 +10,16 @@ src="http://swannodette.github.io/baduk/assets/images/rank.png"></image>
 <p style="font-size: 11px; padding: 0; margin: 0">Gaining 2 stones in 3 months!</p>
 </div>
 
-I'm only a few days away from starting the 17th season of the American
-Yunguseng Dojang. At this point, I'm unlikely to hit my stated
-November goal of KGS 4 kyu by the end of the year, but that's OK by
-me. In an effort to play more briskly as well as solidify what I
-learned over the past three months, I've been playing many games on
-IGS. I had an old provisional 10 kyu account I never used beyond
-following Japanese pro events, so I decided to see how well I
-would do. After 20 games I now have a solid 8 kyu rank, which, as far as
-I can tell, is quite comparable to KGS 5 kyu and the
+I'm only a few days away from starting the
+[17th season of the American Yunguseng Dojang](http://ayd.yunguseng.com). At
+this point, I'm unlikely to hit my stated November goal of KGS 4 kyu
+by the end of the year, but that's OK by me. In an effort to play more
+briskly as well as solidify what I learned over the past three months,
+I've been playing many games on IGS. I had an old provisional 10 kyu
+account I never used beyond following Japanese pro events, so I
+decided to see how well I would do. After 20 games I now have a solid
+8 kyu rank, which, as far as I can tell, is quite comparable to KGS 5
+kyu and the
 [ratings comparison chart seems to confirm this](http://senseis.xmp.net/?RankWorldwideComparison). My
 rated win/loss on IGS so far is 16-5, so I feel confident that my KGS
 rank is close to the mark with respect to my current ability.
