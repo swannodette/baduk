@@ -78,7 +78,7 @@ src="http://swannodette.github.io/baduk/assets/images/young_cho.jpg"></image>
 Identified as a prodigy at young age, Cho was sent from Korea to Japan
 to study with the best. Cho came under the tutelage of [Segoe
 Kensaku](http://senseis.xmp.net/?SegoeKensaku). Yes, the very same Segoe Kensaku that took in a young Chinese
-prodigy some forty years earlier who later became known as Go
+prodigy some thirty-five years earlier who later became known as Go
 Seigen. For more information about that I highly recommend [Fairbairn's
 Kamakura](http://senseis.xmp.net/?KamakuraTheBook).
 
