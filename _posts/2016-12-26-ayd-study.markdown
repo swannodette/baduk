@@ -10,16 +10,16 @@ src="http://swannodette.github.io/baduk/assets/images/rank.png"></image>
 <p style="font-size: 11px; padding: 0; margin: 0">Gaining 2 stones in 3 months!</p>
 </div>
 
-I'm only a few days away from starting the
-[17th season of the American Yunguseng Dojang](http://ayd.yunguseng.com). At
-this point, I'm unlikely to hit my stated November goal of KGS 4 kyu
-by the end of the year, but that's OK by me. In an effort to play more
-briskly as well as solidify what I learned over the past three months,
-I've been playing many games on IGS. I had an old provisional 10 kyu
-account I never used beyond following Japanese pro events, so I
-decided to see how well I would do. After 20 games I now have a solid
-8 kyu rank, which, as far as I can tell, is quite comparable to KGS 5
-kyu and the
+The
+[17th season of the American Yunguseng Dojang](http://ayd.yunguseng.com)
+starts in just a few days! At this point, I'm unlikely to hit my
+stated November goal of KGS 4 kyu by the end of the year, but that's
+OK by me. In an effort to play more briskly as well as solidify what I
+learned over the past three months, I've been playing many games on
+IGS. I had an old provisional 10 kyu account I never used beyond
+following Japanese pro events, so I decided to see how well I would
+do. After 20 games I now have a solid 8 kyu rank, which, as far as I
+can tell, is quite comparable to KGS 5 kyu and the
 [ratings comparison chart seems to confirm this](http://senseis.xmp.net/?RankWorldwideComparison). My
 rated win/loss on IGS so far is 16-5, so I feel confident that my KGS
 rank is close to the mark with respect to my current ability.
@@ -32,7 +32,8 @@ really take advantage of the materials provided and be ready to put
 some time in outside of the scheduled AYD events.
 
 What follows is an idiosyncratic take on how to get the most out of
-In-seong's online school.
+In-seong's online school. Don't assume that other members of AYD would
+agree with anything I say here!
 
 # Online reviews
 
@@ -73,7 +74,7 @@ before, just make sure it's guided by whatever you're picking up from
 AYD. For me this has been about studying patterns, evaluating a
 position, and doing tons of easy life and death. Currently I'm on
 Essential Life and Death Volume 2 and working my way through the
-1000+ Wbaduk advanced easy problems. The problems are slightly harder
+1000+ Wbaduk advanced easy problems. The Wbaduk problems are slightly harder
 than Graded Go Problems For Beginners Volume 3. Speaking of which, I
 went through that book for the 4th time over a few days. It's a good
 set but I'm now convinced that the Jump Level Up! series is a superior
@@ -92,4 +93,6 @@ currently have a tentative plan to use Tygem for warmup blitz, KGS for
 medium pace games, and IGS for more thoughtful games (Canadian time is
 just better suited for it).
 
-Well that's that. I'm looking forward to see how much I improve in season 17!
+Well that's that. I'm looking forward to seeing how much I improve in
+season 17. If you're curious about AYD I recommend trying it out for a
+month like I did. As you can probably tell, I ended up pretty hooked!
