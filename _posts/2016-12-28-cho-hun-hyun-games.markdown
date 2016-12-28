@@ -8,7 +8,7 @@ date:   2016-12-28
 src="http://swannodette.github.io/baduk/assets/images/cho_book.jpg"></image>
 
 While the utility of studying master games for weaker players is often
-hotly debated among amateurs, I'm firmly in the the camp that believes
+hotly debated among amateurs, I'm firmly in the camp that believes
 doing so cannot hurt your game. For all the profound reading present
 in a professional game record, they also contain a multitude of moves
 well within the grasp of anyone dedicated to the game. In the
