@@ -47,7 +47,7 @@ treasure and I'd like to describe it detail. While it's out of print
 it shouldn't be too hard to get your hands on a used copy if you like
 what you hear.
 
-The book consists of twenty of commented games. The first twelve are
+The book consists of twenty commented games. The first twelve are
 from Cho's time as a newly minted professional of the Nihon Ki-in. The
 later eight are from Cho's brilliant international career. Cho's
 crowning achievement was defeating Nei Weiping in the very first
@@ -148,7 +148,7 @@ Ch'ang-ho.
 The book ends with a series of brief but rich appendices.
 
 The last appendix of the book is written by the editor of the Japanese
-edition, Shirakawa Masayoshi. He describes all the research done prior
+edition, Shirakawa Masayoshi. He describes the research done prior
 to beginning the project. He spoke to many people to gain insight into
 the kind of person and player that Cho Hun-hyeon was. The following
 are excerpts from a series of interviews that occurred between the
