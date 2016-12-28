@@ -50,7 +50,7 @@ what you hear.
 The book consists of twenty commented games. The first twelve are
 from Cho's time as a newly minted professional of the Nihon Ki-in. The
 later eight are from Cho's brilliant international career. Cho's
-crowning achievement was defeating Nei Weiping in the very first
+crowning achievement was defeating Nie Weiping in the very first
 [Ing Cup](http://senseis.xmp.net/?IngCup). The Ing Cup is often to
 referred to as the "Olympics" of Go due to it's occurrence only once
 every four years. Cho returned to Korea from the Ing Cup a national
