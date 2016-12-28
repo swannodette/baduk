@@ -133,8 +133,8 @@ The second game is between Cho and
 [Shusaku Ear-Reddening game](http://senseis.xmp.net/?EarReddeningMove)
 this is a tale of winning what appears to be a lost game. While it's
 always inspiring to see raw power on display, it's the winning of that
-lost game that's easiest to relate with. In Go, the value of patience
-and tenacity cannot be undervalued.
+lost game that's easiest to relate with. In Go, patience and tenacity
+cannot be undervalued.
 
 The format of the commentaries is consistent. Cho always starts with a
 description of the conditions of the game along with illuminating
