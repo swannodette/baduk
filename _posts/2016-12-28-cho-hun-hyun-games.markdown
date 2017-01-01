@@ -115,10 +115,11 @@ around to studying in any depth so far.
 For example, the first game in the book is young Cho Hun-hyeon against
 a young player you've probably never heard of,
 [Takemiya Masaki](http://senseis.xmp.net/?TakemiyaMasaki). It's an
-Oteia Ranking Tournament game (you may recall this being referenced in
-[Hikaru No Go](http://senseis.xmp.net/?HikaruNoGo)). After an overplay,
-Cho loses control of the game but not without some spectacular
-fireworks.
+[Oteai Ranking Tournament game](http://senseis.xmp.net/?Oteai) (you
+may recall this being referenced in
+[Hikaru No Go](http://senseis.xmp.net/?HikaruNoGo)). After an
+overplay, Cho loses control of the game but not without some
+spectacular fireworks.
 
 <div style="float: left; margin-right: 1em;">
 <image width="400"
