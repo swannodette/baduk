@@ -81,9 +81,9 @@ KGT shop (or even the ones I've taken here).
 
 # The Stones
 
-<image height="400" style="float: right; margin-left: 1em; border: 1px
+<image width="400" style="float: right; margin-left: 1em; border: 1px
 solid black;"
-src="http://swannodette.github.io/baduk/assets/images/stones_above.jp2"></image>
+src="http://swannodette.github.io/baduk/assets/images/stones_above.JPG"></image>
 
 The stones are size 41 (11.6mm) [Blue Label slate and shell
 stones](http://shop.kurokigoishi.co.jp/en/category/15). They are *huge*, far larger than anything I've ever played
@@ -128,7 +128,7 @@ board.
 
 <image height="400" style="clear both; float: right; margin-left: 1em; border: 1px
 solid black;"
-src="http://swannodette.github.io/baduk/assets/images/game_far.jp2"></image>
+src="http://swannodette.github.io/baduk/assets/images/game_far.JPG"></image>
 
 The experience of interacting with Kuroki Goishi was stellar and
 delightfully straightforward. Everything was expertly packed into one
