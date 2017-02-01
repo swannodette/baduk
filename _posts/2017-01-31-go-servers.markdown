@@ -8,21 +8,21 @@ The online Go community seems small only if you exclude yourself from
 the *massive* community of Go players in China, Korea and
 Japan. Recently, I've been spending more and more time on Tygem and Fox
 and I've come to really enjoy it even as I find myself getting beat up
-lot.
+a lot.
 
-What people say is true, there's lots sandbaggers and you frequently
+What people say is true, there's many sandbaggers and you frequently
 encounter some non-verbal rudeness when the game is clearly over. But
-after playing many games on these servers these issues don't really
-bother me anymore. I find myself really, really enjoying the fighting
-heavy play style. It really drives home how weak my middle game really
-is. I'm learning to always check whether an aggressive looking move is
-just an overplay. I'm developing a sense of when to back down or step
-up to a fight. I'm finding games often quickly leave the books where
-I'm left to my own devices and I simply need to *try something*
-instead of burning time trying to calculate (check it in
-review!). These are all weaknesses in my own game so this is welcome game
-experience. Go is such a dynamic and active game and it's refreshing
-for me to see that perspective on Fox and Tygem.
+these issues don't really bother me anymore, and I find myself really,
+really enjoying the fighting heavy play style. It certainly drives home
+how weak my middle game really is. I'm learning to always check
+whether an aggressive looking move is just an overplay. I'm developing
+a sense of when to back down or step up to a fight. I'm finding games
+often quickly leave the books where I'm left to my own devices and I
+simply need to *try something* instead of burning time trying to
+calculate (check it in review!). These are all weaknesses in my own
+game so this is welcome game experience. Go is such a dynamic and
+active game and it's refreshing for me to see that perspective on Fox
+and Tygem.
 
 The only problem is if you're not a Windows users. Until I started
 playing Go, I really had no need for Windows outside of the occasional
