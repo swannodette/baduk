@@ -35,7 +35,7 @@ see just how glaring my mistakes and misconceptions really were.
 
 In games In-seong emphasizes the importance of not only focusing on
 your opponent's weaknesses but also correctly assessing your own. This
-game advice seems to apply just as well to one's approach to
+advice about shape seems to apply just as well to one's approach to
 Go. Perhaps my opponent plays slack moves, or bad exchanges, or
 misreads a life and death situation. Ok, but my own weaknesses if
 unchecked could still hand my opponent the game. Now when I play, I
