@@ -51,7 +51,7 @@ respect now for players around my rank "band" - I can learn from
 players both "stronger" *and* "weaker" than me. I now see my fast
 games as a way to improve the lower bound of my play. While on IGS I'm
 starting to inch forward the upper bound of my play, on Fox I'm slowly
-lifting the lower bound of my play. Thought this improvement isn't
+lifting the lower bound of my play. Though this improvement isn't
 converting into obvious observable results like a more significant
 rank jump, I think very differently about a game that I play now than
 I did in September and I don't think this change is completely
