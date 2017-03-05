@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Fighting"
+date:   2017-03-05
+---
+
+I've been cautiously working a fighting style back into my
+play. When integrating your teacher's feedback, you often find your
+judgment oscillating a bit as you try to reach a new equilibrium. By
+focusing so strongly on making stable games I think my overall game
+has weakened a bit, but that's to be expected.
+
+I'm still playing fast games on Fox Go Server and quite few of these
+tend to have a fighting flavor. But my account there is still only 7 kyu
+so I tend to win most of my games. So my Foxy account is more for
+"reinforcement" learning than it is for pushing my ability.
+
+<div style="float: right; width: 400px; max-height: 585px;
+margin-bottom: 2em;">
+<iframe id="gokibitz-ryKWSaFce" src="//gokibitz.com/kifu/ryKWSaFce"
+style="width: 400px; max-height: 585px; clear: both; display: block; border: 10px
+solid snow;"></iframe> <script
+src="//gokibitz.com/embed/ryKWSaFce"></script>
+<p style="padding-left: 1em; font-size: 12px">Fight!</p>
+</div>
+
+My other active account is IGS, and those games are generally like my
+Yunguseng games, slower and more thoughtful. IGS players aren't afraid
+to fight, but I would say the style overall is balanced.
+
+So where to go for a solid fighting game? Recently I started breathing
+life into my 8 kyu WBaduk account. So far the skill level at 8 kyu
+feels considerably stronger than 8 kyu Foxy. The games have an
+aggressive and active quality but the flow of the games seem more
+principled than Foxy and simple reading blunders less frequent. I
+suspect WBaduk may become my goto fighting account.
+
+I played a really fun WBaduk game today that I feel like in the past would
+have confused me. But I was able to come up with a plan, stick to it,
+and win the game even though it got off to a pretty bad start.
+
+While I don't feel any of these activities are necessarily going to
+push me way past KGS 5 kyu I can *feel* my game evolving. It's taking
+me far less time to come up with an idea and my ideas tend be more
+flexible. My current goal is to push my IGS account to 6 kyu and then
+come back to KGS to see if that's enough to take me to KGS 4 kyu.
+
+We shall see!
+
+## Useful Software
+
+Playing so many games across so many different servers means I've made
+a couple additions to my Go software repertoire 
+
+### MultiGo 
+
+WBaduk uses a different game record file format `.gib`. So I went
+looking for a something to do the conversion to `.sgf` and I came across
+[MultiGo](http://www.ruijiang.com/multigo/). Works great!
+
+### Leela
+
+While I don't find Leela all that interesting for deeper game analysis I
+really love using it for the move predictor. When reviewing critical
+points in games it's interesting to see if Leela considered it a
+highly probable move. It's even more interesting when Leela finds some
+other move more probable - it's a neat way to find your blindspots.
