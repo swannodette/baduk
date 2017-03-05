@@ -50,7 +50,7 @@ We shall see!
 ## Useful Software
 
 Playing so many games across so many different servers means I've made
-a couple additions to my Go software repertoire 
+a couple additions to my Go software repertoire:
 
 ### MultiGo 
 
