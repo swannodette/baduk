@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seattle Go Center"
+title:  "Baduk Tourist: Seattle Go Center"
 date:   2017-04-23
 ---
 
