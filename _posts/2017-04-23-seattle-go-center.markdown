@@ -27,7 +27,7 @@ member quipped that wasn't quite true, and that Lucy was a 3 kyu.
 <image style="float: left; margin-right: 1em;" width="450" src="http://swannodette.github.io/baduk/assets/images/seago2.JPG" />
 
 She was in the middle of teaching several adults as well as children
-how to play. She said she was interested in game. While I waited, I
+how to play. She said she was interested in a game. While I waited, I
 taught a couple of kids the rules on a 7x7 board. After supervising
 their first game, Lucy came over with a 19x19 board and we
 started. She'd been studying seriously for just over a year and was
@@ -43,7 +43,7 @@ that, my endgame feints simply wasn't going to narrow it.
 
 While my opponent thought the outcome would be close based on the
 board, due to the large number of captures I was pretty confident that
-I was behind by much more than komi. Still, I had a lot fun, it'd been
+I was behind by much more than komi. Still, I had a lot of fun, it'd been
 a while since I'd played an even game over a real board.
 
 After the game, I lingered briefly as the volunteers started breaking
