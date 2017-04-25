@@ -9,9 +9,10 @@ I've always wanted to check out the
 gave me the much desired opportunity. While in the end I didn't make
 it to the actual location, I got to spend a couple of enjoyable hours
 hanging out with members from the center. This was possible thanks to
-a Seattle Go Center event for the [Seattle Cherry Blossom festival ]().
+a Seattle Go Center event for the
+[Seattle Cherry Blossom festival ](http://www.seattlego.org/2017/04/20/visit-us-at-the-cherry-blossom-festival/).
 
-The festival was taking place at the Seattle Center right next the
+The festival was taking place at the Seattle Center right next to the
 Space Needle and the Museum of Pop. It was pretty easy to find and
 after a quick lunch, I walked up to second level of the Seattle Center
 and saw a bunch of smiling folks playing 9x9. A few were even dressed
