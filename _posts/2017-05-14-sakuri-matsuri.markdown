@@ -15,7 +15,7 @@ a few years ago but my involvement in the game wasn't yet strong
 enough to get me out there.
 
 My Go friends Ien Cheng and Logan Buckley were also interested in
-intending which provided extra motivation. So we found ourselves early
+attending which provided extra motivation. So we found ourselves early
 Sunday morning piling into my car in Brooklyn to make the first round
 by 10am. The drive was a little over an hour and the scenery of Long
 Island along the way was the pleasant green of springtime.
@@ -78,7 +78,7 @@ ended with a meaningful bit of conversation about our mutual interest
 in Go and that alone makes these games both more memorable and
 enjoyable than my typical IGS or Foxy games.
 
-Funny enough Ien and Logan also came out with 1-3 results! For Ien
+Funny enough, Ien and Logan also came out with 1-3 results. For Ien
 that's actually a big deal since his last AGA rank from US Go Congress
 was 14 kyu. In Logan's case it was his first tournament. As far as I
 could tell, we all had a great time. Along with the games it was also
