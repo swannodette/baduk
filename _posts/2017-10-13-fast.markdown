@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Faster"
+date:   2017-10-13
+---
+
+<image width="375" style="float: right; margin-left: 1em; border: 1px
+solid #cccccc; padding: 2px; margin-bottom: 1em;"
+src="http://swannodette.github.io/baduk/assets/images/fast.png"></image>
+
+> "[Fujisawa Shuko] looked favorably on you because of the speed with which
+> you would play."
+>
+> "That's true. At first I would take two stones ... 
+> Sensei played very quickly. So fast that he made almost no
+> sound putting his stones on the board."
+>
+> "By 'fast' do you mean an hour so a game?"
+>
+> "Not at all! Five or ten minutes."
+>
+> from **Cho Hun-hyun: Life and Master Games**
+
+Recently I've been experimenting with playing extremely fast
+games against 1D bots on KGS. Since these games are high handicap
+games against bots I find that I feel relaxed and detached. As they
+only last 5 to 15 minutes, I can play many, many games in a
+short period of time.
+
+In my even games against humans, even with faster time controls as
+suggested by In-seong (10 minutes main, 3x30 seconds byo-yomi), they
+can still take up to forty minutes. Fewer games means it's harder for
+insights to stick.
+
+When I first started this experiment, I was losing nearly all of my
+games. After about 60 losses over two weeks and dropping back to KGS 6
+kyu, it's been somewhat of a blow to my ego. But it was also
+necessary. I finally started seeing the error of my ways (at least
+at five stones) and I've started winning my games again. I find these
+games train my intuition for defending weaknesses, attacking
+weaknesses, and keeping tabs on the territorial balance.
+
+Very fast games against bots certainly isn't going to become my main
+approach to the game, but it feels essential to treating Go more like
+riding a bicycle and less like a theoretical exercise.
+
+The experience has also opened me up again to the idea of playing high
+handicap games against weaker opponents. Since I'd joined AYD I'd
+stopped doing that as all of the AYD materials are about even
+games. Given my weak middle game, this seems like it would be quite
+useful bring this back into my practice.
