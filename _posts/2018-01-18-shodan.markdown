@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "The Breakthrough to Shodan"
+date:   2018-01-18
+---
+
+<image style="float: right; align: center; border: 1px solid black; padding: 2px;
+margin-bottom: 0.5em; margin-left: 1em;" width="300" src="http://swannodette.github.io/baduk/assets/images/shodan.jpg" />
+
+No, I have not yet made it to shodan. I did, however, finally make it
+to KGS 4 kyu. Other than my AYD games and the occasional WBaduk game,
+I've been training via fast games with dan level bots on KGS. These
+games are played with the handicap adjusted to one less stone than
+appropriate for my current rank. I lose most of these games, but I'm
+also improving at a steady rate.
+
+I've come to a big realization the past couple of months, one that I'd
+heard from stronger players but that I hadn't properly internalized -
+that improving at my level is almost entirely about making fewer
+mistakes. So while reviews of my slower AYD games help identify
+big picture problems with my game (bad habits, misconceptions, playing
+too slowly), understanding an issue in the abstract isn't the same as
+actually training the old noggin' to stop playing those bad moves.
+
+Given the adjusted handicap it's no surprise that my Go is mostly
+lose, lose, lose. But eventually a small light bulb goes off and I
+start trying something a little different and my results improve a
+bit. Then it's lose, lose, lose again - rinse and repeat. I suppose I
+shouldn't be that surprised it's working. If I was a frequent club
+player, I would be requesting games from players two or three stones
+stronger and adjusting the handicap to a bit less than is appropriate
+for my level.
+
+Playing lots of games has had another affect in that books that seemed
+pretty cryptic like Naoki Miyamaoto's book now seem very
+digestible. Don't protect the corner, pincer. Don't go back for the
+corner, push straight through even if you're on the fifth line. Don't
+just blindly play joseki, look at the whole board. All extremely
+simple stuff, I know, but without all these losses it was going in one
+eyeball and out the other.
+
+The only other theory books I've been bothering with lately are Yilun
+Yang's Workshop Lectures, specifically *"How To Choose the Right
+Pincer"* from Volume 2 and *"Choosing the Direction of Attack"* from
+Volume 1 have been particularly useful for my game.
+
+I've also restarted the Jump Level Up! series from Volume 1 and my
+opinion of these books has completely changed since the last time I
+looked at them. In a real game you have to be able to read tricky
+situations quickly. Ideally you can choose the right move in thirty
+seconds or less. That means you need to be able to refute the good looking
+moves that don't actually work in that time as well.
+
+So that's it. Playing faster games against stronger opponents with
+adjusted handicaps and focusing on fast, perfect visualization of easy
+tsumego. My KGS rank is steadily climbing and I'm on another winning
+streak in AYD. So the journey continues!
