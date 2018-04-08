@@ -10,7 +10,7 @@ margin-bottom: 0.5em; margin-left: 1em;" width="400" src="http://swannodette.git
 Back in February, I visited Dublin and had an opportunity to check out
 the local Go scene. After consulting the information on the
 [Irish Go Association](http://www.irish-go.org) website, I decided to
-give a visit to the Collegians Go Club which met 8pm on Wednesday's at
+give a visit to the Collegians Go Club which meets 8pm on Wednesday's at
 [Toners](http://www.tonerspub.ie) off Baggot street. I arrived shortly
 after 9pm to a very bustling, very Irish pub. I made my way further in
 to find a few people playing Go including the gentlemen pictured
