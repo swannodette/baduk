@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "3 kyu"
+date:   2018-04-11
+---
+
+I finally broke through to KGS 3 kyu yesterday. One small tweak that
+I've made to my fast game training regimen is that I play weak bots as
+well with a handicap of one more stone than the rank gap. While I
+enjoy these fast games, I'm also starting to get a bit bored with
+playing HiraBot, DCNN, and AyaBot. I'll likely start adding the
+occasional fast automatch game (with high handicap allowance) to mix
+things up. For slower even games I have AYD and
+[Mostly Go](http://swannodette.github.io/baduk//2016/09/01/mostly-go.html),
+for faster even games Foxy and WBaduk. I've also been firing up
+GoQuest for some fast 9x9 which I find I quite enjoy now.
+
+I've signed up for two New York area tournaments, one hosted by the
+[New York Institute of Go](http://www.ny-go.org) and the other is the
+annual
+[Stonybrook Sakura Matsuri Go Tournament](https://www.facebook.com/events/235184340376716/).
+The former I'm entering as 6 kyu and the later as 5 kyu. Hopefully I
+can show better results over those 8 rounds and give my AGA
+rating (7 kyu) a boost before the [US Go Congress](https://www.gocongress.org).
