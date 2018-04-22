@@ -58,7 +58,7 @@ flowed naturally towards all things Go. It sounded like both Stephen
 and Andrew would be making the Stonybrook tournament in a couple of
 weeks. I asked them if they were planning on attending US Go
 Congress - and they both thought it would be unlikely. We talked
-Hikaru No Go and our favorites pro before rushing to pay the bill to
+Hikaru No Go and our favorite pros before rushing to pay the bill to
 get back for rounds 3 and 4.
 
 <div style="float:right; align: center; padding: 2px; margin-left: 1em;">
