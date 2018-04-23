@@ -63,7 +63,7 @@ get back for rounds 3 and 4.
 
 <div style="float:right; align: center; padding: 2px; margin-left: 1em;">
 <image width="400" src="http://swannodette.github.io/baduk/assets/images/houth.png" />
-<p style="font-size: 12px; margin: 1em 0;">Howard, fellowed AYDer</p>
+<p style="font-size: 12px; margin: 1em 0;">Howard, fellow AYDer</p>
 </div>
 
 Round 3 was against a 10 kyu. This was a 3 stone handicap game. As the
