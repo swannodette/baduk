@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "US Go Congress 2018 Day 5"
+date:   2018-07-25
+---
+
+I got out of the bed at 7 AM and freshened up. Ien Cheng slept in as
+he was on the 9 AM Amtrak back to New York. I grabbed the usual quick
+breakfast and headed to the Sadler Center.
+
+More than than sixty players had signed up for the Diehard so the
+pairings would likely start even and light handicaps would appear
+as the day progressed. The time controls were too short for me to record
+the games via SmartGo. With the exception of the final game I entered
+byo-yomi relatively early in the middle game.
+
+The first game was against Robert Gilman 6 kyu, another AYD member and
+frequent opponent. The fuseki started very badly for me and white
+succeeded at splitting me into two weak black groups. Robert's style
+doesn't often involve severe attacks so I was able to salvage both
+groups but not without white gaining an horrifying amount of solid
+influence in the lower left and center of the board. I played 
+cautiously, slowly encroaching on white's influence from afar.
+
+White ignored the cold hard cash and instead tried to play a bit more
+actively. I slowly chipped away at his lead and in the end was able to
+cut off some white stones and secure quite a bit of territory. The
+game ended with me having a comfortable lead.
+
+So now I was at 3-1.
+
+Unrelated to the outcome, Robert pointed out that that I had a
+horrible habit of hovering my hand over the board when I was in
+byo-yomi. I was embarrassed and I made a mental note to keep my hands
+either on the bowl or on the table unless I was absolutely ready to
+make a move. Unlike a lot of other attendees, I don't actually have
+that much experience at tournaments or clubs and my over-the-board
+etiquette still has a lot of rough edges.
+
+The second round started at 11 AM. This time I was paired with an
+opponent I'd faced at US Go Congress 2016, Tevis Tsai now a 6
+kyu. [I'd lost horribly to him in 2016](http://swannodette.github.io/baduk//2016/08/02/us-go-congress-day4.html). Now
+that he was a bit stronger and I was a bit stronger, I was curious to
+see how things had changed.
+
+Tevis had black and took both star points. He focused on building his
+own framework but not before leaving a weakness. I cut through and due
+to a misread by black I was able to create a lot of strength on the
+left and severely limit his framework. I took sente to claim the right
+side of the board and he immediately invaded. This kicked off a
+running fight that I misjudged and if it wasn't for a missed cut by
+black it would have been a short game.
+ 
+Once I connected the game was much more straightforward. I ended up
+with a considerable amount of territory and black with very little. We
+started to count but stopped as it was clear that white's regions
+dwarfed black's. Keith Arnold 4D, who runs the Baltimore Go Group of
+which Tevis was a member, stopped by and helped with the review. It
+was a fun game and I admit a bit of a lucky win. Again a good portion
+of the game happened in byo-yomi due to some time burned in the
+opening.
+
+I was now at 4-1.
+
+I walked over to the coffee shop next to the Sadler Center and wolfed
+down a sandwhich and headed back for Round 3 at 1:30 PM. This time my
+opponent was Joe Kimball 4 kyu (I believe, self-promoted) from
+Tennessee around the Nashville area. His style was the most active of
+anyone I'd played so far. He had white and he prevented me from
+playing the Chinese. He was able to create a lot of influence and
+break a lot of my chances to gain territory early on. However deep
+into the middle game he missed a weakness and I was able to cut off a
+large string of white stones and swing 20 or 30 points in my favor.
+
+In the endgame I made a silly blunder and lost 8 points, however I
+still won the game by more than komi. 
+
+The fact that Joe may have self-promoted does introduce an interesting
+aside as far as ranks and the AGA. For US Go Congress 2018, Andrew
+Hall, the tournament director, wouldn't allow players to self-promote
+any less than 3 ranks (at which point you are considered unranked). In
+the past, players would often want to self promote one stone, but at
+scale this simply deflates the AGA rank. There was some grumbling
+about this, but I agree with Andrew Hall. There's no value in a
+ranking system if climbing the ladder isn't actually challenging. I
+had at one point intended to play as 5 kyu and changed my mind. If I
+was going to be 5 kyu I should prove it by winning all my games as 6
+kyu!
+
+Now I was 5-1.
+
+My final game was against Larry Russ 3 kyu, a New Jersey fellow
+that frequents the Mostly Go meetup. It was a 2 stone game that I
+should have won, but at this point I was flagging a bit and I just
+couldn't put on my best show. White had two weak running groups
+but I couldn't make any real profit from it. White finished the game
+with a comfortable lead.
+
+So the end result of the day was 5-2, a 71% win rate.
+
+After the tournament, Tevis Tsai invited me to dinner with some single digit
+kyu players from Albuquerque and another nice fellow from the
+Baltimore club who was just starting to dig into Go and was playing as
+a 17 kyu. We took a walk to a decent Thai spot and as expected
+talked about all things Go.
+
+<div style="float:right; align: center; padding: 2px; margin-left: 1em;">
+<image width="500"
+src="http://swannodette.github.io/baduk/assets/images/congress/dan.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">An interesting moment</p>
+</div>
+
+After dinner we headed back. A 4 Dan whose name escapes me at the
+moment that I met through Nate asked if I wanted to play a casual
+game. On Monday evening I'd played a casual game with Nate Eagle in
+which I somehow managed to lose by only 4.5 points.
+
+I wanted to play the game to end relatively quickly so we played an
+even game. For the most part white kept control of the game but we got
+into a very exciting reading situation that I snapped a picture of.
+In the end, I made the wrong choice between salvaging some stones and
+saving the corner. C'est la vie.
+
+Now I was definitely tired. I went downstairs and said farewell
+to In-seong and then headed back to the hotel to catch some much
+needed sleep before my final Open game.
