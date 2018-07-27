@@ -1,0 +1,117 @@
+---
+layout: post
+title:  "US Go Congress 2018 Day 4"
+date:   2018-07-24
+---
+
+This day started off much like the last. A styrofoam bowl of Cheerios
+plus banana and weak coffee before the short walk to the Sadler
+Center. My over all record so far was 1-1, so it was not at all clear
+how the rest of my games would go.
+
+<iframe id="gokibitz-S1jONJY47" src="//gokibitz.com/kifu/S1jONJY47"
+style="width: 450px; min-height: 500px; max-height: 605px; display:
+block; border: 10px solid snow; float: right; margin-left:
+1em;"></iframe> <script src="//gokibitz.com/embed/S1jONJY47"></script>
+
+Again I sat down at my assigned table with a cup of coffee,
+awaited my opponent, and admired the wooden ceiling. While getting to
+Williamsburg was a bit of trouble, it was hard to complain about the
+tournament room. My opponent arrived and this time it was Justine, a 6 kyu
+from the West Coast. It was still a few minutes before 9:00 AM so we
+chatted a bit about Go. This was not only her first Go Congress, but
+her first tournament ever. She played at a fairly active club back at home and
+she was not the only player in attendance. Like myself, she had come
+late to the tournament, so this was actually her first proper day. I
+explained the clocks a bit and the rules around passing stones at the
+end of the game.
+
+This game was relatively straightforward after some light early
+complications. Due to a few slow plays I was able to get a comfortable
+territorial lead and she didn't try anything more aggressive to take
+back control of the game. As this was Justine's first tournament game,
+I suspect a few of the more cautious moves can be attributed to
+that. She pincered at move 10 and then probably blocked on the wrong
+side after I jumped in. The knight's move at 16 was bit strange since
+J3 was oddly placed and white did not have a stone on or around C10.
+
+<div style="float:left; align: center; padding: 2px; margin-right: 1em;">
+<image width="400"
+src="http://swannodette.github.io/baduk/assets/images/congress/staircase.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">The staircase</p>
+</div>
+
+At move 20 I decided to attach, though I wondered if that was too
+early. We both handled it a bit clumsily as was clear by the
+result. After black 49, I thought I was closing in on a clear
+territorial lead. At move 53 I could no longer resist the urge to
+exploit the weakness at H4. After black 95 I thought I had the win and
+the endgame proceeded pretty simply after that. Since there was a lack
+of complications, I managed my time a bit better than yesterday, though I
+still ended up in byo-yomi.
+
+When we counted I had a solid lead. We thanked each other for the game
+and I decided to grab lunch. Ien was playing a rated self pair game
+against another AYDer so I went on a short walk to Aromas Cafe. This
+took me through the pleasant William & Mary campus and I had a relaxed
+lunch on my own before heading back for a review with Yilun Yang at
+3:00 PM.
+
+I got back a bit early and spotted Justine and I invited her to the
+review but she was headed off. So I headed downstaire to the Game Room
+where the review was taking place.
+
+Yilun Yang 7P is one of my favorite authors and lectures on Go. I
+continue to return to his slim distilled books of wisdom time and time
+again. I also really loved his reviews in 2016. He has adds an element
+of humor to his reviews which brings much needed lightness to a win or
+loss. He pointed out a good number of my bad moves and my misreads. At
+the end of the review he looked at my badge and said he thought I was
+stronger than 6 kyu and hoped that I would be a dan one day. That felt
+pretty good.
+
+<div style="float:left; align: center; padding: 2px; margin-right: 1em;">
+<image width="400"
+src="http://swannodette.github.io/baduk/assets/images/congress/inseong_review.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">Reviewing with In-seong</p>
+</div>
+
+Back upstairs I found Ien and several AYDers from the Boston Go scene
+including Shawn Moore 6K, Dan Schmidt 4K, Shawn Ligocki 1K, and Becci
+Torrey 2D. We took the short walk to Greenleaf, a bar with decent
+fare. We had a long relaxed lunch where we discussed our backgrounds
+and our love of Go. One of the interesting tidbits that arose
+was that Dan Schmidt worked on Guitar Hero and Rockband as a software
+developer.
+
+After dinner we returned and relaxed. In-seong did his evening review
+and the AYD crew started to steadily grow around In-seong. I talked
+briefly with fellow student and opponent Yoko Ohashi 6 kyu. She
+learned Go when she was 50 and has been attending US Go congress for
+years! Then while standing around, Lee Ann Bowie the president of the
+Seattle Go Center introduced herself since I had misunderstood how to
+use my lanyard, which she clarified, and we had a long chat about
+Seattle and Go. She also had encountered Go decades ago. As
+articulated by others, I agreed that one of the things that make Go
+Congress so special - that over the board people separated by many
+years can speak as peers. There was in fact a tournament in which
+players must be separated by at least 40 years!
+
+After the review In-seong wanted to head to the pub for a big hangout
+with AYDers, the Korean pros, and other folks from the Congress. We
+picked Greenleaf since they had decent snacks and cheap pitchers. We
+stayed late into the night. Myself and others got to have a nice long
+chat with In-seong about his Go background and his life in Europe.
+As the conversation carried on and the spirits brightened, it felt
+more like family than an unlikely meeting of people known to each
+other only by their truncated KGS handles.
+
+The following day was the off day, so most folks planning on taking it
+easy since they still had three more Open games to look forward
+to. For myself, I was already registered for the 4 round Diehard
+tournament starting at 9 AM the following morning. These games were
+only 30 minutes main time with 5 periods of 30 second byo-yomi.  While
+2-1 was headed in the right direction I wasn't sure what tomorrow
+would bring.
