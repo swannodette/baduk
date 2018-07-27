@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "US Go Congress 2018 Day 3"
+date:   2018-07-23
+---
+
+Ien and I woke up around 7:00 AM, freshened up, and grabbed a quick
+breakfast at the hotel. We arrived at the Sadler Center about fifteen
+or twenty minutes before 9:00 AM when the second round of the Open
+would begin. Traditionally pairings would be printed and taped to a
+wall where you could find your table number, opponent, and color, but
+this year the Congress had its very own mobile app. Besides offering an
+active social feed and schedule (plus bookmarking), the
+app allowed you to see your pairings in the Open.
+
+I quickly found my table and drank the remnants of my coffee while
+I waited for my opponent to arrive. Joshua Haney was a 6 kyu from
+Ohio, all smiles and sporting a Pikachu hat. The fuseki proceeded
+calmly with us claiming our respective areas until around move 25
+when he capped. I tried to setup a base with 26, but Joshua
+persistently wanted to break it. I think move 31 was pretty
+questionable, I probably should have simply blocked at O16.
+
+<iframe id="gokibitz-r1jMyauNm" src="//gokibitz.com/kifu/r1jMyauNm"
+style="width: 450px; min-height: 500px; max-height: 605px; display: block; border: 10px solid
+snow; float: right; margin-left: 1em;"></iframe> 
+<script src="//gokibitz.com/embed/r1jMyauNm"></script>
+
+I cut off black's escape but in the end I felt like I had gained
+little from all the trouble. I tried to restore the territorial
+balance with move 68 at D2. I blundered a bit with a misread at 77 and
+I was still pretty concerned about my weak group at the bottom. At
+this point I wasn't feeling particularly confident about the outcome.
+
+I managed to secure the bottom group and increase my territory on the
+right. Black came in pretty deep with 105 and the resulting push at
+white 122 was painful. Black controlled the damage with 125 but 
+the white cut at N14 brightened my prospects.
+
+At this point I was in byo-yomi and I didn't manage to record the
+remainder of the game. In the end I was able to maintain a small lead
+and win by one and a half points. It was a tough game but mostly of my
+own doing due to my bad choice at move 31.
+
+One problem was that I just used far too much time. I was in byo-yomi
+way before one hundred moves. Joshua ended up using more time as we
+approached the end so our game ended quite late.
+
+<div style="float:left; align: center; padding: 2px; margin-right: 1em;">
+<image width="400"
+src="http://swannodette.github.io/baduk/assets/images/congress/inseong.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">In-seong gives a lecture</p>
+</div>
+
+I caught up with Ien and inquired how his game went. Unfortunately he
+got paired with Tygem 2 kyu player whose AGA rank was lagging at 9
+kyu. He was overpowered in this game, but his opponent was a particularly
+well-mannered and articulate kid and he felt better about the game
+after they reviewed.
+
+Ien and I broke away from the Sadler Center to grab a quick sandwhich
+before In-seong's 1:00 PM and 2:00 PM lectures, New Go Proverbs:
+Chapters 1 and 2. In-seong is a great speaker and these were well
+attended. As he often does in his lectures and in review, when talking
+about how to build real territory, he used the analogy of Monopoly -
+it's important to buy the ground before building the hotel. Like many
+of In-seongs insights, he provides a simple mental picture that's easy
+to recall in the heat of a game.
+
+<div style="float:right; align: center; padding: 2px; margin-left: 1em;">
+<image width="400"
+src="http://swannodette.github.io/baduk/assets/images/congress/cheng_hop.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">Go friends - Jonathan Hop & Ien Cheng</p>
+</div>
+
+After the lecture Ien and I did the usual business of wandering
+around, observing games, and talking to all the other friendly Go
+lovers. I ran into quite a few AYD members, Shawn Moore (sartak), Dan
+Schmidt (dfan), as well as In-seong who had stopped by my board
+briefly during the round to observe. In-seong told me he'd asked my
+opponent about the outcome, but more importantly how much time I had
+used. Sadly his fear that I had used up all my main time far too
+early in the game was confirmed. I was sheepish as In-seong has been
+harping on this problem for nearly a year now. I definitely would try
+to harder to take his advice during the Open as well as Diehard.
+
+Ien wanted to join the Lighting Go Tournament at 7:00 PM and I
+decided I would hang out for moral support. In-seong was also
+participating in the Facebook Elf Go AI simul so I would have quite a
+few interesting things to watch.
+
+The Lighting Go format was pretty intense. Six players of similar strength
+play each other round-robin at the same table and the winner proceeds
+to the next stage. These games are 10 minutes *absolute time*. With
+these time controls, stones literally are flying onto the board. Ien
+lost his first game, but won the next three. Ien had entered Congress
+as a 9 kyu (6 stones stronger than his 15 kyu rating in 2016), so it
+was impressive to watch him hold his own against other 9 and 10 kyus
+in a high speed game.
+
+<div style="float:right; align: center; padding: 2px; margin-left: 1em;">
+<image width="400"
+src="http://swannodette.github.io/baduk/assets/images/congress/elf.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">Review Elf vs. In-seong</p>
+</div>
+
+I would periodically step away from the lightning games to take a look
+at In-seong's Elf game. The game was in a stage that was way too
+complicated for me to understand. After Ien was knocked out of the 
+Lightning Tournament, we both stuck around to see how In-seong's game
+turned out with a bunch of other AYDers. It ended up going nearly four
+hours and In-seong lost by 1.5 points. Those familiar with Go AIs will
+know that amount of the win is not particularly meaningful.
+
+After the game the Facebook folks did a quick analysis of the game and
+noted that In-seong had maintained a fairly even game through the
+early fuseki. However, at one point In-seong haned at the head of
+three stones and Elf cut. Elf's confidence jumped to 80% and did not
+decline after that.
+
+Afterwards everyone was pretty tired including In-seong, so we called
+it a night and headed back to the hotel.
