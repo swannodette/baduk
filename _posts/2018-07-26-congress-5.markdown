@@ -66,14 +66,12 @@ the Chinese Opening a bit in AYD. It's my standard opening, and I used
 it in many games at Congress. Mingjiu did a a great job explaining the
 meaning behind the standard moves and the variations.
 
-<!--
 <div style="float:left; align: center; padding: 2px; margin-right: 1em;">
 <image width="500"
 src="http://swannodette.github.io/baduk/assets/images/congress/atsushi.png"
 />
 <p style="font-size: 12px; margin: 1em 0;">Atsushi Katsura 5P</p>
 </div>
--->
 
 After the lecture, I headed back to get my Open game reviewed. Atsushi
 Katsura 5P was giving kyu level reviews in the Game Room starting at
