@@ -62,10 +62,10 @@ after they reviewed.
 Ien and I broke away from the Sadler Center to grab a quick sandwhich
 before In-seong's 1:00 PM and 2:00 PM lectures, New Go Proverbs:
 Chapters 1 and 2. In-seong is a great speaker and these were well
-attended. As he often does in his lectures and in review, when talking
+attended. As he often does in his lectures and in review, when describing
 about how to build real territory, he used the analogy of Monopoly -
 it's important to buy the ground before building the hotel. Like many
-of In-seongs insights, he provides a simple mental picture that's easy
+of In-seong's insights, he provides a simple analogy that's easy
 to recall in the heat of a game.
 
 <div style="float:right; align: center; padding: 2px; margin-left: 1em;">
@@ -88,7 +88,7 @@ to harder to take his advice during the Open as well as Diehard.
 
 Ien wanted to join the Lighting Go Tournament at 7:00 PM and I
 decided I would hang out for moral support. In-seong was also
-participating in the Facebook Elf Go AI simul so I would have quite a
+participating in the Facebook ELF OpenGo AI simul so I would have quite a
 few interesting things to watch.
 
 The Lighting Go format was pretty intense. Six players of similar strength
@@ -104,21 +104,21 @@ in a high speed game.
 <image width="400"
 src="http://swannodette.github.io/baduk/assets/images/congress/elf.png"
 />
-<p style="font-size: 12px; margin: 1em 0;">Review Elf vs. In-seong</p>
+<p style="font-size: 12px; margin: 1em 0;">Review ELF vs. In-seong</p>
 </div>
 
 I would periodically step away from the lightning games to take a look
-at In-seong's Elf game. The game was in a stage that was way too
+at In-seong's ELF game. The game was in a stage that was way too
 complicated for me to understand. After Ien was knocked out of the 
 Lightning Tournament, we both stuck around to see how In-seong's game
 turned out with a bunch of other AYDers. It ended up going nearly four
 hours and In-seong lost by 1.5 points. Those familiar with Go AIs will
-know that amount of the win is not particularly meaningful.
+know that the territorial score is not especially meaningful.
 
-After the game the Facebook folks did a quick analysis of the game and
+After the game, the Facebook folks did a quick analysis of the game and
 noted that In-seong had maintained a fairly even game through the
 early fuseki. However, at one point In-seong haned at the head of
-three stones and Elf cut. Elf's confidence jumped to 80% and did not
+three stones and ELF cut. ELF's confidence jumped to 80% and did not
 decline after that.
 
 Afterwards everyone was pretty tired including In-seong, so we called
