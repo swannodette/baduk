@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "US Go Congress 2018 Day 6"
+date:   2018-07-26
+---
+
+<iframe id="gokibitz-By1v2WY4m" src="//gokibitz.com/kifu/By1v2WY4m"
+style="width: 450px; min-height: 500px; max-height: 605px; display:
+block; border: 10px solid snow; float: right; margin-left:
+1em;"></iframe> <script
+src="//gokibitz.com/embed/By1v2WY4m"></script>
+
+The last day of the Open. I arrived at Sadler Center with a large
+coffee in hand and checked the pairings. Rematch, Tevis Tsai!  I'm
+sure he hoped to exact a friendly revenge for his loss yesterday.
+Again, Tevis had black, and, again, he took star points. Same as 
+yesterday, I took star points and he approached. I protected the
+corner and then approached his lone upper left stone.
+
+Tevis then made a tight pincer, which I felt wasn't working so well
+with the lower half of the board. I happily took the corner. He then
+protected the lower right corner, and I used a standard invasion, though
+I'm not clear about its effectiveness with black K4 on the board.
+
+I played lightly, and I attached on top of K4 willing to give up the
+two white stones on the left. We got into an early struggle but I was
+able to make at least one eye and move out. Black 43 seemed risky to
+me given the condition of the black stones in lower right. I spent a
+lot of time looking for a way to kill, unsuccessfully, but I at least
+got outside strength as compensation and I decided to invest in
+that with a center move at white 62.
+
+Black invaded which seemed logical, and I played a shoulder hit to
+emphasize the center-facing influence I had built. White needed to
+make a base so I got the upper right area very naturally. At black 77,
+Tevis switched strategies and returned to building his
+framework. Black 79 closed the last invasion point but I was convinced
+white had a better position and turned at move 80. After increasing
+white's influence, I returned to attack the right black group with
+white 100. While I wasn't sure of a win, I was starting to feel good
+about this game. Black struggled and couldn't find a way to make life.
+
+When Black resigned, I still had almost 20 minutes on my
+clock. Finally, I played game where I had spent time on parts of the
+game that deserved it.
+
+6-2! I was happy with this result and decided to take the remainder
+of the day off from playing rated games.
+
+<div style="float:right; align: center; padding: 2px; margin-left: 1em;">
+<image width="500"
+src="http://swannodette.github.io/baduk/assets/images/congress/mingjiu.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">Mingjiu Jiang 7P</p>
+</div>
+
+I went downstairs and joined up with the Shawn Moore and David Rolsky
+and we went to a nice spot down the street from Greenleaf. Shawn
+Ligocki and Becci Torrey made an appearance later, but David and I
+split off to catch the Mingjiu Jiang 7P lecture on sabaki in the early
+fuseki. 
+
+The lecture was meant for players 5 kyu or stronger, but I
+found that the content was not beyond me. It helped that I had studied
+the Chinese Opening a bit in AYD. It's my standard opening, and I used
+it in many games at Congress. Mingjiu did a a great job explaining the
+meaning behind the standard moves and the variations.
+
+<!--
+<div style="float:left; align: center; padding: 2px; margin-right: 1em;">
+<image width="500"
+src="http://swannodette.github.io/baduk/assets/images/congress/atsushi.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">Atsushi Katsura 5P</p>
+</div>
+-->
+
+After the lecture, I headed back to get my Open game reviewed. Atsushi
+Katsura 5P was giving kyu level reviews in the Game Room starting at
+3:00 PM. I arrived a bit late so there was already a pretty long line
+of folks in front of me. Satoru Inoue 1D was translating. I had
+learned of Satoru through
+[Ben Hong's fantastic blog](http://bengozen.com). He did a great job,
+and I hoped I would be able to get a review in. Unfortunately, the
+reviews went a bit long, but as usual I found that watching the other
+reviews was incredibly informative. Atsushi Katsura's comments and
+insights were applicable beyond specific games.
+
+Afterwards, I joined up with the Boston AYDers and headed to a nice
+sandwhich shop. During the lunch conversation,
+[Osaka Go Camp](http://osakago.byethost22.com/camp.html?i=1) came up
+which both Becci Torrey and Shawn Ligocki had attended. A 3-week
+affair led by Meada Ryo, it sounded like an amazing way to immerse
+yourself into Go in Japan. In-seong also does Go camps, but they are
+briefer events in Europe. Still, a 3-day camp in the United States
+would be pretty amazing and the Boston AYDers had mentioned it
+to In-seong, and he said he would consider it. Fingers crossed.
+
+Back at the Sadler center, I relaxed and observed some games. The Pair
+Go Tournament would be starting at 7:00 PM, and I thought I might
+watch it a bit. Dan Schmidt 4K wanted to play a casual no-komi game,
+and I obliged. We both played some questionable moves, but Dan was
+leading territorially.  However, towards the end of the middle game
+Dan overplayed, and I was able to swing a twenty point gain and
+finished with a 7 point lead. It was a lot of fun, and probably a good
+reminder to be a bit more patient in the beginning and avoid
+complications.
+
+It was my last evening, so I grabbed Nate Eagle for some drinks at
+Greenleaf. We ended up talking late into the night about Go, life, and
+pretty much everything else. Nate was doing an incredible job
+co-running Congress this year with Diego, and they deserve praise for
+their efforts and attention to detail. It was getting late, and while
+US Go Congress 2018 was at an end for myself, Nate still had two more
+days to oversee. With misty eyes we hugged, and I headed back to my
+hotel.
