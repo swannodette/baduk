@@ -6,7 +6,7 @@ date:   2018-07-24
 
 This day started off much like the last. A styrofoam bowl of Cheerios
 plus banana and weak coffee before the short walk to the Sadler
-Center. My over all record so far was 1-1, so it was not at all clear
+Center. My overall record so far was 1-1, so it was not at all clear
 how the rest of my games would go.
 
 <iframe id="gokibitz-S1jONJY47" src="//gokibitz.com/kifu/S1jONJY47"
@@ -22,15 +22,15 @@ from the West Coast. It was still a few minutes before 9:00 AM so we
 chatted a bit about Go. This was not only her first Go Congress, but
 her first tournament ever. She played at a fairly active club back at home and
 she was not the only player in attendance. Like myself, she had come
-late to the tournament, so this was actually her first proper day. I
-explained the clocks a bit and the rules around passing stones at the
+late to the tournament, so this was her first proper day. I
+clarified the Ing game clocks and the AGA rules around passing stones at the
 end of the game.
 
-This game was relatively straightforward after some light early
-complications. Due to a few slow plays I was able to get a comfortable
-territorial lead and she didn't try anything more aggressive to take
+This game was relatively straightforward after some light, early
+complications. Due to a few slow plays, I was able to get a comfortable
+territorial lead and she didn't try anything aggressive to take
 back control of the game. As this was Justine's first tournament game,
-I suspect a few of the more cautious moves can be attributed to
+I suspected a few of the cautious moves could be attributed to
 that. She pincered at move 10 and then probably blocked on the wrong
 side after I jumped in. The knight's move at 16 was bit strange since
 J3 was oddly placed and white did not have a stone on or around C10.
@@ -39,37 +39,37 @@ J3 was oddly placed and white did not have a stone on or around C10.
 <image width="400"
 src="http://swannodette.github.io/baduk/assets/images/congress/staircase.png"
 />
-<p style="font-size: 12px; margin: 1em 0;">The staircase</p>
+<p style="font-size: 12px; margin: 1em 0;">The lobby staircase</p>
 </div>
 
 At move 20 I decided to attach, though I wondered if that was too
-early. We both handled it a bit clumsily as was clear by the
-result. After black 49, I thought I was closing in on a clear
-territorial lead. At move 53 I could no longer resist the urge to
-exploit the weakness at H4. After black 95 I thought I had the win and
-the endgame proceeded pretty simply after that. Since there was a lack
-of complications, I managed my time a bit better than yesterday, though I
-still ended up in byo-yomi.
+early (later Yilun Yang 7P confirmed). We both handled my complication
+a bit clumsily as was clear by the result. After black 49, I thought I
+was closing in on a clear territorial lead. At move 53 I could no
+longer resist the urge to exploit the weakness at H4. After black 95, I
+thought I had the win and the endgame proceeded simply after
+that. Due to the a lack of complications, I managed my time a bit
+better than yesterday, though I still ended up in byo-yomi.
 
 When we counted I had a solid lead. We thanked each other for the game
 and I decided to grab lunch. Ien was playing a rated self pair game
-against another AYDer so I went on a short walk to Aromas Cafe. This
+against another AYDer, so I went on a short walk to Aromas Cafe. This
 took me through the pleasant William & Mary campus and I had a relaxed
 lunch on my own before heading back for a review with Yilun Yang at
 3:00 PM.
 
 I got back a bit early and spotted Justine and I invited her to the
-review but she was headed off. So I headed downstaire to the Game Room
-where the review was taking place.
+review but she was headed off. I headed downstairs to the Game Room
+where the reviews were taking place.
 
 Yilun Yang 7P is one of my favorite authors and lecturers on Go. I
 continue to return to his slim distilled books of wisdom time and time
-again. I also really loved his reviews in 2016. He adds an element
-of humor to his reviews which brings much needed lightness to a win or
-loss. He pointed out a good number of my bad moves and my misreads. At
-the end of the review he looked at my badge and said he thought I was
-stronger than 6 kyu and hoped that I would be a dan one day. That felt
-pretty good.
+again. I also really loved his reviews at the Congress in 2016. He
+adds an element of humor to his reviews which brings a much needed
+lightness to a win or loss. He pointed out a good number of my bad
+moves and my misreads. At the end of the review he looked at my badge
+and said he thought I was stronger than 6 kyu and hoped that I would
+be a dan one day. That felt pretty good.
 
 <div style="float:left; align: center; padding: 2px; margin-right: 1em;">
 <image width="400"
@@ -78,7 +78,7 @@ src="http://swannodette.github.io/baduk/assets/images/congress/inseong_review.pn
 <p style="font-size: 12px; margin: 1em 0;">Reviewing with In-seong</p>
 </div>
 
-Back upstairs I found Ien and several AYDers from the Boston Go scene
+Back upstairs, I found Ien and several AYDers from the Boston Go scene
 including Shawn Moore 6K, Dan Schmidt 4K, Shawn Ligocki 1K, and Becci
 Torrey 2D. We took the short walk to Greenleaf, a bar with decent
 fare. We had a long relaxed lunch where we discussed our backgrounds
@@ -97,9 +97,9 @@ Seattle and Go. She also had encountered Go decades ago. As
 articulated by others, I agreed that one of the things that make Go
 Congress so special - that over the board people separated by many
 years can speak as peers. There was in fact a tournament in which
-players must be separated by at least 40 years!
+players must be separated by at least 40 years.
 
-After the review In-seong wanted to head to the pub for a big hangout
+After the review, In-seong wanted to head to the pub for a big hangout
 with AYDers, the Korean pros, and other folks from the Congress. We
 picked Greenleaf since they had decent snacks and cheap pitchers. We
 stayed late into the night. Myself and others got to have a nice long
