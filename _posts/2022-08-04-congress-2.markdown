@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "US Go Congress 2022 Day 2"
+date:   2022-08-04
+---
+
+<iframe id="gokibitz-HkHTbQqac" src="https://gokibitz.com/kifu/HkHTbQqac"
+style="width: 400px; min-height: 555px; max-height: 555px; display:
+block; border: 10px solid snow; float: right; margin-left:
+1em;"></iframe> <script src="https://gokibitz.com/embed/HkHTbQqac"></script>
+
+The jetlag made it a bit difficult to get a truly restful sleep, but I
+was able to squeeze in about 7 hours. I got to the Assembly Hall about
+30 minutes before Round 3 started, snarfed down a light breakfast and
+poured myself a big cup of coffee. I felt less jittery than yesterday,
+but definitely still felt a bit nervous.
+
+Our game ended up feeling complicated though overall I felt like I had
+the lead. After white (me) made some fairly large early gains my
+opponent did take the right strategy which was to make the game
+complicated and try to force a mistake. This made the game go on for a
+bit longer than expected but eventually they resigned.
+
+
+In my own estimation, allowing white to surround the lower black
+group in sente pushed the game strongly into white's favor. The white
+cut at move 124 more less finished the game. Black tried hard but
+the overplay of 139 simplified the game even more. There was
+simply no place for black to run.
+
+<div style="float:left; align: center; padding: 2px; margin-right: 1em;">
+<image width="500"
+src="http://swannodette.github.io/baduk/assets/images/inseong22_1.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">In-seong Kyu Reviews</p>
+</div>
+
+Still I didn't find myself taking anything for granted in the game. In
+the last three games due to being around 6.1 kyu, I had to take white.
+I always feel slightly uncomfortable with white because in some sense
+the goal is to counter black's plans. So while I felt positive during the
+game and perhaps even a little impatient towards the end when it was
+clear black had no chances, I never assumed that I might not make a
+mistake and give away a clear win. This has happened to me so many
+times before. In fact, In-seong sez I have a hard time converting my
+level of play into results - and that when I'm winning I often become
+paralyzed rather than just looking for the most obvious things to
+do. Some of that of course has to do with time trouble, but a
+considerable part of the issue is definitely psychological.
+
+As far as time control, my first three rated games have been reasonable.
+I definitely hit byo sooner than my opponents but it was consistently well
+into the middlegame or late middle game. In the US Open game I still had
+20+ minutes on the clock.
+
+Later in the afternoon while taking a break from In-seong's kyu review
+session, I reviewed the Open game a bit myself and noticed some minor
+things but nothing show stopping. Running the game through KGS AI
+confirmed my feeling that black was never able to find a chance and
+the gap at the end was quite large (60+ points).
+
+After dinner, I was really flagging. It'd been a hot day, and perhaps
+I hadn't stayed quite hydrated enough. I almost called it quits, but
+in the end headed over late to observe the Pair Go and see if I could
+muster myself to a self-pair game. Walking around checking out the boards
+I of course ran into some old Go friends and made some new ones. Feeling
+pretty beat I decided to turn in and save my energy for the next day.
+
+I may or may not play an IGS blitz game before I fall asleep.
