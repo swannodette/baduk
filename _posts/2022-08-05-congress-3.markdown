@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "US Go Congress 2022 Day 3"
+date:   2022-08-05
+---
+
+<div style="float:left; align: center; padding: 2px; margin-right: 1em;">
+<image width="500"
+src="http://swannodette.github.io/baduk/assets/images/congress22_4.png"
+/>
+<p style="font-size: 12px; margin: 1em 0;">Round 4 getting started</p>
+</div>
+
+Day 3 didn't go as well as the previous two days. I lost both in the
+Open Round as well in a self-pair game later in the afternoon. In both
+cases, it came down to a lack of game experience as In-seong likes to
+say. I'll get to lack of game experience in a bit. Even though my
+condition was poor, today was probably the most fun day I had at
+the Congress so far. Particularly the AYD social gathering in the
+evening where I finally got to put faces to KGS handles I've been
+playing for years.
+
+Again the day started off with less restful sleep than I would have
+liked, but I powered through with a large cup of coffee. I had white,
+and the game went well for me until a life and death blunder.  Without
+a doubt, I deserved to lose this game and commended my opponent on
+their patient play. They certainly had the thing I am missing - game
+experience.
+
+<iframe id="gokibitz-H1dWzyhac" src="https://gokibitz.com/kifu/H1dWzyhac"
+style="width: 400px; min-height: 555px; max-height: 555px; display:
+block; border: 10px solid snow; float: right; margin-left:
+1em;"></iframe> <script src="https://gokibitz.com/embed/H1dWzyhac"></script>
+
+I got lunch and talked to some Go friends. One was Andrew McGowan, a
+jazz piano player who I used to see at NYC area tournaments. He was
+playing at 1K and doing quite well in the Open.
+
+After lunch, I played a game with Kacey Saff another AYDer. It ended
+in a 0.5 loss for me. We seemed pretty evenly matched, it was an active
+game that ended with the board well divided.
+
+I got some delicious BBQ for dinner, and after a break I went to
+observe some games in the Assembly Hall. After chatting with
+some folks, I observed the 9x9 tournament for about 45 minutes. I
+don't play much 9x9 anymore, but observing the games was reminder how
+fun it can be - so much life and death practice!
+
+I then headed over to the Dakota Cabin for the AYD social gathering.
+After a quick 3D game review, everybody relaxed and chatted. I got
+to meet so many of my past opponents face to face, Gurujeet Khalsa,
+Mark Rubinstein, John Gipson, Frank Brown and many others. AYDers are
+such an enthusiastic group and our shared appreciation for In-seong's
+school was palpable.
+
+Of course, the topic of game experience came up. In-seong noted that a
+common obstacle for improvement is not realizing that AYD is medicine,
+not a regular diet. In addition to medicine, the students have to eat
+breakfast, lunch and dinner. This is game experience - regular,
+consistent play.
+
+Sure over the past 6 years I've played hundreds of game. But on
+average, I don't play much more than the required fives games a month
+in AYD. And my tournament results so far are a direct reflection of this
+gap in my Go.
+
+As a point of comparison, about four years ago I established a strong
+routine around music practice - guitar and piano. Now I simply can't
+think of a letting a day go by without practicing for less than 45
+minutes. If I let some time pass by without practicing out of necessity
+(like being at Go Congress), when I return, I really feel the missed
+time in my fingers. Sure some things might sound ok but overall there
+is a lack of smooth consistency given by regular practice. Of course,
+this passes but you can't expect the first few days of practice coming
+back from a break to sound very good.
+
+So why don't I exercise Go more? Often when I login to KGS or IGS, I watch
+some games, and then promptly come up with excuses not to play. One
+problem of course is simply time. An hour or more needs to be
+alloted. But now that In-seong has said fast games are fine, that's not
+much of an excuse. Of course, ladder anxiety factors into this - but
+this is of course completely backwards. If you exercise, you improve!
+Not immediately, not tomorrow, maybe not even in six months, maybe not
+even two years. But as In-seong sez, you will have muscles, and those
+muscles will be backed up by theory and technique gathered from slower
+games and regular lessons. Eventually you will see results.
+
+If you don't exercise, nothing much is going to happen. Lessons aren't
+going to help. One hilarious In-seong description of my game is that
+I'm like a 7 year old who knows kung-fu. Against a cold-blooded street
+fighter with big muscles, I'm bound to lose.
+
+With these thoughts in mind, I played two fast IGS games (5 minutes
+for 25 move) last night after the AYD gathering. Neither lasted longer
+than 25 minutes. In the first game I won on time - even though I was
+losing on the board. In the second, I was on the verge of playing the
+winning move to live and sail towards a 20+ point victory when my
+opponent resigned.
+
+Were these high quality games? No. Did the results really matter?
+No. But they were good exercise.
+
+Getting a proper routine going takes effort but it's mostly about
+momentum. After Congress I'd like to experiment with playing one 20-25
+minutes game in the morning with a cup of coffee, and one in the
+evening - the goal being that letting a week go by without at
+least 5 very fast games should feel as impossible as letting a
+day go by without picking up the guitar and reading some music.
